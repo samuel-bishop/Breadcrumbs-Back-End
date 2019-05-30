@@ -1,0 +1,49 @@
+Sat, 13 Apr 2019 07:35:22 GMT: SessionID: getuser
+Sat, 13 Apr 2019 07:35:22 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:35:23 GMT: Verified?: 1
+Sat, 13 Apr 2019 07:35:23 GMT: Getting user: tes
+Sat, 13 Apr 2019 07:35:23 GMT: {"recordsets":[[{"UserID":31,"UserName":"tes","Email":"myerstucker@gmail.com","FirstName":"Tucker","LastName":"Myers","Auth":"9i08ik3ah0t1dfppnpv0wwmi"}]],"recordset":[{"UserID":31,"UserName":"tes","Email":"myerstucker@gmail.com","FirstName":"Tucker","LastName":"Myers","Auth":"9i08ik3ah0t1dfppnpv0wwmi"}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 07:35:24 GMT: SessionID: getactiveevent
+Sat, 13 Apr 2019 07:35:24 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:35:24 GMT: Verified?: 1
+Sat, 13 Apr 2019 07:35:25 GMT: Active Event
+Sat, 13 Apr 2019 07:35:25 GMT: [object Object]
+Sat, 13 Apr 2019 07:35:25 GMT: SessionID: getinactiveevents
+Sat, 13 Apr 2019 07:35:25 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:35:26 GMT: Verified?: 1
+Sat, 13 Apr 2019 07:36:02 GMT: SessionID: getuser
+Sat, 13 Apr 2019 07:36:02 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:36:02 GMT: Verified?: 1
+Sat, 13 Apr 2019 07:36:02 GMT: Getting user: tes
+Sat, 13 Apr 2019 07:36:03 GMT: {"recordsets":[[{"UserID":31,"UserName":"tes","Email":"myerstucker@gmail.com","FirstName":"Tucker","LastName":"Myers","Auth":"9i08ik3ah0t1dfppnpv0wwmi"}]],"recordset":[{"UserID":31,"UserName":"tes","Email":"myerstucker@gmail.com","FirstName":"Tucker","LastName":"Myers","Auth":"9i08ik3ah0t1dfppnpv0wwmi"}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 07:36:03 GMT: SessionID: getactiveevent
+Sat, 13 Apr 2019 07:36:03 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:36:04 GMT: Verified?: 1
+Sat, 13 Apr 2019 07:36:05 GMT: Active Event
+Sat, 13 Apr 2019 07:36:05 GMT: [object Object]
+Sat, 13 Apr 2019 07:37:21 GMT: SessionID: getuser
+Sat, 13 Apr 2019 07:37:21 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:37:22 GMT: Verified?: 1
+Sat, 13 Apr 2019 07:37:22 GMT: Getting user: tes
+Sat, 13 Apr 2019 07:37:23 GMT: {"recordsets":[[{"UserID":31,"UserName":"tes","Email":"myerstucker@gmail.com","FirstName":"Tucker","LastName":"Myers","Auth":"9i08ik3ah0t1dfppnpv0wwmi"}]],"recordset":[{"UserID":31,"UserName":"tes","Email":"myerstucker@gmail.com","FirstName":"Tucker","LastName":"Myers","Auth":"9i08ik3ah0t1dfppnpv0wwmi"}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 07:37:23 GMT: SessionID: getactiveevent
+Sat, 13 Apr 2019 07:37:23 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:37:24 GMT: Verified?: 1
+Sat, 13 Apr 2019 07:37:25 GMT: Active Event
+Sat, 13 Apr 2019 07:37:25 GMT: [object Object]
+Sat, 13 Apr 2019 07:37:25 GMT: SessionID: getinactiveevents
+Sat, 13 Apr 2019 07:37:25 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:37:25 GMT: Verified?: 1
+Sat, 13 Apr 2019 07:38:40 GMT: SessionID: getuser
+Sat, 13 Apr 2019 07:38:40 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:38:41 GMT: Verified?: 1
+Sat, 13 Apr 2019 07:38:41 GMT: Getting user: tes
+Sat, 13 Apr 2019 07:38:41 GMT: {"recordsets":[[{"UserID":31,"UserName":"tes","Email":"myerstucker@gmail.com","FirstName":"Tucker","LastName":"Myers","Auth":"9i08ik3ah0t1dfppnpv0wwmi"}]],"recordset":[{"UserID":31,"UserName":"tes","Email":"myerstucker@gmail.com","FirstName":"Tucker","LastName":"Myers","Auth":"9i08ik3ah0t1dfppnpv0wwmi"}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 07:38:42 GMT: SessionID: getactiveevent
+Sat, 13 Apr 2019 07:38:42 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:38:42 GMT: Verified?: 1
+Sat, 13 Apr 2019 07:38:43 GMT: Active Event
+Sat, 13 Apr 2019 07:38:43 GMT: [object Object]
+Sat, 13 Apr 2019 07:38:43 GMT: SessionID: getinactiveevents
+Sat, 13 Apr 2019 07:38:43 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:38:44 GMT: Verified?: 1

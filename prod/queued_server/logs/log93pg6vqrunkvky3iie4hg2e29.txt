@@ -1,0 +1,28 @@
+Sat, 13 Apr 2019 08:07:18 GMT: SessionID: getuser
+Sat, 13 Apr 2019 08:07:18 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:07:19 GMT: Verified?: 1
+Sat, 13 Apr 2019 08:07:21 GMT: SessionID: getactiveevent
+Sat, 13 Apr 2019 08:07:21 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:07:21 GMT: Verified?: 1
+Sat, 13 Apr 2019 08:07:22 GMT: No Active Event
+Sat, 13 Apr 2019 08:07:22 GMT: SessionID: getinactiveevents
+Sat, 13 Apr 2019 08:07:22 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:07:23 GMT: Verified?: 1
+Sat, 13 Apr 2019 08:07:25 GMT: SessionID: getactiveevent
+Sat, 13 Apr 2019 08:07:25 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:07:26 GMT: Verified?: 1
+Sat, 13 Apr 2019 08:07:27 GMT: No Active Event
+Sat, 13 Apr 2019 08:07:50 GMT: SessionID: getuser
+Sat, 13 Apr 2019 08:07:50 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:07:51 GMT: Verified?: 1
+Sat, 13 Apr 2019 08:07:52 GMT: SessionID: getactiveevent
+Sat, 13 Apr 2019 08:07:52 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:07:53 GMT: Verified?: 1
+Sat, 13 Apr 2019 08:07:54 GMT: No Active Event
+Sat, 13 Apr 2019 08:07:54 GMT: SessionID: getinactiveevents
+Sat, 13 Apr 2019 08:07:54 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:07:55 GMT: Verified?: 1
+Sat, 13 Apr 2019 08:07:57 GMT: SessionID: getactiveevent
+Sat, 13 Apr 2019 08:07:57 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:07:58 GMT: Verified?: 1
+Sat, 13 Apr 2019 08:07:59 GMT: No Active Event

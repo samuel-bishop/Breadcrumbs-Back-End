@@ -1,0 +1,29 @@
+Wed, 01 May 2019 17:53:10 GMT: SessionID: getuser
+Wed, 01 May 2019 17:53:10 GMT: SessionID: verifyauth
+Wed, 01 May 2019 17:53:11 GMT: Verified?: 1
+Wed, 01 May 2019 17:53:12 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 17:53:12 GMT: SessionID: verifyauth
+Wed, 01 May 2019 17:53:13 GMT: Verified?: 1
+Wed, 01 May 2019 17:53:13 GMT: No Active Event
+Wed, 01 May 2019 17:53:13 GMT: SessionID: getinactiveevents
+Wed, 01 May 2019 17:53:13 GMT: SessionID: verifyauth
+Wed, 01 May 2019 17:53:14 GMT: Verified?: 1
+Wed, 01 May 2019 17:53:15 GMT: SessionID: getcontacts
+Wed, 01 May 2019 17:53:15 GMT: SessionID: verifyauth
+Wed, 01 May 2019 17:53:16 GMT: Verified?: 1
+Wed, 01 May 2019 17:53:25 GMT: SessionID: newcontact
+Wed, 01 May 2019 17:53:25 GMT: SessionID: verifyauth
+Wed, 01 May 2019 17:53:26 GMT: Verified?: 1
+Wed, 01 May 2019 17:53:27 GMT: Insert Contact -- Name: Sam
+Wed, 01 May 2019 17:53:27 GMT: Contact inserted
+Wed, 01 May 2019 17:53:31 GMT: SessionID: getcontacts
+Wed, 01 May 2019 17:53:31 GMT: SessionID: verifyauth
+Wed, 01 May 2019 17:53:32 GMT: Verified?: 1
+Wed, 01 May 2019 17:53:52 GMT: SessionID: newevent
+Wed, 01 May 2019 17:53:52 GMT: SessionID: verifyauth
+Wed, 01 May 2019 17:53:53 GMT: Verified?: 1
+Wed, 01 May 2019 17:53:53 GMT: Creating event for UserID: 66
+Wed, 01 May 2019 17:53:53 GMT: null
+Wed, 01 May 2019 17:53:53 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 17:53:53 GMT: SessionID: verifyauth
+Wed, 01 May 2019 17:53:54 GMT: Contact Created

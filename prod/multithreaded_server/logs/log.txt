@@ -1,0 +1,205 @@
+Thu, 02 May 2019 18:54:17 GMT: SessionID: getuserid
+Thu, 02 May 2019 18:54:17 GMT: In get UserID
+Thu, 02 May 2019 18:54:18 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 02 May 2019 18:54:18 GMT: SessionID: confirmuser
+Thu, 02 May 2019 18:54:18 GMT: Username:tuckersaccount
+Thu, 02 May 2019 18:58:15 GMT: SessionID: getuserid
+Thu, 02 May 2019 18:58:15 GMT: In get UserID
+Thu, 02 May 2019 18:58:16 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 02 May 2019 18:58:16 GMT: SessionID: confirmuser
+Thu, 02 May 2019 18:58:16 GMT: Username:tuckersaccount
+Thu, 02 May 2019 19:14:23 GMT: SessionID: getuserid
+Thu, 02 May 2019 19:14:23 GMT: In get UserID
+Thu, 02 May 2019 19:14:24 GMT: {"recordsets":[[{"UserID":66}]],"recordset":[{"UserID":66}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 02 May 2019 19:14:24 GMT: SessionID: confirmuser
+Thu, 02 May 2019 19:14:24 GMT: Username:sam4
+Thu, 02 May 2019 19:33:15 GMT: SessionID: getuserid
+Thu, 02 May 2019 19:33:15 GMT: In get UserID
+Thu, 02 May 2019 19:33:16 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 02 May 2019 19:33:16 GMT: SessionID: confirmuser
+Thu, 02 May 2019 19:33:16 GMT: Username:tuckersaccount
+Thu, 02 May 2019 19:52:57 GMT: SessionID: getuserid
+Thu, 02 May 2019 19:52:57 GMT: In get UserID
+Thu, 02 May 2019 19:52:58 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 02 May 2019 19:52:58 GMT: SessionID: confirmuser
+Thu, 02 May 2019 19:52:58 GMT: Username:tuckersaccount
+Thu, 02 May 2019 19:53:46 GMT: SessionID: getuserid
+Thu, 02 May 2019 19:53:46 GMT: In get UserID
+Thu, 02 May 2019 19:53:47 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 02 May 2019 19:53:47 GMT: SessionID: confirmuser
+Thu, 02 May 2019 19:53:47 GMT: Username:tuckersaccount
+Thu, 02 May 2019 20:16:02 GMT: SessionID: getuserid
+Thu, 02 May 2019 20:16:02 GMT: In get UserID
+Thu, 02 May 2019 20:16:03 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 02 May 2019 20:16:03 GMT: SessionID: confirmuser
+Thu, 02 May 2019 20:16:03 GMT: Username:tuckersaccount
+Thu, 02 May 2019 20:25:33 GMT: SessionID: getuserid
+Thu, 02 May 2019 20:25:33 GMT: In get UserID
+Thu, 02 May 2019 20:25:33 GMT: {"recordsets":[[{"UserID":66}]],"recordset":[{"UserID":66}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 02 May 2019 20:25:34 GMT: SessionID: confirmuser
+Thu, 02 May 2019 20:25:34 GMT: Username:sam4
+Thu, 02 May 2019 23:41:21 GMT: SessionID: getuserid
+Thu, 02 May 2019 23:41:21 GMT: In get UserID
+Thu, 02 May 2019 23:41:22 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Thu, 02 May 2019 23:43:46 GMT: SessionID: getuserid
+Thu, 02 May 2019 23:43:46 GMT: In get UserID
+Thu, 02 May 2019 23:43:46 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Thu, 02 May 2019 23:47:23 GMT: SessionID: getuserid
+Thu, 02 May 2019 23:47:23 GMT: In get UserID
+Thu, 02 May 2019 23:47:24 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 02 May 2019 23:47:24 GMT: SessionID: confirmuser
+Thu, 02 May 2019 23:47:24 GMT: Username:tuckersaccount
+Thu, 02 May 2019 23:55:47 GMT: SessionID: getuserid
+Thu, 02 May 2019 23:55:47 GMT: In get UserID
+Thu, 02 May 2019 23:55:48 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Sun, 05 May 2019 00:42:36 GMT: SessionID: getuserid
+Sun, 05 May 2019 00:42:36 GMT: In get UserID
+Sun, 05 May 2019 00:42:37 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Mon, 06 May 2019 04:05:50 GMT: SessionID: getuserid
+Mon, 06 May 2019 04:05:50 GMT: In get UserID
+Mon, 06 May 2019 04:05:51 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Mon, 06 May 2019 04:09:56 GMT: SessionID: getuserid
+Mon, 06 May 2019 04:09:56 GMT: In get UserID
+Mon, 06 May 2019 04:09:56 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 04:09:57 GMT: SessionID: confirmuser
+Mon, 06 May 2019 04:09:57 GMT: Username:tuckersaccount
+Mon, 06 May 2019 04:10:27 GMT: SessionID: getuserid
+Mon, 06 May 2019 04:10:27 GMT: In get UserID
+Mon, 06 May 2019 04:10:27 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 04:10:28 GMT: SessionID: confirmuser
+Mon, 06 May 2019 04:10:28 GMT: Username:tuckersaccount
+Mon, 06 May 2019 04:10:46 GMT: SessionID: getuserid
+Mon, 06 May 2019 04:10:46 GMT: In get UserID
+Mon, 06 May 2019 04:10:46 GMT: {"recordsets":[[{"UserID":60}]],"recordset":[{"UserID":60}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 04:10:47 GMT: SessionID: confirmuser
+Mon, 06 May 2019 04:10:47 GMT: Username:whitneytest
+Mon, 06 May 2019 04:14:46 GMT: SessionID: getuserid
+Mon, 06 May 2019 04:14:46 GMT: In get UserID
+Mon, 06 May 2019 04:14:46 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Mon, 06 May 2019 04:14:48 GMT: SessionID: createuser
+Mon, 06 May 2019 04:14:48 GMT: Creating user: tm
+Mon, 06 May 2019 04:14:56 GMT: SessionID: getuserid
+Mon, 06 May 2019 04:14:56 GMT: In get UserID
+Mon, 06 May 2019 04:14:56 GMT: {"recordsets":[[{"UserID":67}]],"recordset":[{"UserID":67}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 04:14:57 GMT: SessionID: confirmuser
+Mon, 06 May 2019 04:14:57 GMT: Username:tm
+Mon, 06 May 2019 04:17:29 GMT: SessionID: getuserid
+Mon, 06 May 2019 04:17:29 GMT: In get UserID
+Mon, 06 May 2019 04:17:29 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 04:17:34 GMT: SessionID: confirmuser
+Mon, 06 May 2019 04:17:34 GMT: Username:tuckersaccount
+Mon, 06 May 2019 04:19:52 GMT: SessionID: getuserid
+Mon, 06 May 2019 04:19:52 GMT: In get UserID
+Mon, 06 May 2019 04:19:53 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 04:19:54 GMT: SessionID: confirmuser
+Mon, 06 May 2019 04:19:54 GMT: Username:tuckersaccount
+Mon, 06 May 2019 04:25:21 GMT: SessionID: getuserid
+Mon, 06 May 2019 04:25:21 GMT: In get UserID
+Mon, 06 May 2019 04:25:21 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 04:25:22 GMT: SessionID: confirmuser
+Mon, 06 May 2019 04:25:22 GMT: Username:tuckersaccount
+Mon, 06 May 2019 04:27:42 GMT: SessionID: getuserid
+Mon, 06 May 2019 04:27:42 GMT: In get UserID
+Mon, 06 May 2019 04:27:43 GMT: {"recordsets":[[{"UserID":55}]],"recordset":[{"UserID":55}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 04:27:43 GMT: SessionID: confirmuser
+Mon, 06 May 2019 04:27:43 GMT: Username:c0w1e
+Mon, 06 May 2019 04:27:51 GMT: SessionID: getuserid
+Mon, 06 May 2019 04:27:51 GMT: In get UserID
+Mon, 06 May 2019 04:27:52 GMT: {"recordsets":[[{"UserID":55}]],"recordset":[{"UserID":55}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 04:27:52 GMT: SessionID: confirmuser
+Mon, 06 May 2019 04:27:52 GMT: Username:c0w1e
+Mon, 06 May 2019 05:11:37 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 05:11:37 GMT: SessionID: verifyauth
+Mon, 06 May 2019 05:11:37 GMT: Verified?: 1
+Mon, 06 May 2019 05:11:38 GMT: Active Event
+Mon, 06 May 2019 05:11:38 GMT: [object Object]
+Mon, 06 May 2019 05:11:38 GMT: SessionID: getinactiveevents
+Mon, 06 May 2019 05:11:38 GMT: SessionID: verifyauth
+Mon, 06 May 2019 05:11:38 GMT: Verified?: 1
+Mon, 06 May 2019 05:11:57 GMT: SessionID: getuserid
+Mon, 06 May 2019 05:11:57 GMT: In get UserID
+Mon, 06 May 2019 05:11:57 GMT: {"recordsets":[[{"UserID":55}]],"recordset":[{"UserID":55}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 05:11:58 GMT: SessionID: confirmuser
+Mon, 06 May 2019 05:11:58 GMT: Username:c0w1e
+Mon, 06 May 2019 05:12:07 GMT: SessionID: getuserid
+Mon, 06 May 2019 05:12:07 GMT: In get UserID
+Mon, 06 May 2019 05:12:07 GMT: {"recordsets":[[{"UserID":55}]],"recordset":[{"UserID":55}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 05:12:07 GMT: SessionID: confirmuser
+Mon, 06 May 2019 05:12:07 GMT: Username:c0w1e
+Mon, 06 May 2019 05:15:38 GMT: SessionID: getuserid
+Mon, 06 May 2019 05:15:38 GMT: In get UserID
+Mon, 06 May 2019 05:15:39 GMT: {"recordsets":[[{"UserID":55}]],"recordset":[{"UserID":55}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 05:15:39 GMT: SessionID: confirmuser
+Mon, 06 May 2019 05:15:39 GMT: Username:c0w1e
+Mon, 06 May 2019 05:35:22 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 05:35:22 GMT: SessionID: verifyauth
+Mon, 06 May 2019 05:35:22 GMT: Verified?: 1
+Mon, 06 May 2019 05:35:23 GMT: Active Event
+Mon, 06 May 2019 05:35:23 GMT: [object Object]
+Mon, 06 May 2019 05:35:23 GMT: SessionID: getinactiveevents
+Mon, 06 May 2019 05:35:23 GMT: SessionID: verifyauth
+Mon, 06 May 2019 05:35:23 GMT: Verified?: 1
+Mon, 06 May 2019 05:35:53 GMT: SessionID: getuserid
+Mon, 06 May 2019 05:35:53 GMT: In get UserID
+Mon, 06 May 2019 05:35:54 GMT: {"recordsets":[[{"UserID":55}]],"recordset":[{"UserID":55}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 05:35:55 GMT: SessionID: confirmuser
+Mon, 06 May 2019 05:35:55 GMT: Username:c0w1e
+Mon, 06 May 2019 18:04:11 GMT: SessionID: getuserid
+Mon, 06 May 2019 18:04:11 GMT: In get UserID
+Mon, 06 May 2019 18:04:11 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 18:04:12 GMT: SessionID: confirmuser
+Mon, 06 May 2019 18:04:12 GMT: Username:tuckersaccount
+Mon, 06 May 2019 18:04:23 GMT: SessionID: getuserid
+Mon, 06 May 2019 18:04:23 GMT: In get UserID
+Mon, 06 May 2019 18:04:24 GMT: {"recordsets":[[{"UserID":54}]],"recordset":[{"UserID":54}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 18:04:24 GMT: SessionID: confirmuser
+Mon, 06 May 2019 18:04:24 GMT: Username:bunk
+Mon, 06 May 2019 18:04:26 GMT: SessionID: getuserid
+Mon, 06 May 2019 18:04:26 GMT: In get UserID
+Mon, 06 May 2019 18:04:26 GMT: {"recordsets":[[{"UserID":66}]],"recordset":[{"UserID":66}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 18:04:26 GMT: SessionID: confirmuser
+Mon, 06 May 2019 18:04:26 GMT: Username:sam4
+Mon, 06 May 2019 18:06:30 GMT: SessionID: getuserid
+Mon, 06 May 2019 18:06:30 GMT: In get UserID
+Mon, 06 May 2019 18:06:30 GMT: {"recordsets":[[{"UserID":55}]],"recordset":[{"UserID":55}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 18:06:31 GMT: SessionID: confirmuser
+Mon, 06 May 2019 18:06:31 GMT: Username:c0w1e
+Mon, 06 May 2019 18:36:53 GMT: SessionID: getuserid
+Mon, 06 May 2019 18:36:53 GMT: In get UserID
+Mon, 06 May 2019 18:36:54 GMT: {"recordsets":[[{"UserID":54}]],"recordset":[{"UserID":54}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 18:36:54 GMT: SessionID: confirmuser
+Mon, 06 May 2019 18:36:54 GMT: Username:bunk
+Mon, 06 May 2019 18:42:31 GMT: SessionID: getuserid
+Mon, 06 May 2019 18:42:31 GMT: In get UserID
+Mon, 06 May 2019 18:42:32 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 18:42:32 GMT: SessionID: confirmuser
+Mon, 06 May 2019 18:42:32 GMT: Username:tuckersaccount
+Mon, 06 May 2019 19:40:29 GMT: SessionID: getuserid
+Mon, 06 May 2019 19:40:29 GMT: In get UserID
+Mon, 06 May 2019 19:40:30 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Mon, 06 May 2019 19:41:36 GMT: SessionID: getuserid
+Mon, 06 May 2019 19:41:36 GMT: In get UserID
+Mon, 06 May 2019 19:41:36 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Mon, 06 May 2019 19:55:09 GMT: SessionID: getuserid
+Mon, 06 May 2019 19:55:09 GMT: In get UserID
+Mon, 06 May 2019 19:55:09 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Mon, 06 May 2019 20:04:03 GMT: SessionID: getuserid
+Mon, 06 May 2019 20:04:03 GMT: In get UserID
+Mon, 06 May 2019 20:04:05 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Tue, 07 May 2019 02:04:55 GMT: SessionID: getuserid
+Tue, 07 May 2019 02:04:55 GMT: In get UserID
+Tue, 07 May 2019 02:04:56 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Tue, 07 May 2019 02:10:56 GMT: SessionID: getuserid
+Tue, 07 May 2019 02:10:56 GMT: In get UserID
+Tue, 07 May 2019 02:10:56 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Tue, 07 May 2019 02:44:23 GMT: SessionID: getuserid
+Tue, 07 May 2019 02:44:23 GMT: In get UserID
+Tue, 07 May 2019 02:44:24 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Tue, 07 May 2019 02:51:32 GMT: SessionID: getuserid
+Tue, 07 May 2019 02:51:32 GMT: In get UserID
+Tue, 07 May 2019 02:51:33 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Tue, 07 May 2019 03:02:06 GMT: SessionID: getuserid
+Tue, 07 May 2019 03:02:06 GMT: In get UserID
+Tue, 07 May 2019 03:02:07 GMT: {"recordsets":[[{"UserID":54}]],"recordset":[{"UserID":54}],"output":{},"rowsAffected":[1,1,1]}
+Tue, 07 May 2019 03:02:07 GMT: SessionID: confirmuser
+Tue, 07 May 2019 03:02:07 GMT: Username:bunk

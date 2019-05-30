@@ -1,0 +1,201 @@
+Sat, 20 Apr 2019 21:59:55 GMT: SessionID: getuser
+Sat, 20 Apr 2019 21:59:55 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 21:59:56 GMT: Verified?: 1
+Sat, 20 Apr 2019 21:59:57 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 21:59:57 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 21:59:58 GMT: Verified?: 1
+Sat, 20 Apr 2019 21:59:59 GMT: No Active Event
+Sat, 20 Apr 2019 21:59:59 GMT: SessionID: getinactiveevents
+Sat, 20 Apr 2019 21:59:59 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 21:59:59 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:00:02 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:00:02 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:00:02 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:00:03 GMT: No Active Event
+Sat, 20 Apr 2019 22:00:06 GMT: SessionID: getcontacts
+Sat, 20 Apr 2019 22:00:06 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:00:07 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:00:56 GMT: SessionID: getcontacts
+Sat, 20 Apr 2019 22:00:56 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:00:57 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:01:18 GMT: SessionID: newcontact
+Sat, 20 Apr 2019 22:01:18 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:01:19 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:01:19 GMT: Insert Contact -- Name: Samuel
+Sat, 20 Apr 2019 22:01:19 GMT: Contact inserted
+Sat, 20 Apr 2019 22:02:43 GMT: SessionID: getcontacts
+Sat, 20 Apr 2019 22:02:43 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:02:44 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:03:09 GMT: SessionID: newevent
+Sat, 20 Apr 2019 22:03:09 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:03:09 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:03:09 GMT: Creating event for UserID: 56
+Sat, 20 Apr 2019 22:03:10 GMT: null
+Sat, 20 Apr 2019 22:03:10 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:03:10 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:03:10 GMT: Contact Created
+Sat, 20 Apr 2019 22:03:21 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:03:21 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:03:22 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:03:23 GMT: Active Event
+Sat, 20 Apr 2019 22:03:23 GMT: [object Object]
+Sat, 20 Apr 2019 22:03:23 GMT: SessionID: geteventcontacts
+Sat, 20 Apr 2019 22:03:23 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:03:24 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:03:27 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:03:27 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:03:27 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:03:28 GMT: Active Event
+Sat, 20 Apr 2019 22:03:28 GMT: [object Object]
+Sat, 20 Apr 2019 22:07:24 GMT: SessionID: disableevent
+Sat, 20 Apr 2019 22:07:24 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:07:25 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:07:25 GMT: Disabling event: 208
+Sat, 20 Apr 2019 22:07:29 GMT: SessionID: getcontacts
+Sat, 20 Apr 2019 22:07:29 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:07:30 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:08:23 GMT: SessionID: newevent
+Sat, 20 Apr 2019 22:08:23 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:08:24 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:08:24 GMT: Creating event for UserID: 56
+Sat, 20 Apr 2019 22:08:24 GMT: null
+Sat, 20 Apr 2019 22:08:24 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:08:24 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:08:25 GMT: Contact Created
+Sat, 20 Apr 2019 22:09:13 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:09:13 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:09:14 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:09:14 GMT: Active Event
+Sat, 20 Apr 2019 22:09:14 GMT: [object Object]
+Sat, 20 Apr 2019 22:10:04 GMT: SessionID: disableevent
+Sat, 20 Apr 2019 22:10:04 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:10:05 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:10:05 GMT: Disabling event: 209
+Sat, 20 Apr 2019 22:10:13 GMT: SessionID: getcontacts
+Sat, 20 Apr 2019 22:10:13 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:10:14 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:10:31 GMT: SessionID: newevent
+Sat, 20 Apr 2019 22:10:31 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:10:32 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:10:32 GMT: Creating event for UserID: 56
+Sat, 20 Apr 2019 22:10:32 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:10:32 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:10:33 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:10:34 GMT: No Active Event
+Sat, 20 Apr 2019 22:10:49 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:10:49 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:10:50 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:10:51 GMT: No Active Event
+Sat, 20 Apr 2019 22:11:06 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:11:06 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:11:06 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:11:07 GMT: No Active Event
+Sat, 20 Apr 2019 22:11:42 GMT: SessionID: getuser
+Sat, 20 Apr 2019 22:11:42 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:11:42 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:11:43 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:11:43 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:11:44 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:11:45 GMT: No Active Event
+Sat, 20 Apr 2019 22:11:45 GMT: SessionID: getinactiveevents
+Sat, 20 Apr 2019 22:11:45 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:11:46 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:11:47 GMT: SessionID: getcontacts
+Sat, 20 Apr 2019 22:11:47 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:11:47 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:11:48 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:11:48 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:11:49 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:11:50 GMT: No Active Event
+Sat, 20 Apr 2019 22:12:22 GMT: SessionID: getcontacts
+Sat, 20 Apr 2019 22:12:22 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:12:23 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:12:39 GMT: SessionID: newevent
+Sat, 20 Apr 2019 22:12:39 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:12:40 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:12:40 GMT: Creating event for UserID: 56
+Sat, 20 Apr 2019 22:12:40 GMT: null
+Sat, 20 Apr 2019 22:12:40 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:12:40 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:12:40 GMT: Contact Created
+Sat, 20 Apr 2019 22:12:41 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:12:42 GMT: Active Event
+Sat, 20 Apr 2019 22:12:42 GMT: [object Object]
+Sat, 20 Apr 2019 22:12:43 GMT: SessionID: geteventcontacts
+Sat, 20 Apr 2019 22:12:43 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:12:44 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:12:46 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:12:46 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:12:47 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:12:48 GMT: Active Event
+Sat, 20 Apr 2019 22:12:48 GMT: [object Object]
+Sat, 20 Apr 2019 22:41:14 GMT: SessionID: disableevent
+Sat, 20 Apr 2019 22:41:14 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:41:15 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:41:15 GMT: Disabling event: 210
+Sat, 20 Apr 2019 22:41:15 GMT: SessionID: getcontacts
+Sat, 20 Apr 2019 22:41:15 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:41:16 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:41:42 GMT: SessionID: newevent
+Sat, 20 Apr 2019 22:41:42 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:41:43 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:41:43 GMT: Creating event for UserID: 56
+Sat, 20 Apr 2019 22:41:43 GMT: null
+Sat, 20 Apr 2019 22:41:43 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:41:43 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:41:44 GMT: Contact Created
+Sat, 20 Apr 2019 22:41:44 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:41:45 GMT: Active Event
+Sat, 20 Apr 2019 22:41:45 GMT: [object Object]
+Sat, 20 Apr 2019 22:41:45 GMT: SessionID: geteventcontacts
+Sat, 20 Apr 2019 22:41:45 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:41:46 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:41:49 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:41:49 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:41:50 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:41:51 GMT: Active Event
+Sat, 20 Apr 2019 22:41:51 GMT: [object Object]
+Sat, 20 Apr 2019 22:45:08 GMT: SessionID: disableevent
+Sat, 20 Apr 2019 22:45:08 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:45:09 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:45:09 GMT: Disabling event: 211
+Sat, 20 Apr 2019 22:45:11 GMT: SessionID: geteventcontacts
+Sat, 20 Apr 2019 22:45:11 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:45:12 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:47:19 GMT: SessionID: getcontacts
+Sat, 20 Apr 2019 22:47:19 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:47:19 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:48:10 GMT: SessionID: newevent
+Sat, 20 Apr 2019 22:48:10 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:48:10 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:48:10 GMT: Creating event for UserID: 56
+Sat, 20 Apr 2019 22:48:11 GMT: null
+Sat, 20 Apr 2019 22:48:11 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:48:11 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:48:11 GMT: Contact Created
+Sat, 20 Apr 2019 22:48:12 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:48:12 GMT: Active Event
+Sat, 20 Apr 2019 22:48:12 GMT: [object Object]
+Sat, 20 Apr 2019 22:48:12 GMT: SessionID: geteventcontacts
+Sat, 20 Apr 2019 22:48:12 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:48:13 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:48:17 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:48:17 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:48:18 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:48:19 GMT: Active Event
+Sat, 20 Apr 2019 22:48:19 GMT: [object Object]
+Sat, 20 Apr 2019 22:48:39 GMT: SessionID: disableevent
+Sat, 20 Apr 2019 22:48:39 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:48:40 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:48:40 GMT: Disabling event: 212
+Sat, 20 Apr 2019 22:48:40 GMT: SessionID: getcontacts
+Sat, 20 Apr 2019 22:48:40 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:48:41 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:49:12 GMT: SessionID: newevent
+Sat, 20 Apr 2019 22:49:12 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:49:12 GMT: Verified?: 1
+Sat, 20 Apr 2019 22:49:12 GMT: Creating event for UserID: 56
+Sat, 20 Apr 2019 22:49:13 GMT: null
+Sat, 20 Apr 2019 22:49:13 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 22:49:13 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 22:49:13 GMT: Contact Created

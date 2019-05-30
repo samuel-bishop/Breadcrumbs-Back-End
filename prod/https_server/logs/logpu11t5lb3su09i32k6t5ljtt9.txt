@@ -1,0 +1,15 @@
+Mon, 06 May 2019 04:15:00 GMT: SessionID: getuser
+Mon, 06 May 2019 04:15:00 GMT: SessionID: verifyauth
+Mon, 06 May 2019 04:15:00 GMT: Verified?: 1
+Mon, 06 May 2019 04:15:02 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 04:15:02 GMT: SessionID: verifyauth
+Mon, 06 May 2019 04:15:02 GMT: Verified?: 1
+Mon, 06 May 2019 04:15:03 GMT: No Active Event
+Mon, 06 May 2019 04:15:03 GMT: SessionID: getinactiveevents
+Mon, 06 May 2019 04:15:03 GMT: SessionID: verifyauth
+Mon, 06 May 2019 04:15:03 GMT: Verified?: 1
+Mon, 06 May 2019 04:15:04 GMT: RequestError: Invalid column name 'IsVisisble'.
+Mon, 06 May 2019 04:16:28 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 04:16:28 GMT: SessionID: verifyauth
+Mon, 06 May 2019 04:16:28 GMT: Verified?: 1
+Mon, 06 May 2019 04:16:29 GMT: No Active Event

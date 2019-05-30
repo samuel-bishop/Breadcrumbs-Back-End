@@ -1,0 +1,25 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/ec2-user/.nvm/versions/node/v10.15.3/bin/node',
+1 verbose cli   '/home/ec2-user/.nvm/versions/node/v10.15.3/bin/npm',
+1 verbose cli   'cache',
+1 verbose cli   'clear' ]
+2 info using npm@6.9.0
+3 info using node@v10.15.3
+4 verbose npm-session 804a2da86d4e9f58
+5 verbose stack Error: As of npm@5, the npm cache self-heals from corruption issues and data extracted from the cache is guaranteed to be valid. If you want to make sure everything is consistent, use 'npm cache verify' instead. On the other hand, if you're debugging an issue with the installer, you can use `npm install --cache /tmp/empty-cache` to use a temporary cache instead of nuking the actual one.
+5 verbose stack
+5 verbose stack If you're sure you want to delete the entire cache, rerun this command with --force.
+5 verbose stack     at clean (/home/ec2-user/.nvm/versions/node/v10.15.3/lib/node_modules/npm/lib/cache.js:72:22)
+5 verbose stack     at EventEmitter.cache (/home/ec2-user/.nvm/versions/node/v10.15.3/lib/node_modules/npm/lib/cache.js:47:16)
+5 verbose stack     at Object.commandCache.(anonymous function) (/home/ec2-user/.nvm/versions/node/v10.15.3/lib/node_modules/npm/lib/npm.js:156:13)
+5 verbose stack     at EventEmitter.<anonymous> (/home/ec2-user/.nvm/versions/node/v10.15.3/lib/node_modules/npm/bin/npm-cli.js:130:30)
+5 verbose stack     at process._tickCallback (internal/process/next_tick.js:61:11)
+6 verbose cwd /home/ec2-user/prod/https_server
+7 verbose Linux 4.14.109-99.92.amzn2.x86_64
+8 verbose argv "/home/ec2-user/.nvm/versions/node/v10.15.3/bin/node" "/home/ec2-user/.nvm/versions/node/v10.15.3/bin/npm" "cache" "clear"
+9 verbose node v10.15.3
+10 verbose npm  v6.9.0
+11 error As of npm@5, the npm cache self-heals from corruption issues and data extracted from the cache is guaranteed to be valid. If you want to make sure everything is consistent, use 'npm cache verify' instead. On the other hand, if you're debugging an issue with the installer, you can use `npm install --cache /tmp/empty-cache` to use a temporary cache instead of nuking the actual one.
+11 error
+11 error If you're sure you want to delete the entire cache, rerun this command with --force.
+12 verbose exit [ 1, true ]

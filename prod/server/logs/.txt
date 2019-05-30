@@ -1,0 +1,123 @@
+Sat, 13 Apr 2019 06:13:21 GMT: SessionID: getuser
+Sat, 13 Apr 2019 06:13:21 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:13:23 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:13:53 GMT: SessionID: getuser
+Sat, 13 Apr 2019 06:13:53 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:13:54 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:20:57 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 06:20:57 GMT: Username:tes
+Sat, 13 Apr 2019 06:20:57 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:20:58 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:27:33 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 06:27:33 GMT: Username:tes
+Sat, 13 Apr 2019 06:27:33 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:27:35 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:34:54 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 06:34:54 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:34:54 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:35:06 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 06:35:06 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:35:07 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:38:43 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 06:38:43 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:38:44 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:39:44 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 06:39:44 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:39:44 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:41:35 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 06:41:35 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:41:36 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:42:41 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 06:42:41 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:42:42 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:43:18 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 06:43:18 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:43:19 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:43:48 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 06:43:48 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:43:49 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:44:12 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 06:44:12 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:44:12 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:44:54 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 06:44:54 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:44:55 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:45:58 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 06:45:58 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:45:58 GMT: Verified?: 0
+Sat, 13 Apr 2019 06:46:44 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 06:46:44 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 06:46:45 GMT: Verified?: 0
+Sat, 13 Apr 2019 07:05:14 GMT: SessionID: getuser
+Sat, 13 Apr 2019 07:05:14 GMT: Getting user: tes
+Sat, 13 Apr 2019 07:05:14 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:05:15 GMT: Verified?: 0
+Sat, 13 Apr 2019 07:06:59 GMT: SessionID: getuser
+Sat, 13 Apr 2019 07:06:59 GMT: Getting user: tes
+Sat, 13 Apr 2019 07:06:59 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:07:00 GMT: Verified?: 0
+Sat, 13 Apr 2019 07:08:39 GMT: SessionID: getuser
+Sat, 13 Apr 2019 07:08:39 GMT: Getting user: tes
+Sat, 13 Apr 2019 07:08:39 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 07:08:40 GMT: Verified?: 0
+Sat, 13 Apr 2019 07:10:23 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:10:25 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:14:52 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:14:53 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:16:09 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:16:11 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:16:50 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:16:51 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:18:33 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:18:35 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:20:19 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:20:20 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:21:58 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:21:59 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:29:05 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:29:07 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:30:43 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:30:44 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:31:21 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:31:23 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:32:30 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:32:32 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:33:40 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:33:41 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:34:33 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:34:34 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:35:19 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:35:20 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:35:47 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:35:48 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:35:53 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:35:58 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:35:59 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:37:18 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:37:19 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:38:37 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 07:38:37 GMT: In get UserID
+Sat, 13 Apr 2019 07:38:37 GMT: {"recordsets":[[{"UserID":31}]],"recordset":[{"UserID":31}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 07:38:38 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 07:40:09 GMT: SessionID: createuser
+Sat, 13 Apr 2019 07:42:43 GMT: SessionID: createuser
+Sat, 13 Apr 2019 07:47:31 GMT: SessionID: createuser
+Sat, 13 Apr 2019 07:48:26 GMT: SessionID: createuser
+Sat, 13 Apr 2019 07:53:02 GMT: SessionID: createuser
+Sat, 13 Apr 2019 07:55:15 GMT: SessionID: createuser
+Sat, 13 Apr 2019 07:55:15 GMT: Creating user: New
+Sat, 13 Apr 2019 07:57:24 GMT: SessionID: createuser
+Sat, 13 Apr 2019 07:57:24 GMT: Creating user: New
+Sat, 13 Apr 2019 07:57:24 GMT: RequestError: Violation of UNIQUE KEY constraint 'UQ__BCUser__C9F28456869D6F64'. Cannot insert duplicate key in object 'dbo.BCUser'. The duplicate key value is (New).
+Sat, 13 Apr 2019 07:57:42 GMT: SessionID: createuser
+Sat, 13 Apr 2019 07:57:43 GMT: Creating user: New
+Sat, 13 Apr 2019 07:57:43 GMT: RequestError: Violation of UNIQUE KEY constraint 'UQ__BCUser__C9F28456869D6F64'. Cannot insert duplicate key in object 'dbo.BCUser'. The duplicate key value is (New).
+Sat, 13 Apr 2019 07:58:32 GMT: SessionID: createuser
+Sat, 13 Apr 2019 07:58:32 GMT: Creating user: New
+Sat, 13 Apr 2019 07:58:33 GMT: RequestError: Violation of UNIQUE KEY constraint 'UQ__BCUser__C9F28456869D6F64'. Cannot insert duplicate key in object 'dbo.BCUser'. The duplicate key value is (New).
+Sat, 13 Apr 2019 07:59:20 GMT: SessionID: createuser
+Sat, 13 Apr 2019 07:59:20 GMT: Creating user: New
+Sat, 13 Apr 2019 07:59:21 GMT: RequestError: Violation of UNIQUE KEY constraint 'UQ__BCUser__C9F28456869D6F64'. Cannot insert duplicate key in object 'dbo.BCUser'. The duplicate key value is (New).
+Sat, 13 Apr 2019 08:00:33 GMT: SessionID: createuser
+Sat, 13 Apr 2019 08:00:33 GMT: Creating user: New
+Sat, 13 Apr 2019 08:00:34 GMT: RequestError: Violation of UNIQUE KEY constraint 'UQ__BCUser__C9F28456869D6F64'. Cannot insert duplicate key in object 'dbo.BCUser'. The duplicate key value is (New).

@@ -1,0 +1,32 @@
+Sat, 20 Apr 2019 19:07:31 GMT: SessionID: getuser
+Sat, 20 Apr 2019 19:07:31 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 19:07:32 GMT: Verified?: 1
+Sat, 20 Apr 2019 19:07:33 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 19:07:33 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 19:07:34 GMT: Verified?: 1
+Sat, 20 Apr 2019 19:07:34 GMT: No Active Event
+Sat, 20 Apr 2019 19:07:35 GMT: SessionID: getinactiveevents
+Sat, 20 Apr 2019 19:07:35 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 19:07:35 GMT: Verified?: 1
+Sat, 20 Apr 2019 19:07:38 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 19:07:38 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 19:07:39 GMT: Verified?: 1
+Sat, 20 Apr 2019 19:07:40 GMT: No Active Event
+Sat, 20 Apr 2019 19:21:13 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 19:21:13 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 19:21:13 GMT: Verified?: 1
+Sat, 20 Apr 2019 19:21:14 GMT: No Active Event
+Sat, 20 Apr 2019 20:26:39 GMT: SessionID: getuser
+Sat, 20 Apr 2019 20:26:39 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 20:26:40 GMT: Verified?: 1
+Sat, 20 Apr 2019 20:26:41 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 20:26:41 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 20:26:42 GMT: Verified?: 1
+Sat, 20 Apr 2019 20:26:42 GMT: No Active Event
+Sat, 20 Apr 2019 20:26:43 GMT: SessionID: getinactiveevents
+Sat, 20 Apr 2019 20:26:43 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 20:26:44 GMT: Verified?: 1
+Sat, 20 Apr 2019 20:26:48 GMT: SessionID: getactiveevent
+Sat, 20 Apr 2019 20:26:48 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 20:26:49 GMT: Verified?: 1
+Sat, 20 Apr 2019 20:26:49 GMT: No Active Event

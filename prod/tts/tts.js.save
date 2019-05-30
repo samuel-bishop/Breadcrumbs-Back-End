@@ -1,0 +1,52 @@
+var express = require('express'); // Web Framework
+var app = express();
+var bodyParser = require("body-parser");
+var sql = require('mssql'); // MS Sql Server client
+var cors = require('cors')
+
+app.use(cors())
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+app.use(function (request, response, next) {
+
+    // Website you wish to allow to connect
+    response.setHeader('Access-Control-Allow-Origin', 'localhost:4400, localhost:8100', '*');
+
+    // Request methods you wish to allow
+    response.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT');
+
+    // Request headers you wish to allow
+    response.setHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, content-type');
+    response.setHeader('Access-Control-Allow-Credentials', true);
+
+    // Pass to next layer of middleware
+    next();
+});
+
+// Start server and listen on http://{aws_server}:4604/
+var server = app.listen(4604, function () {
+    var host = server.address().address;
+    var port = server.address().port;
+    console.log("app listening at http://%s:%s", host, port);
+});
+
+function watch (int time)
+{
+	return new Promise(resolve => {setTimeout(() => resolve('resolve');}, msTime)});
+}
+
+app.post('/startwatch/', async function(req, res)
+{
+	var timeLeft = (date.now() - req.body.startDate);
+	console.log("starting watch");
+	watch(req.timeLeft);
+	console.log("watch complete");
+}
+
+app.post('/stopwatch/', function(req, res)
+{
+}
+
+app.post('/updatewatch/', function(req, res)
+{
+}

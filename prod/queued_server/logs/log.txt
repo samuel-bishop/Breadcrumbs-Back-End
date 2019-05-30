@@ -1,0 +1,2308 @@
+Sat, 13 Apr 2019 08:01:50 GMT: SessionID: createuser
+Sat, 13 Apr 2019 08:01:50 GMT: Creating user: New
+Sat, 13 Apr 2019 08:01:51 GMT: RequestError: Violation of UNIQUE KEY constraint 'UQ__BCUser__C9F28456869D6F64'. Cannot insert duplicate key in object 'dbo.BCUser'. The duplicate key value is (New).
+Sat, 13 Apr 2019 08:02:23 GMT: SessionID: createuser
+Sat, 13 Apr 2019 08:02:24 GMT: Creating user: NewAccount
+Sat, 13 Apr 2019 08:02:53 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 08:02:53 GMT: In get UserID
+Sat, 13 Apr 2019 08:02:54 GMT: {"recordsets":[[{"UserID":39}]],"recordset":[{"UserID":39}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 08:02:54 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 08:04:13 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 08:04:13 GMT: In get UserID
+Sat, 13 Apr 2019 08:04:14 GMT: {"recordsets":[[{"UserID":6}]],"recordset":[{"UserID":6}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 08:04:15 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 08:04:17 GMT: SessionID: getuser
+Sat, 13 Apr 2019 08:04:17 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:04:17 GMT: Verified?: 0
+Sat, 13 Apr 2019 08:04:27 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 08:04:27 GMT: In get UserID
+Sat, 13 Apr 2019 08:04:28 GMT: {"recordsets":[[{"UserID":6}]],"recordset":[{"UserID":6}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 08:04:28 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 08:04:33 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 08:04:33 GMT: In get UserID
+Sat, 13 Apr 2019 08:04:34 GMT: {"recordsets":[[{"UserID":6}]],"recordset":[{"UserID":6}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 08:04:34 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 08:04:36 GMT: SessionID: getuser
+Sat, 13 Apr 2019 08:04:36 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:04:37 GMT: Verified?: 0
+Sat, 13 Apr 2019 08:04:49 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 08:04:49 GMT: In get UserID
+Sat, 13 Apr 2019 08:04:50 GMT: {"recordsets":[[{"UserID":6}]],"recordset":[{"UserID":6}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 08:04:50 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 08:04:52 GMT: SessionID: getuser
+Sat, 13 Apr 2019 08:04:52 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:04:53 GMT: Verified?: 0
+Sat, 13 Apr 2019 08:06:07 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 08:06:07 GMT: In get UserID
+Sat, 13 Apr 2019 08:06:08 GMT: {"recordsets":[[{"UserID":1}]],"recordset":[{"UserID":1}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 08:06:08 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 08:06:14 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 08:06:14 GMT: In get UserID
+Sat, 13 Apr 2019 08:06:14 GMT: {"recordsets":[[{"UserID":6}]],"recordset":[{"UserID":6}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 08:06:15 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 08:06:17 GMT: SessionID: getuser
+Sat, 13 Apr 2019 08:06:17 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:06:18 GMT: Verified?: 0
+Sat, 13 Apr 2019 08:07:02 GMT: SessionID: createuser
+Sat, 13 Apr 2019 08:07:03 GMT: Creating user: deuskai
+Sat, 13 Apr 2019 08:07:15 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 08:07:15 GMT: In get UserID
+Sat, 13 Apr 2019 08:07:16 GMT: {"recordsets":[[{"UserID":40}]],"recordset":[{"UserID":40}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 08:07:16 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 08:07:47 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 08:07:47 GMT: In get UserID
+Sat, 13 Apr 2019 08:07:48 GMT: {"recordsets":[[{"UserID":40}]],"recordset":[{"UserID":40}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 08:07:48 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 08:08:08 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 08:08:08 GMT: In get UserID
+Sat, 13 Apr 2019 08:08:08 GMT: {"recordsets":[[{"UserID":6}]],"recordset":[{"UserID":6}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 08:08:09 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 08:08:11 GMT: SessionID: getuser
+Sat, 13 Apr 2019 08:08:11 GMT: SessionID: verifyauth
+Sat, 13 Apr 2019 08:08:12 GMT: Verified?: 0
+Sat, 13 Apr 2019 08:09:03 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 08:09:03 GMT: In get UserID
+Sat, 13 Apr 2019 08:09:04 GMT: {"recordsets":[[{"UserID":31}]],"recordset":[{"UserID":31}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 08:09:04 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 22:11:10 GMT: SessionID: createuser
+Sat, 13 Apr 2019 22:12:27 GMT: SessionID: createuser
+Sat, 13 Apr 2019 22:12:28 GMT: Creating user: mall
+Sat, 13 Apr 2019 22:12:36 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 22:12:36 GMT: In get UserID
+Sat, 13 Apr 2019 22:12:37 GMT: {"recordsets":[[{"UserID":41}]],"recordset":[{"UserID":41}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 22:12:37 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 22:12:37 GMT: Username:mall
+Sat, 13 Apr 2019 22:13:27 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 22:13:27 GMT: In get UserID
+Sat, 13 Apr 2019 22:13:28 GMT: {"recordsets":[[{"UserID":41}]],"recordset":[{"UserID":41}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 22:13:28 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 22:13:28 GMT: Username:mall
+Sat, 13 Apr 2019 22:14:32 GMT: SessionID: getuserid
+Sat, 13 Apr 2019 22:14:32 GMT: In get UserID
+Sat, 13 Apr 2019 22:14:33 GMT: {"recordsets":[[{"UserID":41}]],"recordset":[{"UserID":41}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 13 Apr 2019 22:14:33 GMT: SessionID: confirmuser
+Sat, 13 Apr 2019 22:14:33 GMT: Username:mall
+Sun, 14 Apr 2019 00:21:43 GMT: SessionID: createuser
+Sun, 14 Apr 2019 00:21:44 GMT: Creating user: hansolo
+Sun, 14 Apr 2019 00:21:53 GMT: SessionID: getuserid
+Sun, 14 Apr 2019 00:21:53 GMT: In get UserID
+Sun, 14 Apr 2019 00:21:53 GMT: {"recordsets":[[{"UserID":42}]],"recordset":[{"UserID":42}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 14 Apr 2019 00:21:54 GMT: SessionID: confirmuser
+Sun, 14 Apr 2019 00:21:54 GMT: Username:hansolo
+Sun, 14 Apr 2019 00:53:54 GMT: SessionID: createuser
+Sun, 14 Apr 2019 00:53:54 GMT: Creating user: malloc
+Sun, 14 Apr 2019 00:53:55 GMT: RequestError: Violation of UNIQUE KEY constraint 'UQ__BCUser__C9F28456869D6F64'. Cannot insert duplicate key in object 'dbo.BCUser'. The duplicate key value is (malloc).
+Sun, 14 Apr 2019 00:55:54 GMT: SessionID: createuser
+Sun, 14 Apr 2019 00:55:54 GMT: Creating user: malloc
+Sun, 14 Apr 2019 00:55:55 GMT: RequestError: Violation of UNIQUE KEY constraint 'UQ__BCUser__C9F28456869D6F64'. Cannot insert duplicate key in object 'dbo.BCUser'. The duplicate key value is (malloc).
+Sun, 14 Apr 2019 01:01:24 GMT: SessionID: createuser
+Sun, 14 Apr 2019 01:01:24 GMT: Creating user: malloc
+Sun, 14 Apr 2019 01:01:25 GMT: RequestError: Violation of UNIQUE KEY constraint 'UQ__BCUser__C9F28456869D6F64'. Cannot insert duplicate key in object 'dbo.BCUser'. The duplicate key value is (malloc).
+Sun, 14 Apr 2019 01:02:18 GMT: SessionID: createuser
+Sun, 14 Apr 2019 01:02:19 GMT: Creating user: malloc
+Sun, 14 Apr 2019 01:02:19 GMT: RequestError: Violation of UNIQUE KEY constraint 'UQ__BCUser__C9F28456869D6F64'. Cannot insert duplicate key in object 'dbo.BCUser'. The duplicate key value is (malloc).
+Sun, 14 Apr 2019 01:04:18 GMT: SessionID: createuser
+Sun, 14 Apr 2019 01:04:19 GMT: Creating user: malloc
+Sun, 14 Apr 2019 01:04:19 GMT: RequestError: Violation of UNIQUE KEY constraint 'UQ__BCUser__C9F28456869D6F64'. Cannot insert duplicate key in object 'dbo.BCUser'. The duplicate key value is (malloc).
+Mon, 15 Apr 2019 16:00:28 GMT: SessionID: createuser
+Mon, 15 Apr 2019 16:00:29 GMT: Creating user: sambishop
+Mon, 15 Apr 2019 16:01:58 GMT: SessionID: getuserid
+Mon, 15 Apr 2019 16:01:58 GMT: In get UserID
+Mon, 15 Apr 2019 16:01:59 GMT: {"recordsets":[[{"UserID":48}]],"recordset":[{"UserID":48}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 15 Apr 2019 16:01:59 GMT: SessionID: confirmuser
+Mon, 15 Apr 2019 16:01:59 GMT: Username:sambishop
+Mon, 15 Apr 2019 17:30:53 GMT: SessionID: getuserid
+Mon, 15 Apr 2019 17:30:53 GMT: In get UserID
+Mon, 15 Apr 2019 17:30:54 GMT: {"recordsets":[[{"UserID":6}]],"recordset":[{"UserID":6}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 15 Apr 2019 17:30:59 GMT: SessionID: getuserid
+Mon, 15 Apr 2019 17:30:59 GMT: In get UserID
+Mon, 15 Apr 2019 17:31:00 GMT: {"recordsets":[[{"UserID":6}]],"recordset":[{"UserID":6}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 15 Apr 2019 17:31:17 GMT: SessionID: getuserid
+Mon, 15 Apr 2019 17:31:17 GMT: In get UserID
+Mon, 15 Apr 2019 17:31:18 GMT: {"recordsets":[[{"UserID":6}]],"recordset":[{"UserID":6}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 15 Apr 2019 17:39:33 GMT: SessionID: getuserid
+Mon, 15 Apr 2019 17:39:33 GMT: In get UserID
+Mon, 15 Apr 2019 17:39:34 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Mon, 15 Apr 2019 17:40:37 GMT: SessionID: getuserid
+Mon, 15 Apr 2019 17:40:37 GMT: In get UserID
+Mon, 15 Apr 2019 17:40:38 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Mon, 15 Apr 2019 17:41:16 GMT: SessionID: getuserid
+Mon, 15 Apr 2019 17:41:16 GMT: In get UserID
+Mon, 15 Apr 2019 17:41:17 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Mon, 15 Apr 2019 17:41:17 GMT: SessionID: createuser
+Mon, 15 Apr 2019 17:41:18 GMT: Creating user: new_acc
+Wed, 17 Apr 2019 14:27:46 GMT: SessionID: getcontacts
+Wed, 17 Apr 2019 14:27:46 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:27:47 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:27:56 GMT: SessionID: getcontacts
+Wed, 17 Apr 2019 14:27:56 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:27:57 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:28:02 GMT: SessionID: geteventcontacts
+Wed, 17 Apr 2019 14:28:02 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:28:03 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:28:12 GMT: SessionID: getcontacts
+Wed, 17 Apr 2019 14:28:12 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:28:14 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:28:21 GMT: SessionID: getcontacts
+Wed, 17 Apr 2019 14:28:21 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:28:22 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:28:36 GMT: SessionID: getcontacts
+Wed, 17 Apr 2019 14:28:36 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:28:36 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:29:14 GMT: SessionID: getcontacts
+Wed, 17 Apr 2019 14:29:14 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:29:15 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:31:04 GMT: SessionID: getactiveevent
+Wed, 17 Apr 2019 14:31:04 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:31:04 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:31:09 GMT: SessionID: getuserid
+Wed, 17 Apr 2019 14:31:09 GMT: In get UserID
+Wed, 17 Apr 2019 14:31:10 GMT: {"recordsets":[[{"UserID":22}]],"recordset":[{"UserID":22}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 17 Apr 2019 14:31:10 GMT: SessionID: confirmuser
+Wed, 17 Apr 2019 14:31:10 GMT: Username:tester
+Wed, 17 Apr 2019 14:31:12 GMT: SessionID: getuser
+Wed, 17 Apr 2019 14:31:12 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:31:13 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:31:31 GMT: SessionID: getuserid
+Wed, 17 Apr 2019 14:31:31 GMT: In get UserID
+Wed, 17 Apr 2019 14:31:32 GMT: {"recordsets":[[{"UserID":22}]],"recordset":[{"UserID":22}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 17 Apr 2019 14:31:32 GMT: SessionID: confirmuser
+Wed, 17 Apr 2019 14:31:32 GMT: Username:tester
+Wed, 17 Apr 2019 14:31:35 GMT: SessionID: getuser
+Wed, 17 Apr 2019 14:31:35 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:31:35 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:31:52 GMT: SessionID: getuserid
+Wed, 17 Apr 2019 14:31:52 GMT: In get UserID
+Wed, 17 Apr 2019 14:31:53 GMT: {"recordsets":[[{"UserID":22}]],"recordset":[{"UserID":22}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 17 Apr 2019 14:31:53 GMT: SessionID: confirmuser
+Wed, 17 Apr 2019 14:31:53 GMT: Username:tester
+Wed, 17 Apr 2019 14:31:55 GMT: SessionID: getuser
+Wed, 17 Apr 2019 14:31:55 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:31:56 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:32:20 GMT: SessionID: getuserid
+Wed, 17 Apr 2019 14:32:20 GMT: In get UserID
+Wed, 17 Apr 2019 14:32:20 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Wed, 17 Apr 2019 14:32:21 GMT: SessionID: createuser
+Wed, 17 Apr 2019 14:32:21 GMT: Creating user: matt
+Wed, 17 Apr 2019 14:32:29 GMT: SessionID: getuserid
+Wed, 17 Apr 2019 14:32:29 GMT: In get UserID
+Wed, 17 Apr 2019 14:32:30 GMT: {"recordsets":[[{"UserID":50}]],"recordset":[{"UserID":50}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 17 Apr 2019 14:32:30 GMT: SessionID: confirmuser
+Wed, 17 Apr 2019 14:32:30 GMT: Username:matt
+Wed, 17 Apr 2019 14:34:05 GMT: SessionID: getactiveevent
+Wed, 17 Apr 2019 14:34:05 GMT: SessionID: verifyauth
+Wed, 17 Apr 2019 14:34:05 GMT: Verified?: 0
+Wed, 17 Apr 2019 14:34:24 GMT: SessionID: getuserid
+Wed, 17 Apr 2019 14:34:24 GMT: In get UserID
+Wed, 17 Apr 2019 14:34:24 GMT: {"recordsets":[[{"UserID":50}]],"recordset":[{"UserID":50}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 17 Apr 2019 14:34:25 GMT: SessionID: confirmuser
+Wed, 17 Apr 2019 14:34:25 GMT: Username:matt
+Wed, 17 Apr 2019 17:53:09 GMT: SessionID: getuserid
+Wed, 17 Apr 2019 17:53:09 GMT: In get UserID
+Wed, 17 Apr 2019 17:53:10 GMT: {"recordsets":[[{"UserID":50}]],"recordset":[{"UserID":50}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 17 Apr 2019 17:53:10 GMT: SessionID: confirmuser
+Wed, 17 Apr 2019 17:53:10 GMT: Username:matt
+Sat, 20 Apr 2019 19:04:43 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 19:04:43 GMT: In get UserID
+Sat, 20 Apr 2019 19:04:44 GMT: {"recordsets":[[{"UserID":51}]],"recordset":[{"UserID":51}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 19:04:44 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 19:04:44 GMT: Username:misswhitney
+Sat, 20 Apr 2019 19:04:46 GMT: SessionID: getuser
+Sat, 20 Apr 2019 19:04:46 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 19:04:47 GMT: Verified?: 0
+Sat, 20 Apr 2019 19:07:21 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 19:07:21 GMT: In get UserID
+Sat, 20 Apr 2019 19:07:22 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Sat, 20 Apr 2019 19:07:22 GMT: SessionID: createuser
+Sat, 20 Apr 2019 19:07:23 GMT: Creating user: MissWhitneyx
+Sat, 20 Apr 2019 19:07:28 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 19:07:28 GMT: In get UserID
+Sat, 20 Apr 2019 19:07:29 GMT: {"recordsets":[[{"UserID":52}]],"recordset":[{"UserID":52}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 19:07:29 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 19:07:29 GMT: Username:misswhitneyx
+Sat, 20 Apr 2019 19:53:26 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 19:53:26 GMT: In get UserID
+Sat, 20 Apr 2019 19:53:27 GMT: {"recordsets":[[{"UserID":50}]],"recordset":[{"UserID":50}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 19:53:27 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 19:53:27 GMT: Username:matt
+Sat, 20 Apr 2019 19:56:54 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 19:56:54 GMT: In get UserID
+Sat, 20 Apr 2019 19:56:55 GMT: {"recordsets":[[{"UserID":50}]],"recordset":[{"UserID":50}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 19:56:55 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 19:56:55 GMT: Username:matt
+Sat, 20 Apr 2019 19:59:52 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 19:59:52 GMT: In get UserID
+Sat, 20 Apr 2019 19:59:53 GMT: {"recordsets":[[{"UserID":6}]],"recordset":[{"UserID":6}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 19:59:53 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 19:59:53 GMT: Username:mallocc
+Sat, 20 Apr 2019 20:00:04 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:00:04 GMT: In get UserID
+Sat, 20 Apr 2019 20:00:04 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Sat, 20 Apr 2019 20:00:05 GMT: SessionID: createuser
+Sat, 20 Apr 2019 20:00:05 GMT: Creating user: tucker
+Sat, 20 Apr 2019 20:00:12 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:00:12 GMT: In get UserID
+Sat, 20 Apr 2019 20:00:12 GMT: {"recordsets":[[{"UserID":53}]],"recordset":[{"UserID":53}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:00:13 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:00:13 GMT: Username:tucker
+Sat, 20 Apr 2019 20:02:18 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:02:18 GMT: In get UserID
+Sat, 20 Apr 2019 20:02:19 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Sat, 20 Apr 2019 20:02:27 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:02:27 GMT: In get UserID
+Sat, 20 Apr 2019 20:02:28 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Sat, 20 Apr 2019 20:02:35 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:02:35 GMT: In get UserID
+Sat, 20 Apr 2019 20:02:36 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Sat, 20 Apr 2019 20:03:04 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:03:04 GMT: In get UserID
+Sat, 20 Apr 2019 20:03:05 GMT: {"recordsets":[[{"UserID":23}]],"recordset":[{"UserID":23}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:03:26 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:03:26 GMT: In get UserID
+Sat, 20 Apr 2019 20:03:26 GMT: {"recordsets":[[{"UserID":23}]],"recordset":[{"UserID":23}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:03:27 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:03:27 GMT: Username:iza2098
+Sat, 20 Apr 2019 20:03:29 GMT: SessionID: getuser
+Sat, 20 Apr 2019 20:03:29 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 20:03:29 GMT: Verified?: 0
+Sat, 20 Apr 2019 20:04:07 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:04:07 GMT: In get UserID
+Sat, 20 Apr 2019 20:04:08 GMT: {"recordsets":[[{"UserID":23}]],"recordset":[{"UserID":23}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:04:08 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:04:08 GMT: Username:iza2098
+Sat, 20 Apr 2019 20:04:10 GMT: SessionID: getuser
+Sat, 20 Apr 2019 20:04:10 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 20:04:11 GMT: Verified?: 0
+Sat, 20 Apr 2019 20:04:47 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:04:47 GMT: In get UserID
+Sat, 20 Apr 2019 20:04:47 GMT: {"recordsets":[[{"UserID":23}]],"recordset":[{"UserID":23}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:04:48 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:04:48 GMT: Username:iza2098
+Sat, 20 Apr 2019 20:04:50 GMT: SessionID: getuser
+Sat, 20 Apr 2019 20:04:50 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 20:04:50 GMT: Verified?: 0
+Sat, 20 Apr 2019 20:06:49 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:06:49 GMT: In get UserID
+Sat, 20 Apr 2019 20:06:50 GMT: {"recordsets":[[{"UserID":23}]],"recordset":[{"UserID":23}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:06:50 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:06:50 GMT: Username:iza2098
+Sat, 20 Apr 2019 20:06:52 GMT: SessionID: getuser
+Sat, 20 Apr 2019 20:06:52 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 20:06:53 GMT: Verified?: 0
+Sat, 20 Apr 2019 20:07:39 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:07:39 GMT: In get UserID
+Sat, 20 Apr 2019 20:07:39 GMT: {"recordsets":[[{"UserID":23}]],"recordset":[{"UserID":23}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:07:40 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:07:40 GMT: Username:iza2098
+Sat, 20 Apr 2019 20:07:42 GMT: SessionID: getuser
+Sat, 20 Apr 2019 20:07:42 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 20:07:42 GMT: Verified?: 0
+Sat, 20 Apr 2019 20:19:02 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:19:02 GMT: In get UserID
+Sat, 20 Apr 2019 20:19:03 GMT: {"recordsets":[[{"UserID":23}]],"recordset":[{"UserID":23}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:19:04 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:19:04 GMT: Username:iza2098
+Sat, 20 Apr 2019 20:19:06 GMT: SessionID: getuser
+Sat, 20 Apr 2019 20:19:06 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 20:19:06 GMT: Verified?: 0
+Sat, 20 Apr 2019 20:19:23 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:19:23 GMT: In get UserID
+Sat, 20 Apr 2019 20:19:24 GMT: {"recordsets":[[{"UserID":53}]],"recordset":[{"UserID":53}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:19:24 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:19:24 GMT: Username:tucker
+Sat, 20 Apr 2019 20:26:36 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:26:36 GMT: In get UserID
+Sat, 20 Apr 2019 20:26:36 GMT: {"recordsets":[[{"UserID":52}]],"recordset":[{"UserID":52}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:26:37 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:26:37 GMT: Username:misswhitneyx
+Sat, 20 Apr 2019 20:30:57 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:30:57 GMT: In get UserID
+Sat, 20 Apr 2019 20:30:58 GMT: {"recordsets":[[{"UserID":22}]],"recordset":[{"UserID":22}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:30:58 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:30:58 GMT: Username:tester
+Sat, 20 Apr 2019 20:31:00 GMT: SessionID: getuser
+Sat, 20 Apr 2019 20:31:00 GMT: SessionID: verifyauth
+Sat, 20 Apr 2019 20:31:01 GMT: Verified?: 0
+Sat, 20 Apr 2019 20:31:35 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:31:35 GMT: In get UserID
+Sat, 20 Apr 2019 20:31:36 GMT: {"recordsets":[[{"UserID":50}]],"recordset":[{"UserID":50}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:31:36 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:31:36 GMT: Username:matt
+Sat, 20 Apr 2019 20:35:28 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:35:28 GMT: In get UserID
+Sat, 20 Apr 2019 20:35:29 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:35:29 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:35:29 GMT: Username:new_acc
+Sat, 20 Apr 2019 20:36:35 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:36:35 GMT: In get UserID
+Sat, 20 Apr 2019 20:36:36 GMT: {"recordsets":[[{"UserID":50}]],"recordset":[{"UserID":50}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:36:37 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:36:37 GMT: Username:matt
+Sat, 20 Apr 2019 20:44:08 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 20:48:35 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:48:35 GMT: In get UserID
+Sat, 20 Apr 2019 20:48:36 GMT: {"recordsets":[[{"UserID":50}]],"recordset":[{"UserID":50}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:48:36 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:48:36 GMT: Username:matt
+Sat, 20 Apr 2019 20:50:05 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:50:05 GMT: In get UserID
+Sat, 20 Apr 2019 20:50:05 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Sat, 20 Apr 2019 20:50:06 GMT: SessionID: createuser
+Sat, 20 Apr 2019 20:50:06 GMT: Creating user: bunk
+Sat, 20 Apr 2019 20:50:30 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 20:50:30 GMT: In get UserID
+Sat, 20 Apr 2019 20:50:31 GMT: {"recordsets":[[{"UserID":54}]],"recordset":[{"UserID":54}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 20:50:31 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 20:50:31 GMT: Username:bunk
+Sat, 20 Apr 2019 20:59:53 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:01:42 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:01:57 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:03:26 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 21:03:26 GMT: In get UserID
+Sat, 20 Apr 2019 21:03:27 GMT: {"recordsets":[[{"UserID":54}]],"recordset":[{"UserID":54}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 21:03:27 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 21:03:27 GMT: Username:bunk
+Sat, 20 Apr 2019 21:03:33 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:06:34 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:07:04 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:07:09 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 21:07:09 GMT: In get UserID
+Sat, 20 Apr 2019 21:07:10 GMT: {"recordsets":[[{"UserID":54}]],"recordset":[{"UserID":54}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 21:07:11 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 21:07:11 GMT: Username:bunk
+Sat, 20 Apr 2019 21:08:59 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:12:27 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 21:12:27 GMT: In get UserID
+Sat, 20 Apr 2019 21:12:27 GMT: {"recordsets":[[{"UserID":54}]],"recordset":[{"UserID":54}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 21:12:27 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 21:12:27 GMT: Username:bunk
+Sat, 20 Apr 2019 21:12:50 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 21:12:50 GMT: In get UserID
+Sat, 20 Apr 2019 21:12:51 GMT: {"recordsets":[[{"UserID":54}]],"recordset":[{"UserID":54}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 21:12:51 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 21:12:51 GMT: Username:bunk
+Sat, 20 Apr 2019 21:14:39 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 21:14:39 GMT: In get UserID
+Sat, 20 Apr 2019 21:15:31 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 21:15:31 GMT: In get UserID
+Sat, 20 Apr 2019 21:15:31 GMT: {"recordsets":[[{"UserID":54}]],"recordset":[{"UserID":54}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 21:15:32 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 21:15:32 GMT: Username:bunk
+Sat, 20 Apr 2019 21:17:24 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:33:42 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:33:42 GMT: Storing reset password info:  123
+Sat, 20 Apr 2019 21:34:50 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:34:50 GMT: Storing reset password info:  123
+Sat, 20 Apr 2019 21:35:38 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:35:38 GMT: Storing reset password info:  123
+Sat, 20 Apr 2019 21:35:39 GMT: RequestError: Unclosed quotation mark after the character string ';
+
+
+		        COMMIT TRAN @user_transact;
+        '.
+Sat, 20 Apr 2019 21:36:06 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:36:06 GMT: Storing reset password info:  123
+Sat, 20 Apr 2019 21:36:07 GMT: RequestError: Unclosed quotation mark after the character string ';
+
+
+		        COMMIT TRAN @user_transact;
+        '.
+Sat, 20 Apr 2019 21:37:33 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:37:33 GMT: Storing reset password info:  123
+Sat, 20 Apr 2019 21:37:34 GMT: RequestError: Unclosed quotation mark after the character string ';
+
+
+		        COMMIT TRAN @user_transact;
+        '.
+Sat, 20 Apr 2019 21:40:52 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 21:40:52 GMT: In get UserID
+Sat, 20 Apr 2019 21:40:53 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Sat, 20 Apr 2019 21:40:53 GMT: SessionID: createuser
+Sat, 20 Apr 2019 21:40:54 GMT: Creating user: C0W1E
+Sat, 20 Apr 2019 21:41:18 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 21:41:18 GMT: In get UserID
+Sat, 20 Apr 2019 21:41:19 GMT: {"recordsets":[[{"UserID":55}]],"recordset":[{"UserID":55}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 21:41:19 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 21:41:19 GMT: Username:c0w1e
+Sat, 20 Apr 2019 21:43:04 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:43:05 GMT: Storing reset password info:  123
+Sat, 20 Apr 2019 21:43:29 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:43:29 GMT: Storing reset password info:  123
+Sat, 20 Apr 2019 21:43:48 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:43:49 GMT: Storing reset password info:  123
+Sat, 20 Apr 2019 21:45:35 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:45:35 GMT: Storing reset password info:  123
+Sat, 20 Apr 2019 21:57:12 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 21:59:44 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 21:59:44 GMT: In get UserID
+Sat, 20 Apr 2019 21:59:44 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Sat, 20 Apr 2019 21:59:45 GMT: SessionID: createuser
+Sat, 20 Apr 2019 21:59:45 GMT: Creating user: sambo
+Sat, 20 Apr 2019 21:59:51 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 21:59:51 GMT: In get UserID
+Sat, 20 Apr 2019 21:59:52 GMT: {"recordsets":[[{"UserID":56}]],"recordset":[{"UserID":56}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 21:59:52 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 21:59:52 GMT: Username:sambo
+Sat, 20 Apr 2019 22:03:24 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 22:11:38 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 22:11:38 GMT: In get UserID
+Sat, 20 Apr 2019 22:11:39 GMT: {"recordsets":[[{"UserID":56}]],"recordset":[{"UserID":56}],"output":{},"rowsAffected":[1,1,1]}
+Sat, 20 Apr 2019 22:11:40 GMT: SessionID: confirmuser
+Sat, 20 Apr 2019 22:11:40 GMT: Username:sambo
+Sat, 20 Apr 2019 23:49:36 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 23:58:13 GMT: SessionID: getuserid
+Sat, 20 Apr 2019 23:58:13 GMT: In get UserID
+Sat, 20 Apr 2019 23:58:14 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Sat, 20 Apr 2019 23:58:15 GMT: SessionID: createuser
+Sat, 20 Apr 2019 23:58:15 GMT: Creating user: reset
+Sat, 20 Apr 2019 23:58:42 GMT: SessionID: forgotpassword
+Sat, 20 Apr 2019 23:59:53 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:01:43 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:01:53 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:06:11 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:06:44 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:08:01 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:08:46 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:09:23 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:11:20 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:11:39 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:13:36 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:19:29 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:19:29 GMT: In get username
+Sun, 21 Apr 2019 00:20:48 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:21:24 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:21:29 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:22:01 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:22:01 GMT: In get username
+Sun, 21 Apr 2019 00:23:49 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:23:49 GMT: In get username
+Sun, 21 Apr 2019 00:23:52 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:23:52 GMT: In get username
+Sun, 21 Apr 2019 00:24:33 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:24:33 GMT: In get username
+Sun, 21 Apr 2019 00:26:04 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:27:48 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:28:25 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:32:00 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:32:55 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:34:09 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:34:46 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:38:06 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:41:18 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:42:40 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:43:56 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:44:48 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:45:06 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:46:04 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:48:46 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:49:47 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:50:24 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:53:17 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:55:52 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:57:28 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:58:37 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:59:28 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:59:45 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 00:59:48 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:00:31 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:01:05 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:03:02 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:03:19 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:04:12 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:05:50 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:06:12 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:07:48 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:14:36 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:15:10 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:16:36 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:17:53 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:20:16 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:21:32 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:23:52 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:27:28 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:33:54 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:33:54 GMT: SessionID: verifyauth
+Sun, 21 Apr 2019 01:33:55 GMT: Verified?: 0
+Sun, 21 Apr 2019 01:33:56 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:34:13 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:34:13 GMT: SessionID: verifyauth
+Sun, 21 Apr 2019 01:34:14 GMT: Verified?: 0
+Sun, 21 Apr 2019 01:35:18 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:35:18 GMT: SessionID: verifyauth
+Sun, 21 Apr 2019 01:35:19 GMT: Verified?: 0
+Sun, 21 Apr 2019 01:35:52 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:36:04 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:36:04 GMT: SessionID: verifyauth
+Sun, 21 Apr 2019 01:36:04 GMT: Verified?: 0
+Sun, 21 Apr 2019 01:37:19 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:37:40 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:38:05 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:39:19 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:39:19 GMT: SessionID: verifyauth
+Sun, 21 Apr 2019 01:39:20 GMT: Verified?: 0
+Sun, 21 Apr 2019 01:39:39 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 01:41:43 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:41:43 GMT: SessionID: verifyauth
+Sun, 21 Apr 2019 01:41:44 GMT: Verified?: 0
+Sun, 21 Apr 2019 01:41:57 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:41:57 GMT: SessionID: verifyauth
+Sun, 21 Apr 2019 01:41:58 GMT: Verified?: 0
+Sun, 21 Apr 2019 01:42:14 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:42:14 GMT: SessionID: verifyauth
+Sun, 21 Apr 2019 01:42:14 GMT: Verified?: 0
+Sun, 21 Apr 2019 01:43:50 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:43:50 GMT: SessionID: verifyauth
+Sun, 21 Apr 2019 01:43:51 GMT: Verified?: 0
+Sun, 21 Apr 2019 01:46:12 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:47:21 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:47:58 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:48:22 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:50:11 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:50:19 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:50:33 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:54:05 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:54:21 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:58:49 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:59:14 GMT: SessionID: getusername
+Sun, 21 Apr 2019 01:59:36 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:00:59 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:01:07 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:01:20 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:02:19 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:05:29 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:07:55 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:08:49 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:13:05 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:13:16 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:13:44 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:14:48 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:15:07 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:15:12 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:15:25 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:17:10 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:18:27 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:21:28 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:23:13 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:24:16 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:25:10 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:26:29 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:26:42 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:26:51 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:28:02 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:29:34 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:31:39 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:35:30 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:40:02 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:40:22 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:40:38 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:40:58 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:41:12 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:41:36 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:43:09 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:43:42 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:43:57 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:44:16 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:44:33 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:46:38 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:47:25 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:47:44 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:48:20 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:50:44 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:51:05 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:52:47 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:57:17 GMT: SessionID: getusername
+Sun, 21 Apr 2019 02:58:18 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:00:59 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:01:20 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:03:32 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:03:33 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:04:30 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:04:31 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:07:16 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:07:18 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:07:19 GMT: RequestError: Incorrect syntax near '@gmail'.
+Sun, 21 Apr 2019 03:13:15 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:13:16 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:13:17 GMT: RequestError: Incorrect syntax near '@gmail'.
+Sun, 21 Apr 2019 03:13:38 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:13:39 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:13:40 GMT: RequestError: Incorrect syntax near '@gmail'.
+Sun, 21 Apr 2019 03:14:24 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:14:25 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:14:26 GMT: RequestError: Unclosed quotation mark after the character string ';
+	
+	COMMIT TRAN @user_transact; 
+	'.
+Sun, 21 Apr 2019 03:14:52 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:14:53 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:14:54 GMT: RequestError: Unclosed quotation mark after the character string ';
+	
+	COMMIT TRAN @user_transact; 
+	'.
+Sun, 21 Apr 2019 03:15:16 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:15:18 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:15:18 GMT: RequestError: Unclosed quotation mark after the character string ';
+	
+	COMMIT TRAN @user_transact; 
+	'.
+Sun, 21 Apr 2019 03:17:32 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:17:33 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:17:34 GMT: RequestError: Unclosed quotation mark after the character string ';
+	
+	COMMIT TRAN @user_transact; 
+	'.
+Sun, 21 Apr 2019 03:19:43 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:19:44 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:21:09 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:21:10 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:21:11 GMT: RequestError: Incorrect syntax near '@gmail'.
+Sun, 21 Apr 2019 03:23:45 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:23:46 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:23:47 GMT: RequestError: Incorrect syntax near '@gmail'.
+Sun, 21 Apr 2019 03:23:56 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:23:57 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:23:58 GMT: RequestError: Incorrect syntax near '@gmail'.
+Sun, 21 Apr 2019 03:24:57 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:26:49 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:28:48 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:28:57 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:29:47 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:30:58 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:30:59 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:31:00 GMT: RequestError: Incorrect syntax near '@gmail'.
+Sun, 21 Apr 2019 03:33:56 GMT: SessionID: getusername
+Sun, 21 Apr 2019 03:33:58 GMT: SessionID: forgotpassword
+Sun, 21 Apr 2019 03:33:58 GMT: RequestError: Incorrect syntax near '@gmail'.
+Sun, 21 Apr 2019 03:34:20 GMT: SessionID: getusername
+Mon, 22 Apr 2019 18:39:36 GMT: SessionID: getuserid
+Mon, 22 Apr 2019 18:39:36 GMT: In get UserID
+Mon, 22 Apr 2019 18:39:39 GMT: {"recordsets":[[{"UserID":40}]],"recordset":[{"UserID":40}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 22 Apr 2019 18:39:39 GMT: SessionID: confirmuser
+Mon, 22 Apr 2019 18:39:39 GMT: Username:deuskai
+Mon, 22 Apr 2019 18:40:19 GMT: SessionID: getuserid
+Mon, 22 Apr 2019 18:40:19 GMT: In get UserID
+Mon, 22 Apr 2019 18:40:20 GMT: {"recordsets":[[{"UserID":53}]],"recordset":[{"UserID":53}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 22 Apr 2019 18:40:20 GMT: SessionID: confirmuser
+Mon, 22 Apr 2019 18:40:20 GMT: Username:tucker
+Mon, 22 Apr 2019 19:21:32 GMT: SessionID: getuserid
+Mon, 22 Apr 2019 19:21:32 GMT: In get UserID
+Mon, 22 Apr 2019 19:21:34 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 22 Apr 2019 19:21:35 GMT: SessionID: confirmuser
+Mon, 22 Apr 2019 19:21:35 GMT: Username:new_acc
+Tue, 23 Apr 2019 19:18:08 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:18:26 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:18:27 GMT: RequestError: Incorrect syntax near '@gmail'.
+Tue, 23 Apr 2019 19:21:23 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:21:29 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:21:30 GMT: RequestError: Incorrect syntax near '@gmail'.
+Tue, 23 Apr 2019 19:22:37 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:22:38 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:22:39 GMT: RequestError: Incorrect syntax near '@gmail'.
+Tue, 23 Apr 2019 19:24:17 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:24:18 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:25:11 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:25:12 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:25:13 GMT: RequestError: Incorrect syntax near '@gmail'.
+Tue, 23 Apr 2019 19:26:28 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:26:29 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:26:30 GMT: RequestError: Incorrect syntax near '@gmail'.
+Tue, 23 Apr 2019 19:29:20 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:29:21 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:29:22 GMT: RequestError: Incorrect syntax near '@gmail'.
+Tue, 23 Apr 2019 19:31:15 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:31:16 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:31:17 GMT: RequestError: Incorrect syntax near '@gmail'.
+Tue, 23 Apr 2019 19:31:53 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:31:54 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:31:55 GMT: RequestError: Incorrect syntax near '@gmail'.
+Tue, 23 Apr 2019 19:32:30 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:32:32 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:32:32 GMT: RequestError: Incorrect syntax near '@gmail'.
+Tue, 23 Apr 2019 19:33:59 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:34:00 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:34:01 GMT: RequestError: Incorrect syntax near '@gmail'.
+Tue, 23 Apr 2019 19:34:23 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:34:24 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:34:25 GMT: RequestError: Incorrect syntax near '@gmail'.
+Tue, 23 Apr 2019 19:35:26 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:35:27 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:35:28 GMT: RequestError: Must declare the scalar variable "@sql2".
+Tue, 23 Apr 2019 19:43:28 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:43:29 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:43:29 GMT: RequestError: Must declare the scalar variable "@sql2".
+Tue, 23 Apr 2019 19:46:35 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:46:37 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:46:37 GMT: RequestError: Must declare the scalar variable "@sql".
+Tue, 23 Apr 2019 19:46:47 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:46:48 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:46:49 GMT: RequestError: Must declare the scalar variable "@sql".
+Tue, 23 Apr 2019 19:48:45 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:48:46 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:48:47 GMT: RequestError: Must declare the scalar variable "@params".
+Tue, 23 Apr 2019 19:49:28 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:49:29 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:49:30 GMT: RequestError: Must declare the scalar variable "@user_transact".
+Tue, 23 Apr 2019 19:53:38 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:53:39 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 19:53:40 GMT: RequestError: Procedure expects parameter '@statement' of type 'ntext/nchar/nvarchar'.
+Tue, 23 Apr 2019 19:54:12 GMT: SessionID: getusername
+Tue, 23 Apr 2019 19:54:14 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:00:12 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:00:13 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:01:49 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:01:50 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:01:57 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:01:58 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:03:00 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:03:01 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:04:05 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:04:07 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:05:52 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:05:53 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:09:47 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:09:48 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:27:15 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:27:16 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:28:43 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:28:44 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:30:05 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:30:06 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:31:05 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:31:07 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:38:19 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:38:22 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:40:28 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:40:29 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:43:05 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:43:06 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:47:02 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:47:03 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:47:24 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:47:25 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:52:02 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:52:03 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:52:57 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:52:58 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:56:39 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:56:40 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:56:48 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:56:49 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:58:37 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:58:38 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 20:58:50 GMT: SessionID: getusername
+Tue, 23 Apr 2019 20:58:51 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 21:00:17 GMT: SessionID: getusername
+Tue, 23 Apr 2019 21:00:18 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 21:10:03 GMT: SessionID: getusername
+Tue, 23 Apr 2019 21:10:05 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 21:13:58 GMT: SessionID: getusername
+Tue, 23 Apr 2019 21:13:59 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 21:17:31 GMT: SessionID: getusername
+Tue, 23 Apr 2019 21:17:32 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 21:19:16 GMT: SessionID: getusername
+Tue, 23 Apr 2019 21:19:17 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 21:19:50 GMT: SessionID: getusername
+Tue, 23 Apr 2019 21:19:51 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 21:20:20 GMT: SessionID: getusername
+Tue, 23 Apr 2019 21:20:21 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 21:25:57 GMT: SessionID: getusername
+Tue, 23 Apr 2019 21:25:59 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 21:31:02 GMT: SessionID: getusername
+Tue, 23 Apr 2019 21:31:03 GMT: SessionID: forgotpassword
+Tue, 23 Apr 2019 22:24:20 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:25:38 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:26:04 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:26:24 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:26:29 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:28:27 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:30:38 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:31:46 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:38:21 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:40:56 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:42:42 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:42:56 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:43:25 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:43:28 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:44:19 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:47:27 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:47:36 GMT: SessionID: getcode
+Tue, 23 Apr 2019 22:50:22 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:01:01 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:01:02 GMT: SessionID: resetpassword
+Tue, 23 Apr 2019 23:01:02 GMT: SessionID: verifyauth
+Tue, 23 Apr 2019 23:01:03 GMT: Verified?: 0
+Tue, 23 Apr 2019 23:02:33 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:02:35 GMT: SessionID: resetpassword
+Tue, 23 Apr 2019 23:02:35 GMT: SessionID: verifyauth
+Tue, 23 Apr 2019 23:02:36 GMT: Verified?: 0
+Tue, 23 Apr 2019 23:04:22 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:04:23 GMT: SessionID: resetpassword
+Tue, 23 Apr 2019 23:04:23 GMT: SessionID: verifyauth
+Tue, 23 Apr 2019 23:04:24 GMT: Verified?: 0
+Tue, 23 Apr 2019 23:04:48 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:04:49 GMT: SessionID: resetpassword
+Tue, 23 Apr 2019 23:04:49 GMT: SessionID: verifyauth
+Tue, 23 Apr 2019 23:04:50 GMT: Verified?: 0
+Tue, 23 Apr 2019 23:05:28 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:05:29 GMT: SessionID: resetpassword
+Tue, 23 Apr 2019 23:05:29 GMT: SessionID: verifyauth
+Tue, 23 Apr 2019 23:05:30 GMT: Verified?: 0
+Tue, 23 Apr 2019 23:06:12 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:06:13 GMT: SessionID: resetpassword
+Tue, 23 Apr 2019 23:06:13 GMT: SessionID: verifyauth
+Tue, 23 Apr 2019 23:06:14 GMT: Verified?: 0
+Tue, 23 Apr 2019 23:09:23 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:12:14 GMT: SessionID: resetpassword
+Tue, 23 Apr 2019 23:12:14 GMT: SessionID: verifyauth
+Tue, 23 Apr 2019 23:12:15 GMT: Verified?: 0
+Tue, 23 Apr 2019 23:12:46 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:13:11 GMT: SessionID: resetpassword
+Tue, 23 Apr 2019 23:13:11 GMT: SessionID: verifyauth
+Tue, 23 Apr 2019 23:13:12 GMT: Verified?: 0
+Tue, 23 Apr 2019 23:14:21 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:16:12 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:20:27 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:23:47 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:26:26 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:31:38 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:35:41 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:37:28 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:40:34 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:42:49 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:47:01 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:49:54 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:58:19 GMT: SessionID: getcode
+Tue, 23 Apr 2019 23:59:38 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:01:33 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:03:26 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:04:38 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:06:30 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:06:34 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:06:34 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:06:35 GMT: Verified?: 0
+Wed, 24 Apr 2019 00:11:16 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:11:17 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:13:33 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:13:35 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:15:20 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:15:21 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:15:38 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:15:39 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:15:39 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:15:40 GMT: Password reset
+Wed, 24 Apr 2019 00:16:11 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 00:16:11 GMT: In get UserID
+Wed, 24 Apr 2019 00:16:12 GMT: {"recordsets":[[{"UserID":57}]],"recordset":[{"UserID":57}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 00:16:12 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 00:16:12 GMT: Username:reset
+Wed, 24 Apr 2019 00:18:05 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:18:06 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:18:06 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:18:07 GMT: Password reset
+Wed, 24 Apr 2019 00:18:59 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:19:00 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:19:00 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:19:01 GMT: Password reset
+Wed, 24 Apr 2019 00:20:37 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:20:38 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:20:38 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:20:39 GMT: Password reset
+Wed, 24 Apr 2019 00:22:21 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:22:22 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:22:22 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:22:23 GMT: Password reset
+Wed, 24 Apr 2019 00:22:38 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:22:38 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:22:40 GMT: Password reset
+Wed, 24 Apr 2019 00:24:09 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:24:10 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:24:10 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:24:11 GMT: Password reset
+Wed, 24 Apr 2019 00:25:32 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:25:33 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:25:33 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:25:34 GMT: RequestError: Incorrect syntax near 'b$10$jilxpi4W'.
+Wed, 24 Apr 2019 00:27:32 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:27:33 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:27:33 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:27:34 GMT: RequestError: Incorrect syntax near 'b$10$I1rElxfLxIO3hIiUd3'.
+Wed, 24 Apr 2019 00:28:29 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:28:30 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:28:30 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:28:31 GMT: RequestError: Incorrect syntax near 'b$10$9PVwUVpAi7VoTw'.
+Wed, 24 Apr 2019 00:31:03 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:31:05 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:31:05 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:31:06 GMT: Password reset
+Wed, 24 Apr 2019 00:31:48 GMT: SessionID: getusername
+Wed, 24 Apr 2019 00:31:49 GMT: SessionID: forgotpassword
+Wed, 24 Apr 2019 00:32:10 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:32:11 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:32:11 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:32:12 GMT: Password reset
+Wed, 24 Apr 2019 00:32:28 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 00:32:28 GMT: In get UserID
+Wed, 24 Apr 2019 00:32:29 GMT: {"recordsets":[[{"UserID":2}]],"recordset":[{"UserID":2}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 00:32:29 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 00:32:29 GMT: Username:whitney
+Wed, 24 Apr 2019 00:32:32 GMT: SessionID: getuser
+Wed, 24 Apr 2019 00:32:32 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:32:33 GMT: Verified?: 0
+Wed, 24 Apr 2019 00:32:54 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 00:32:54 GMT: In get UserID
+Wed, 24 Apr 2019 00:32:54 GMT: {"recordsets":[[{"UserID":2}]],"recordset":[{"UserID":2}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 00:32:55 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 00:32:55 GMT: Username:whitney
+Wed, 24 Apr 2019 00:32:57 GMT: SessionID: getuser
+Wed, 24 Apr 2019 00:32:57 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:32:57 GMT: Verified?: 0
+Wed, 24 Apr 2019 00:35:22 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 00:35:22 GMT: In get UserID
+Wed, 24 Apr 2019 00:35:23 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Wed, 24 Apr 2019 00:35:24 GMT: SessionID: createuser
+Wed, 24 Apr 2019 00:35:24 GMT: Creating user: whitneytest
+Wed, 24 Apr 2019 00:35:35 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 00:35:35 GMT: In get UserID
+Wed, 24 Apr 2019 00:35:36 GMT: {"recordsets":[[{"UserID":58}]],"recordset":[{"UserID":58}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 00:35:36 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 00:35:36 GMT: Username:whitneytest
+Wed, 24 Apr 2019 00:36:35 GMT: SessionID: getusername
+Wed, 24 Apr 2019 00:36:38 GMT: SessionID: forgotpassword
+Wed, 24 Apr 2019 00:36:56 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:36:58 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:36:58 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:36:59 GMT: Password reset
+Wed, 24 Apr 2019 00:37:22 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 00:37:22 GMT: In get UserID
+Wed, 24 Apr 2019 00:37:23 GMT: {"recordsets":[[{"UserID":58}]],"recordset":[{"UserID":58}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 00:37:23 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 00:37:23 GMT: Username:whitneytest
+Wed, 24 Apr 2019 00:38:42 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:38:43 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:38:43 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:38:44 GMT: Password reset
+Wed, 24 Apr 2019 00:41:16 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:41:18 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:41:18 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:41:19 GMT: Password reset
+Wed, 24 Apr 2019 00:42:19 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:42:20 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:42:20 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:42:21 GMT: Password reset
+Wed, 24 Apr 2019 00:43:46 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 00:43:46 GMT: In get UserID
+Wed, 24 Apr 2019 00:43:46 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Wed, 24 Apr 2019 00:43:47 GMT: SessionID: createuser
+Wed, 24 Apr 2019 00:43:47 GMT: Creating user: whitneytest
+Wed, 24 Apr 2019 00:44:01 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 00:44:01 GMT: In get UserID
+Wed, 24 Apr 2019 00:44:01 GMT: {"recordsets":[[{"UserID":59}]],"recordset":[{"UserID":59}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 00:44:02 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 00:44:02 GMT: Username:whitneytest
+Wed, 24 Apr 2019 00:45:09 GMT: SessionID: getusername
+Wed, 24 Apr 2019 00:45:10 GMT: SessionID: forgotpassword
+Wed, 24 Apr 2019 00:45:38 GMT: SessionID: getcode
+Wed, 24 Apr 2019 00:45:40 GMT: SessionID: resetpassword
+Wed, 24 Apr 2019 00:45:40 GMT: Password reset for ${username}
+Wed, 24 Apr 2019 00:45:41 GMT: Password reset
+Wed, 24 Apr 2019 00:45:48 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 00:45:48 GMT: In get UserID
+Wed, 24 Apr 2019 00:45:49 GMT: {"recordsets":[[{"UserID":60}]],"recordset":[{"UserID":60}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 00:45:49 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 00:45:49 GMT: Username:whitneytest
+Wed, 24 Apr 2019 21:29:21 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 21:29:21 GMT: In get UserID
+Wed, 24 Apr 2019 21:29:22 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 21:29:22 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 21:29:22 GMT: Username:new_acc
+Wed, 24 Apr 2019 21:31:55 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 21:31:55 GMT: In get UserID
+Wed, 24 Apr 2019 21:31:56 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 21:31:56 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 21:31:56 GMT: Username:new_acc
+Wed, 24 Apr 2019 21:34:48 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 21:34:48 GMT: In get UserID
+Wed, 24 Apr 2019 21:34:49 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 21:34:49 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 21:34:49 GMT: Username:new_acc
+Wed, 24 Apr 2019 22:36:00 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 22:36:00 GMT: In get UserID
+Wed, 24 Apr 2019 22:36:01 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 22:36:01 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 22:36:01 GMT: Username:new_acc
+Wed, 24 Apr 2019 22:49:13 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 22:49:13 GMT: In get UserID
+Wed, 24 Apr 2019 22:49:14 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 22:49:14 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 22:49:14 GMT: Username:new_acc
+Wed, 24 Apr 2019 22:49:42 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 22:49:42 GMT: In get UserID
+Wed, 24 Apr 2019 22:49:43 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 22:49:43 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 22:49:43 GMT: Username:new_acc
+Wed, 24 Apr 2019 22:54:06 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 22:54:06 GMT: In get UserID
+Wed, 24 Apr 2019 22:54:07 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 22:54:07 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 22:54:07 GMT: Username:new_acc
+Wed, 24 Apr 2019 22:57:33 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 22:57:33 GMT: In get UserID
+Wed, 24 Apr 2019 22:57:33 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 22:57:34 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 22:57:34 GMT: Username:new_acc
+Wed, 24 Apr 2019 22:58:53 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 22:58:53 GMT: In get UserID
+Wed, 24 Apr 2019 22:58:54 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 22:58:54 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 22:58:54 GMT: Username:new_acc
+Wed, 24 Apr 2019 23:05:47 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 23:05:47 GMT: In get UserID
+Wed, 24 Apr 2019 23:05:48 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 23:05:48 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 23:05:48 GMT: Username:new_acc
+Wed, 24 Apr 2019 23:14:43 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 23:14:43 GMT: In get UserID
+Wed, 24 Apr 2019 23:14:44 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 23:14:44 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 23:14:44 GMT: Username:new_acc
+Wed, 24 Apr 2019 23:17:43 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 23:17:43 GMT: In get UserID
+Wed, 24 Apr 2019 23:17:44 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 23:17:44 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 23:17:44 GMT: Username:new_acc
+Wed, 24 Apr 2019 23:31:18 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 23:31:18 GMT: In get UserID
+Wed, 24 Apr 2019 23:31:19 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 23:31:19 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 23:31:19 GMT: Username:new_acc
+Thu, 25 Apr 2019 00:14:49 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 00:14:49 GMT: In get UserID
+Thu, 25 Apr 2019 00:14:50 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 00:14:50 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 00:14:50 GMT: Username:new_acc
+Thu, 25 Apr 2019 00:31:08 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 00:31:08 GMT: In get UserID
+Thu, 25 Apr 2019 00:31:10 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 00:31:10 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 00:31:10 GMT: Username:new_acc
+Thu, 25 Apr 2019 02:11:03 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 02:11:03 GMT: In get UserID
+Thu, 25 Apr 2019 02:11:03 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 02:11:04 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 02:11:04 GMT: Username:new_acc
+Thu, 25 Apr 2019 02:11:41 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 02:11:41 GMT: In get UserID
+Thu, 25 Apr 2019 02:11:42 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Thu, 25 Apr 2019 02:11:43 GMT: SessionID: createuser
+Thu, 25 Apr 2019 02:11:43 GMT: Creating user: forgot
+Thu, 25 Apr 2019 02:11:58 GMT: SessionID: getusername
+Thu, 25 Apr 2019 02:11:59 GMT: SessionID: forgotpassword
+Thu, 25 Apr 2019 02:22:59 GMT: SessionID: getcode
+Thu, 25 Apr 2019 02:23:00 GMT: SessionID: resetpassword
+Thu, 25 Apr 2019 02:23:01 GMT: Password reset for ${username}
+Thu, 25 Apr 2019 02:23:01 GMT: Password reset
+Thu, 25 Apr 2019 02:23:13 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 02:23:13 GMT: In get UserID
+Thu, 25 Apr 2019 02:23:14 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 02:23:14 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 02:23:14 GMT: Username:forgot
+Thu, 25 Apr 2019 03:06:20 GMT: SessionID: getusername
+Thu, 25 Apr 2019 03:06:21 GMT: SessionID: forgotpassword
+Thu, 25 Apr 2019 03:07:52 GMT: SessionID: getcode
+Thu, 25 Apr 2019 03:07:53 GMT: SessionID: resetpassword
+Thu, 25 Apr 2019 03:07:53 GMT: Password reset for ${username}
+Thu, 25 Apr 2019 03:07:54 GMT: Password reset
+Thu, 25 Apr 2019 03:11:52 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 03:11:52 GMT: In get UserID
+Thu, 25 Apr 2019 03:11:53 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 03:11:53 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 03:11:53 GMT: Username:forgot
+Thu, 25 Apr 2019 03:12:00 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 03:12:00 GMT: In get UserID
+Thu, 25 Apr 2019 03:12:00 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 03:12:01 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 03:12:01 GMT: Username:new_acc
+Thu, 25 Apr 2019 03:14:59 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 03:14:59 GMT: In get UserID
+Thu, 25 Apr 2019 03:15:00 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 03:15:00 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 03:15:00 GMT: Username:new_acc
+Thu, 25 Apr 2019 03:16:58 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 03:16:58 GMT: In get UserID
+Thu, 25 Apr 2019 03:16:59 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 03:16:59 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 03:16:59 GMT: Username:new_acc
+Thu, 25 Apr 2019 03:18:24 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 03:18:24 GMT: In get UserID
+Thu, 25 Apr 2019 03:18:25 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 03:18:25 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 03:18:25 GMT: Username:new_acc
+Thu, 25 Apr 2019 17:14:53 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 17:14:53 GMT: In get UserID
+Thu, 25 Apr 2019 17:14:54 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 17:14:54 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 17:14:54 GMT: Username:new_acc
+Thu, 25 Apr 2019 17:15:03 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 17:15:03 GMT: In get UserID
+Thu, 25 Apr 2019 17:15:04 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 17:15:04 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 17:15:04 GMT: Username:forgot
+Thu, 25 Apr 2019 17:15:21 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 17:15:21 GMT: In get UserID
+Thu, 25 Apr 2019 17:15:22 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 17:15:22 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 17:15:22 GMT: Username:forgot
+Thu, 25 Apr 2019 17:16:47 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 17:16:47 GMT: In get UserID
+Thu, 25 Apr 2019 17:16:48 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 17:16:48 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 17:16:48 GMT: Username:new_acc
+Thu, 25 Apr 2019 17:16:57 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 17:16:57 GMT: In get UserID
+Thu, 25 Apr 2019 17:16:58 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 17:16:59 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 17:16:59 GMT: Username:new_acc
+Thu, 25 Apr 2019 17:39:24 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 17:39:24 GMT: In get UserID
+Thu, 25 Apr 2019 17:39:25 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 17:39:25 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 17:39:25 GMT: Username:new_acc
+Thu, 25 Apr 2019 17:40:03 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 17:40:03 GMT: In get UserID
+Thu, 25 Apr 2019 17:40:04 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 17:40:05 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 17:40:05 GMT: Username:new_acc
+Thu, 25 Apr 2019 18:28:47 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 18:28:47 GMT: In get UserID
+Thu, 25 Apr 2019 18:28:48 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 18:28:48 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 18:28:48 GMT: In get UserID
+Thu, 25 Apr 2019 18:28:49 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 18:28:49 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 18:28:49 GMT: In get UserID
+Thu, 25 Apr 2019 18:28:50 GMT: {"recordsets":[[{"UserID":49}]],"recordset":[{"UserID":49}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 18:29:21 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 18:29:21 GMT: In get UserID
+Thu, 25 Apr 2019 18:29:22 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Thu, 25 Apr 2019 18:29:23 GMT: SessionID: createuser
+Thu, 25 Apr 2019 18:29:23 GMT: Creating user: Michaelbay
+Thu, 25 Apr 2019 18:29:33 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 18:29:33 GMT: In get UserID
+Thu, 25 Apr 2019 18:29:33 GMT: {"recordsets":[[{"UserID":62}]],"recordset":[{"UserID":62}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 18:29:34 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 18:29:34 GMT: Username:michaelbay
+Thu, 25 Apr 2019 18:46:57 GMT: SessionID: getusername
+Thu, 25 Apr 2019 18:46:58 GMT: SessionID: forgotpassword
+Thu, 25 Apr 2019 18:47:28 GMT: SessionID: getcode
+Thu, 25 Apr 2019 18:47:29 GMT: SessionID: resetpassword
+Thu, 25 Apr 2019 18:47:29 GMT: Password reset for ${username}
+Thu, 25 Apr 2019 18:47:30 GMT: Password reset
+Thu, 25 Apr 2019 18:47:37 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 18:47:37 GMT: In get UserID
+Thu, 25 Apr 2019 18:47:38 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 18:47:38 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 18:47:38 GMT: Username:tuckersaccount
+Thu, 25 Apr 2019 18:49:30 GMT: SessionID: resetpassword
+Thu, 25 Apr 2019 18:49:30 GMT: Password reset for ${username}
+Thu, 25 Apr 2019 18:49:30 GMT: Password reset
+Thu, 25 Apr 2019 18:51:30 GMT: SessionID: resetpassword
+Thu, 25 Apr 2019 18:51:30 GMT: Password reset for ${username}
+Thu, 25 Apr 2019 18:51:31 GMT: Password reset
+Thu, 25 Apr 2019 18:53:30 GMT: SessionID: resetpassword
+Thu, 25 Apr 2019 18:53:30 GMT: Password reset for ${username}
+Thu, 25 Apr 2019 18:53:31 GMT: Password reset
+Thu, 25 Apr 2019 19:04:07 GMT: SessionID: getusername
+Thu, 25 Apr 2019 19:04:08 GMT: SessionID: forgotpassword
+Thu, 25 Apr 2019 19:04:33 GMT: SessionID: getcode
+Thu, 25 Apr 2019 19:04:34 GMT: SessionID: resetpassword
+Thu, 25 Apr 2019 19:04:34 GMT: Password reset for ${username}
+Thu, 25 Apr 2019 19:04:34 GMT: Password reset
+Thu, 25 Apr 2019 19:04:47 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 19:04:47 GMT: In get UserID
+Thu, 25 Apr 2019 19:04:48 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 19:04:48 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 19:04:48 GMT: Username:tuckersaccount
+Thu, 25 Apr 2019 19:09:34 GMT: SessionID: getuserid
+Thu, 25 Apr 2019 19:09:34 GMT: In get UserID
+Thu, 25 Apr 2019 19:09:35 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Thu, 25 Apr 2019 19:09:35 GMT: SessionID: confirmuser
+Thu, 25 Apr 2019 19:09:35 GMT: Username:tuckersaccount
+Fri, 26 Apr 2019 04:44:56 GMT: SessionID: getuserid
+Fri, 26 Apr 2019 04:44:56 GMT: In get UserID
+Fri, 26 Apr 2019 04:44:57 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Fri, 26 Apr 2019 04:44:57 GMT: SessionID: confirmuser
+Fri, 26 Apr 2019 04:44:57 GMT: Username:tuckersaccount
+Wed, 01 May 2019 02:32:42 GMT: SessionID: getuserid
+Wed, 01 May 2019 02:32:42 GMT: In get UserID
+Wed, 01 May 2019 02:32:43 GMT: {"recordsets":[[{"UserID":60}]],"recordset":[{"UserID":60}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 01 May 2019 02:32:43 GMT: SessionID: confirmuser
+Wed, 01 May 2019 02:32:43 GMT: Username:whitneytest
+Wed, 01 May 2019 02:33:24 GMT: SessionID: getuserid
+Wed, 01 May 2019 02:33:24 GMT: In get UserID
+Wed, 01 May 2019 02:33:24 GMT: {"recordsets":[[{"UserID":60}]],"recordset":[{"UserID":60}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 01 May 2019 02:33:25 GMT: SessionID: confirmuser
+Wed, 01 May 2019 02:33:25 GMT: Username:whitneytest
+Wed, 01 May 2019 02:33:43 GMT: SessionID: getuserid
+Wed, 01 May 2019 02:33:43 GMT: In get UserID
+Wed, 01 May 2019 02:33:44 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Wed, 01 May 2019 02:33:50 GMT: SessionID: getuserid
+Wed, 01 May 2019 02:33:50 GMT: In get UserID
+Wed, 01 May 2019 02:33:50 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Wed, 01 May 2019 02:33:59 GMT: SessionID: getuserid
+Wed, 01 May 2019 02:33:59 GMT: In get UserID
+Wed, 01 May 2019 02:34:00 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Wed, 01 May 2019 02:36:13 GMT: SessionID: getusername
+Wed, 01 May 2019 02:36:14 GMT: SessionID: forgotpassword
+Wed, 01 May 2019 02:36:35 GMT: SessionID: getcode
+Wed, 01 May 2019 02:36:37 GMT: SessionID: resetpassword
+Wed, 01 May 2019 02:36:37 GMT: Password reset for ${username}
+Wed, 01 May 2019 02:36:38 GMT: Password reset
+Wed, 01 May 2019 02:37:10 GMT: SessionID: getuserid
+Wed, 01 May 2019 02:37:10 GMT: In get UserID
+Wed, 01 May 2019 02:37:11 GMT: {"recordsets":[[{"UserID":60}]],"recordset":[{"UserID":60}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 01 May 2019 02:37:11 GMT: SessionID: confirmuser
+Wed, 01 May 2019 02:37:11 GMT: Username:whitneytest
+Wed, 01 May 2019 16:17:11 GMT: SessionID: getuserid
+Wed, 01 May 2019 16:17:11 GMT: In get UserID
+Wed, 01 May 2019 16:17:12 GMT: {"recordsets":[[{"UserID":53}]],"recordset":[{"UserID":53}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 01 May 2019 16:17:12 GMT: SessionID: confirmuser
+Wed, 01 May 2019 16:17:12 GMT: Username:tucker
+Wed, 01 May 2019 16:21:03 GMT: SessionID: getuserid
+Wed, 01 May 2019 16:21:03 GMT: In get UserID
+Wed, 01 May 2019 16:21:04 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Wed, 01 May 2019 16:21:05 GMT: SessionID: createuser
+Wed, 01 May 2019 16:21:05 GMT: Creating user: sam
+Wed, 01 May 2019 16:21:13 GMT: SessionID: getuserid
+Wed, 01 May 2019 16:21:13 GMT: In get UserID
+Wed, 01 May 2019 16:21:14 GMT: {"recordsets":[[{"UserID":63}]],"recordset":[{"UserID":63}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 01 May 2019 16:21:14 GMT: SessionID: confirmuser
+Wed, 01 May 2019 16:21:14 GMT: Username:sam
+Wed, 01 May 2019 16:45:36 GMT: SessionID: getuserid
+Wed, 01 May 2019 16:45:36 GMT: In get UserID
+Wed, 01 May 2019 16:45:37 GMT: {"recordsets":[[{"UserID":63}]],"recordset":[{"UserID":63}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 01 May 2019 16:45:37 GMT: SessionID: confirmuser
+Wed, 01 May 2019 16:45:37 GMT: Username:sam
+Wed, 01 May 2019 16:51:43 GMT: SessionID: getuserid
+Wed, 01 May 2019 16:51:43 GMT: In get UserID
+Wed, 01 May 2019 16:51:43 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Wed, 01 May 2019 16:51:44 GMT: SessionID: createuser
+Wed, 01 May 2019 16:51:44 GMT: Creating user: sam2
+Wed, 01 May 2019 16:51:53 GMT: SessionID: getuserid
+Wed, 01 May 2019 16:51:53 GMT: In get UserID
+Wed, 01 May 2019 16:51:53 GMT: {"recordsets":[[{"UserID":64}]],"recordset":[{"UserID":64}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 01 May 2019 16:51:53 GMT: SessionID: confirmuser
+Wed, 01 May 2019 16:51:53 GMT: Username:sam2
+Wed, 01 May 2019 16:57:23 GMT: SessionID: getuserid
+Wed, 01 May 2019 16:57:23 GMT: In get UserID
+Wed, 01 May 2019 16:57:24 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Wed, 01 May 2019 16:57:25 GMT: SessionID: createuser
+Wed, 01 May 2019 16:57:25 GMT: Creating user: sam3
+Wed, 01 May 2019 16:57:51 GMT: SessionID: getuserid
+Wed, 01 May 2019 16:57:51 GMT: In get UserID
+Wed, 01 May 2019 16:57:51 GMT: {"recordsets":[[{"UserID":65}]],"recordset":[{"UserID":65}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 01 May 2019 16:57:52 GMT: SessionID: confirmuser
+Wed, 01 May 2019 16:57:52 GMT: Username:sam3
+Wed, 01 May 2019 17:52:59 GMT: SessionID: getuserid
+Wed, 01 May 2019 17:52:59 GMT: In get UserID
+Wed, 01 May 2019 17:52:59 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Wed, 01 May 2019 17:53:00 GMT: SessionID: createuser
+Wed, 01 May 2019 17:53:00 GMT: Creating user: sam4
+Wed, 01 May 2019 17:53:07 GMT: SessionID: getuserid
+Wed, 01 May 2019 17:53:07 GMT: In get UserID
+Wed, 01 May 2019 17:53:08 GMT: {"recordsets":[[{"UserID":66}]],"recordset":[{"UserID":66}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 01 May 2019 17:53:08 GMT: SessionID: confirmuser
+Wed, 01 May 2019 17:53:08 GMT: Username:sam4
+Wed, 01 May 2019 18:58:08 GMT: SessionID: getuserid
+Wed, 01 May 2019 18:58:08 GMT: In get UserID
+Wed, 01 May 2019 18:58:09 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 01 May 2019 18:58:09 GMT: SessionID: confirmuser
+Wed, 01 May 2019 18:58:09 GMT: Username:tuckersaccount
+Wed, 01 May 2019 18:58:21 GMT: SessionID: getuserid
+Wed, 01 May 2019 18:58:21 GMT: In get UserID
+Wed, 01 May 2019 18:58:21 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 01 May 2019 18:58:21 GMT: SessionID: confirmuser
+Wed, 01 May 2019 18:58:21 GMT: Username:tuckersaccount
+Thu, 02 May 2019 21:00:49 GMT: SessionID: getuserid
+Thu, 02 May 2019 21:00:49 GMT: In get UserID
+Thu, 02 May 2019 21:00:50 GMT: undefined
+Thu, 02 May 2019 21:03:44 GMT: SessionID: getuserid
+Thu, 02 May 2019 21:03:44 GMT: In get UserID
+Thu, 02 May 2019 21:03:45 GMT: undefined
+Thu, 02 May 2019 21:04:30 GMT: SessionID: getuserid
+Thu, 02 May 2019 21:04:30 GMT: In get UserID
+Thu, 02 May 2019 21:04:30 GMT: undefined
+Thu, 02 May 2019 21:05:03 GMT: SessionID: getuserid
+Thu, 02 May 2019 21:05:03 GMT: In get UserID
+Thu, 02 May 2019 21:05:03 GMT: undefined
+Thu, 02 May 2019 21:22:51 GMT: SessionID: getuserid
+Thu, 02 May 2019 21:22:51 GMT: In get UserID
+Thu, 02 May 2019 21:22:52 GMT: undefined
+Thu, 02 May 2019 21:26:53 GMT: SessionID: getuserid
+Thu, 02 May 2019 21:26:53 GMT: In get UserID
+Thu, 02 May 2019 21:26:54 GMT: undefined
+Thu, 02 May 2019 21:28:18 GMT: SessionID: getuserid
+Thu, 02 May 2019 21:28:18 GMT: In get UserID
+Thu, 02 May 2019 21:28:19 GMT: undefined
+Fri, 10 May 2019 21:32:21 GMT: SessionID: getuserid
+Fri, 10 May 2019 21:32:21 GMT: In get UserID
+Fri, 10 May 2019 21:32:22 GMT: undefined
+Sun, 12 May 2019 17:57:59 GMT: SessionID: getuserid
+Sun, 12 May 2019 17:57:59 GMT: In get UserID
+Sun, 12 May 2019 17:57:59 GMT: undefined
+Sun, 12 May 2019 17:59:38 GMT: SessionID: getuserid
+Sun, 12 May 2019 17:59:38 GMT: In get UserID
+Sun, 12 May 2019 17:59:39 GMT: undefined
+Sun, 12 May 2019 18:00:26 GMT: SessionID: getuserid
+Sun, 12 May 2019 18:00:26 GMT: In get UserID
+Sun, 12 May 2019 18:00:26 GMT: undefined
+Sun, 12 May 2019 18:10:34 GMT: SessionID: getuserid
+Sun, 12 May 2019 18:10:34 GMT: In get UserID
+Sun, 12 May 2019 18:10:35 GMT: undefined
+Sun, 12 May 2019 18:14:03 GMT: SessionID: getuserid
+Sun, 12 May 2019 18:14:03 GMT: In get UserID
+Sun, 12 May 2019 18:14:03 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 18:14:04 GMT: SessionID: confirmuser
+Sun, 12 May 2019 18:14:04 GMT: Username:tuckersaccount
+Sun, 12 May 2019 18:33:05 GMT: SessionID: getuserid
+Sun, 12 May 2019 18:33:05 GMT: In get UserID
+Sun, 12 May 2019 18:33:06 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 18:33:06 GMT: SessionID: confirmuser
+Sun, 12 May 2019 18:33:06 GMT: Username:tuckersaccount
+Sun, 12 May 2019 18:51:43 GMT: SessionID: getuserid
+Sun, 12 May 2019 18:51:43 GMT: In get UserID
+Sun, 12 May 2019 18:51:44 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 18:52:04 GMT: SessionID: confirmuser
+Sun, 12 May 2019 18:52:04 GMT: Username:tuckersaccount
+Sun, 12 May 2019 18:59:17 GMT: SessionID: getuserid
+Sun, 12 May 2019 18:59:17 GMT: In get UserID
+Sun, 12 May 2019 18:59:20 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 18:59:20 GMT: SessionID: confirmuser
+Sun, 12 May 2019 18:59:20 GMT: Username:tuckersaccount
+Sun, 12 May 2019 19:04:53 GMT: SessionID: getuserid
+Sun, 12 May 2019 19:04:53 GMT: In get UserID
+Sun, 12 May 2019 19:04:54 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 19:04:54 GMT: SessionID: confirmuser
+Sun, 12 May 2019 19:04:54 GMT: Username:tuckersaccount
+Sun, 12 May 2019 19:07:53 GMT: SessionID: getuserid
+Sun, 12 May 2019 19:07:53 GMT: In get UserID
+Sun, 12 May 2019 19:07:54 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 19:07:54 GMT: SessionID: confirmuser
+Sun, 12 May 2019 19:07:54 GMT: Username:tuckersaccount
+Sun, 12 May 2019 19:27:55 GMT: SessionID: getuserid
+Sun, 12 May 2019 19:27:55 GMT: In get UserID
+Sun, 12 May 2019 19:27:56 GMT: {"recordsets":[[{"UserID":60}]],"recordset":[{"UserID":60}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 19:27:56 GMT: SessionID: confirmuser
+Sun, 12 May 2019 19:27:56 GMT: Username:whitneytest
+Sun, 12 May 2019 19:51:07 GMT: SessionID: getuserid
+Sun, 12 May 2019 19:51:07 GMT: In get UserID
+Sun, 12 May 2019 19:51:07 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 19:51:08 GMT: SessionID: confirmuser
+Sun, 12 May 2019 19:51:08 GMT: Username:tuckersaccount
+Sun, 12 May 2019 19:56:19 GMT: SessionID: getuserid
+Sun, 12 May 2019 19:56:19 GMT: In get UserID
+Sun, 12 May 2019 19:56:20 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 19:56:20 GMT: SessionID: confirmuser
+Sun, 12 May 2019 19:56:20 GMT: Username:tuckersaccount
+Sun, 12 May 2019 20:02:28 GMT: SessionID: getuserid
+Sun, 12 May 2019 20:02:28 GMT: In get UserID
+Sun, 12 May 2019 20:02:29 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 20:02:30 GMT: SessionID: confirmuser
+Sun, 12 May 2019 20:02:30 GMT: Username:tuckersaccount
+Sun, 12 May 2019 20:04:19 GMT: SessionID: getuserid
+Sun, 12 May 2019 20:04:19 GMT: In get UserID
+Sun, 12 May 2019 20:04:19 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 20:04:20 GMT: SessionID: confirmuser
+Sun, 12 May 2019 20:04:20 GMT: Username:tuckersaccount
+Sun, 12 May 2019 20:08:36 GMT: SessionID: getuserid
+Sun, 12 May 2019 20:08:36 GMT: In get UserID
+Sun, 12 May 2019 20:08:37 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 20:08:39 GMT: SessionID: confirmuser
+Sun, 12 May 2019 20:08:39 GMT: Username:tuckersaccount
+Sun, 12 May 2019 20:22:00 GMT: SessionID: getuserid
+Sun, 12 May 2019 20:22:00 GMT: In get UserID
+Sun, 12 May 2019 20:22:00 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 20:22:01 GMT: SessionID: confirmuser
+Sun, 12 May 2019 20:22:01 GMT: Username:tuckersaccount
+Sun, 12 May 2019 20:23:49 GMT: SessionID: getuserid
+Sun, 12 May 2019 20:23:49 GMT: In get UserID
+Sun, 12 May 2019 20:23:49 GMT: {"recordsets":[[{"UserID":55}]],"recordset":[{"UserID":55}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 20:23:49 GMT: SessionID: confirmuser
+Sun, 12 May 2019 20:23:49 GMT: Username:c0w1e
+Sun, 12 May 2019 20:24:06 GMT: SessionID: disableuser
+Sun, 12 May 2019 20:24:06 GMT: SessionID: verifyauth
+Sun, 12 May 2019 20:24:06 GMT: Verified?: 1
+Sun, 12 May 2019 20:24:14 GMT: SessionID: getuserid
+Sun, 12 May 2019 20:24:14 GMT: In get UserID
+Sun, 12 May 2019 20:24:14 GMT: {"recordsets":[[{"UserID":55}]],"recordset":[{"UserID":55}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 20:24:14 GMT: SessionID: confirmuser
+Sun, 12 May 2019 20:24:14 GMT: Username:c0w1e
+Sun, 12 May 2019 20:59:43 GMT: SessionID: getuserid
+Sun, 12 May 2019 20:59:43 GMT: In get UserID
+Sun, 12 May 2019 20:59:44 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Sun, 12 May 2019 20:59:44 GMT: SessionID: confirmuser
+Sun, 12 May 2019 20:59:44 GMT: Username:tuckersaccount
+Mon, 13 May 2019 20:08:06 GMT: SessionID: getuserid
+Mon, 13 May 2019 20:08:06 GMT: In get UserID
+Mon, 13 May 2019 20:08:27 GMT: SessionID: getuserid
+Mon, 13 May 2019 20:08:27 GMT: In get UserID
+Mon, 13 May 2019 20:08:28 GMT: {"recordsets":[[{"UserID":61}]],"recordset":[{"UserID":61}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 13 May 2019 20:08:28 GMT: SessionID: confirmuser
+Mon, 13 May 2019 20:08:28 GMT: Username:tuckersaccount
+Mon, 13 May 2019 20:08:30 GMT: SessionID: getuserid
+Mon, 13 May 2019 20:08:30 GMT: In get UserID
+Mon, 13 May 2019 20:08:31 GMT: {"recordsets":[[{"UserID":66}]],"recordset":[{"UserID":66}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 13 May 2019 20:08:31 GMT: SessionID: confirmuser
+Mon, 13 May 2019 20:08:31 GMT: Username:sam4
+Mon, 13 May 2019 20:31:16 GMT: SessionID: getuserid
+Mon, 13 May 2019 20:31:16 GMT: In get UserID
+Mon, 13 May 2019 20:31:17 GMT: {"recordsets":[[{"UserID":60}]],"recordset":[{"UserID":60}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 13 May 2019 20:31:17 GMT: SessionID: confirmuser
+Mon, 13 May 2019 20:31:17 GMT: Username:whitneytest
+Mon, 13 May 2019 21:32:07 GMT: SessionID: getuserid
+Mon, 13 May 2019 21:32:07 GMT: In get UserID
+Mon, 13 May 2019 21:32:07 GMT: [object Object]
+Mon, 13 May 2019 21:32:07 GMT: SessionID: confirmuser
+Mon, 13 May 2019 21:32:07 GMT: Username:sam4
+Mon, 13 May 2019 21:32:29 GMT: SessionID: getuserid
+Mon, 13 May 2019 21:32:29 GMT: In get UserID
+Mon, 13 May 2019 21:32:30 GMT: [object Object]
+Mon, 13 May 2019 21:32:30 GMT: SessionID: confirmuser
+Mon, 13 May 2019 21:32:30 GMT: Username:tuckersaccount
+Mon, 13 May 2019 21:33:06 GMT: SessionID: getuserid
+Mon, 13 May 2019 21:33:06 GMT: In get UserID
+Mon, 13 May 2019 21:33:07 GMT: [object Object]
+Mon, 13 May 2019 21:33:07 GMT: SessionID: confirmuser
+Mon, 13 May 2019 21:33:07 GMT: Username:sam4
+Mon, 13 May 2019 23:26:41 GMT: SessionID: getuserid
+Mon, 13 May 2019 23:26:41 GMT: In get UserID
+Mon, 13 May 2019 23:26:42 GMT: [object Object]
+Mon, 13 May 2019 23:26:42 GMT: SessionID: getuserid
+Mon, 13 May 2019 23:26:42 GMT: In get UserID
+Mon, 13 May 2019 23:26:43 GMT: [object Object]
+Mon, 13 May 2019 23:26:43 GMT: SessionID: confirmuser
+Mon, 13 May 2019 23:26:43 GMT: Username:tuckersaccount
+Mon, 13 May 2019 23:26:44 GMT: SessionID: confirmuser
+Mon, 13 May 2019 23:26:44 GMT: Username:sam4
+Tue, 14 May 2019 02:09:40 GMT: SessionID: getuserid
+Tue, 14 May 2019 02:09:40 GMT: In get UserID
+Tue, 14 May 2019 02:09:41 GMT: [object Object]
+Tue, 14 May 2019 02:09:41 GMT: SessionID: confirmuser
+Tue, 14 May 2019 02:09:41 GMT: Username:sam4
+Tue, 14 May 2019 02:09:46 GMT: SessionID: getuserid
+Tue, 14 May 2019 02:09:46 GMT: In get UserID
+Tue, 14 May 2019 02:09:46 GMT: [object Object]
+Tue, 14 May 2019 02:09:47 GMT: SessionID: confirmuser
+Tue, 14 May 2019 02:09:47 GMT: Username:tuckersaccount
+Thu, 16 May 2019 18:24:33 GMT: SessionID: getuserid
+Thu, 16 May 2019 18:24:33 GMT: In get UserID
+Thu, 16 May 2019 18:24:34 GMT: [object Object]
+Thu, 16 May 2019 18:24:34 GMT: SessionID: confirmuser
+Thu, 16 May 2019 18:24:34 GMT: Username:bunk
+Thu, 16 May 2019 18:25:10 GMT: SessionID: getuserid
+Thu, 16 May 2019 18:25:10 GMT: In get UserID
+Thu, 16 May 2019 18:25:11 GMT: [object Object]
+Thu, 16 May 2019 18:25:11 GMT: SessionID: confirmuser
+Thu, 16 May 2019 18:25:11 GMT: Username:c0w1e
+Thu, 16 May 2019 18:25:35 GMT: SessionID: getuserid
+Thu, 16 May 2019 18:25:35 GMT: In get UserID
+Thu, 16 May 2019 18:25:36 GMT: [object Object]
+Thu, 16 May 2019 18:25:36 GMT: SessionID: confirmuser
+Thu, 16 May 2019 18:25:36 GMT: Username:c0w1e
+Thu, 16 May 2019 18:50:31 GMT: SessionID: getuserid
+Thu, 16 May 2019 18:50:31 GMT: In get UserID
+Thu, 16 May 2019 18:50:32 GMT: [object Object]
+Thu, 16 May 2019 18:50:32 GMT: SessionID: createuser
+Thu, 16 May 2019 18:50:33 GMT: Creating user: skunks
+Thu, 16 May 2019 18:50:56 GMT: SessionID: getuserid
+Thu, 16 May 2019 18:50:56 GMT: In get UserID
+Thu, 16 May 2019 18:50:57 GMT: [object Object]
+Thu, 16 May 2019 18:50:57 GMT: SessionID: createuser
+Thu, 16 May 2019 18:50:57 GMT: Creating user: whitney
+Thu, 16 May 2019 18:51:06 GMT: SessionID: getuserid
+Thu, 16 May 2019 18:51:06 GMT: In get UserID
+Thu, 16 May 2019 18:51:07 GMT: [object Object]
+Thu, 16 May 2019 18:51:07 GMT: SessionID: confirmuser
+Thu, 16 May 2019 18:51:07 GMT: Username:whitney
+Thu, 16 May 2019 19:04:13 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:04:13 GMT: In get UserID
+Thu, 16 May 2019 19:04:14 GMT: [object Object]
+Thu, 16 May 2019 19:04:14 GMT: SessionID: createuser
+Thu, 16 May 2019 19:04:15 GMT: Creating user: one
+Thu, 16 May 2019 19:04:30 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:04:30 GMT: In get UserID
+Thu, 16 May 2019 19:04:31 GMT: [object Object]
+Thu, 16 May 2019 19:04:32 GMT: SessionID: createuser
+Thu, 16 May 2019 19:04:32 GMT: Creating user: C0W1E
+Thu, 16 May 2019 19:04:36 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:04:36 GMT: In get UserID
+Thu, 16 May 2019 19:04:37 GMT: [object Object]
+Thu, 16 May 2019 19:04:37 GMT: SessionID: confirmuser
+Thu, 16 May 2019 19:04:37 GMT: Username:whitney
+Thu, 16 May 2019 19:04:44 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:04:44 GMT: In get UserID
+Thu, 16 May 2019 19:04:45 GMT: [object Object]
+Thu, 16 May 2019 19:04:45 GMT: SessionID: confirmuser
+Thu, 16 May 2019 19:04:45 GMT: Username:c0w1e
+Thu, 16 May 2019 19:06:04 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:06:04 GMT: In get UserID
+Thu, 16 May 2019 19:06:05 GMT: [object Object]
+Thu, 16 May 2019 19:06:05 GMT: SessionID: confirmuser
+Thu, 16 May 2019 19:06:05 GMT: Username:whitney
+Thu, 16 May 2019 19:11:59 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:11:59 GMT: In get UserID
+Thu, 16 May 2019 19:12:00 GMT: [object Object]
+Thu, 16 May 2019 19:12:00 GMT: SessionID: createuser
+Thu, 16 May 2019 19:12:00 GMT: Creating user: tucker
+Thu, 16 May 2019 19:12:10 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:12:10 GMT: In get UserID
+Thu, 16 May 2019 19:12:11 GMT: [object Object]
+Thu, 16 May 2019 19:12:11 GMT: SessionID: confirmuser
+Thu, 16 May 2019 19:12:11 GMT: Username:tucker
+Thu, 16 May 2019 19:12:36 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:12:36 GMT: In get UserID
+Thu, 16 May 2019 19:12:37 GMT: [object Object]
+Thu, 16 May 2019 19:12:37 GMT: SessionID: confirmuser
+Thu, 16 May 2019 19:12:37 GMT: Username:one
+Thu, 16 May 2019 19:12:50 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:12:50 GMT: In get UserID
+Thu, 16 May 2019 19:12:50 GMT: [object Object]
+Thu, 16 May 2019 19:12:51 GMT: SessionID: createuser
+Thu, 16 May 2019 19:12:51 GMT: Creating user: averygoodtestaccount
+Thu, 16 May 2019 19:13:02 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:13:02 GMT: In get UserID
+Thu, 16 May 2019 19:13:03 GMT: [object Object]
+Thu, 16 May 2019 19:13:03 GMT: SessionID: confirmuser
+Thu, 16 May 2019 19:13:03 GMT: Username:averygoodtestaccount
+Thu, 16 May 2019 19:24:13 GMT: SessionID: getusername
+Thu, 16 May 2019 19:24:14 GMT: SessionID: forgotpassword
+Thu, 16 May 2019 19:34:21 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:34:21 GMT: In get UserID
+Thu, 16 May 2019 19:34:21 GMT: [object Object]
+Thu, 16 May 2019 19:34:39 GMT: SessionID: getusername
+Thu, 16 May 2019 19:34:40 GMT: SessionID: forgotpassword
+Thu, 16 May 2019 19:35:50 GMT: SessionID: getusername
+Thu, 16 May 2019 19:35:51 GMT: SessionID: forgotpassword
+Thu, 16 May 2019 19:39:02 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:39:02 GMT: In get UserID
+Thu, 16 May 2019 19:39:03 GMT: [object Object]
+Thu, 16 May 2019 19:39:03 GMT: SessionID: confirmuser
+Thu, 16 May 2019 19:39:03 GMT: Username:tucker
+Thu, 16 May 2019 19:45:57 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:45:57 GMT: In get UserID
+Thu, 16 May 2019 19:45:57 GMT: [object Object]
+Thu, 16 May 2019 19:45:57 GMT: SessionID: confirmuser
+Thu, 16 May 2019 19:45:57 GMT: Username:whitney
+Thu, 16 May 2019 19:53:22 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:53:22 GMT: In get UserID
+Thu, 16 May 2019 19:53:23 GMT: [object Object]
+Thu, 16 May 2019 19:53:23 GMT: SessionID: confirmuser
+Thu, 16 May 2019 19:53:23 GMT: Username:c0w1e
+Thu, 16 May 2019 19:56:20 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:56:20 GMT: In get UserID
+Thu, 16 May 2019 19:56:20 GMT: [object Object]
+Thu, 16 May 2019 19:56:21 GMT: SessionID: confirmuser
+Thu, 16 May 2019 19:56:21 GMT: Username:averygoodtestaccount
+Thu, 16 May 2019 19:56:58 GMT: SessionID: getuserid
+Thu, 16 May 2019 19:56:58 GMT: In get UserID
+Thu, 16 May 2019 19:56:59 GMT: [object Object]
+Thu, 16 May 2019 19:56:59 GMT: Username:one
+Thu, 16 May 2019 19:56:59 GMT: SessionID: confirmuser
+Thu, 16 May 2019 21:00:52 GMT: SessionID: getuserid
+Thu, 16 May 2019 21:00:52 GMT: In get UserID
+Thu, 16 May 2019 21:00:53 GMT: [object Object]
+Thu, 16 May 2019 21:00:53 GMT: SessionID: confirmuser
+Thu, 16 May 2019 21:00:53 GMT: Username:whitney
+Thu, 16 May 2019 21:01:26 GMT: SessionID: getuserid
+Thu, 16 May 2019 21:01:26 GMT: In get UserID
+Thu, 16 May 2019 21:01:26 GMT: [object Object]
+Thu, 16 May 2019 21:01:27 GMT: SessionID: confirmuser
+Thu, 16 May 2019 21:01:27 GMT: Username:whitney
+Sat, 18 May 2019 20:01:52 GMT: SessionID: getuserid
+Sat, 18 May 2019 20:01:52 GMT: In get UserID
+Sat, 18 May 2019 20:01:53 GMT: [object Object]
+Sat, 18 May 2019 20:01:53 GMT: SessionID: confirmuser
+Sat, 18 May 2019 20:01:53 GMT: Username:one
+Wed, 22 May 2019 15:11:45 GMT: SessionID: getuserid
+Wed, 22 May 2019 15:11:45 GMT: In get UserID
+Wed, 22 May 2019 15:11:47 GMT: [object Object]
+Wed, 22 May 2019 15:11:48 GMT: SessionID: confirmuser
+Wed, 22 May 2019 15:11:48 GMT: Username:one
+Wed, 22 May 2019 15:18:45 GMT: SessionID: getuserid
+Wed, 22 May 2019 15:18:45 GMT: In get UserID
+Wed, 22 May 2019 15:18:45 GMT: [object Object]
+Wed, 22 May 2019 15:18:46 GMT: SessionID: confirmuser
+Wed, 22 May 2019 15:18:46 GMT: Username:one
+Wed, 22 May 2019 15:28:14 GMT: SessionID: getuserid
+Wed, 22 May 2019 15:28:14 GMT: In get UserID
+Wed, 22 May 2019 15:28:15 GMT: [object Object]
+Wed, 22 May 2019 15:28:15 GMT: SessionID: confirmuser
+Wed, 22 May 2019 15:28:15 GMT: Username:one
+Wed, 22 May 2019 15:30:36 GMT: SessionID: getuserid
+Wed, 22 May 2019 15:30:36 GMT: In get UserID
+Wed, 22 May 2019 15:30:37 GMT: [object Object]
+Wed, 22 May 2019 15:30:37 GMT: SessionID: confirmuser
+Wed, 22 May 2019 15:30:37 GMT: Username:one
+Wed, 22 May 2019 15:46:00 GMT: SessionID: getuserid
+Wed, 22 May 2019 15:46:00 GMT: In get UserID
+Wed, 22 May 2019 15:46:01 GMT: [object Object]
+Wed, 22 May 2019 15:46:01 GMT: Username:one
+Wed, 22 May 2019 15:46:01 GMT: SessionID: confirmuser
+Wed, 22 May 2019 15:48:53 GMT: In get UserID
+Wed, 22 May 2019 15:48:53 GMT: SessionID: getuserid
+Wed, 22 May 2019 15:48:54 GMT: [object Object]
+Wed, 22 May 2019 15:48:54 GMT: SessionID: confirmuser
+Wed, 22 May 2019 15:48:54 GMT: Username:one
+Wed, 22 May 2019 15:55:27 GMT: SessionID: getuserid
+Wed, 22 May 2019 15:55:27 GMT: In get UserID
+Wed, 22 May 2019 15:55:28 GMT: [object Object]
+Wed, 22 May 2019 15:55:28 GMT: Username:one
+Wed, 22 May 2019 15:55:28 GMT: SessionID: confirmuser
+Wed, 22 May 2019 22:26:55 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:26:55 GMT: In get UserID
+Wed, 22 May 2019 22:26:56 GMT: [object Object]
+Wed, 22 May 2019 22:26:56 GMT: SessionID: createuser
+Wed, 22 May 2019 22:26:57 GMT: Creating user: test101
+Wed, 22 May 2019 22:27:08 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:27:08 GMT: In get UserID
+Wed, 22 May 2019 22:27:08 GMT: [object Object]
+Wed, 22 May 2019 22:27:08 GMT: SessionID: confirmuser
+Wed, 22 May 2019 22:27:08 GMT: Username:test101
+Wed, 22 May 2019 22:28:10 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:28:10 GMT: In get UserID
+Wed, 22 May 2019 22:28:10 GMT: [object Object]
+Wed, 22 May 2019 22:28:11 GMT: SessionID: confirmuser
+Wed, 22 May 2019 22:28:11 GMT: Username:test101
+Wed, 22 May 2019 22:31:04 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:31:04 GMT: In get UserID
+Wed, 22 May 2019 22:31:05 GMT: [object Object]
+Wed, 22 May 2019 22:31:05 GMT: SessionID: confirmuser
+Wed, 22 May 2019 22:31:05 GMT: Username:test101
+Wed, 22 May 2019 22:42:58 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:42:58 GMT: In get UserID
+Wed, 22 May 2019 22:42:58 GMT: [object Object]
+Wed, 22 May 2019 22:42:59 GMT: SessionID: confirmuser
+Wed, 22 May 2019 22:42:59 GMT: Username:test101
+Wed, 22 May 2019 22:46:57 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:46:57 GMT: In get UserID
+Wed, 22 May 2019 22:46:57 GMT: [object Object]
+Wed, 22 May 2019 22:46:57 GMT: SessionID: confirmuser
+Wed, 22 May 2019 22:46:57 GMT: Username:test101
+Wed, 22 May 2019 22:47:55 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:47:55 GMT: In get UserID
+Wed, 22 May 2019 22:47:56 GMT: [object Object]
+Wed, 22 May 2019 22:48:07 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:48:07 GMT: In get UserID
+Wed, 22 May 2019 22:48:07 GMT: [object Object]
+Wed, 22 May 2019 22:49:17 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:49:17 GMT: In get UserID
+Wed, 22 May 2019 22:49:18 GMT: [object Object]
+Wed, 22 May 2019 22:49:18 GMT: SessionID: createuser
+Wed, 22 May 2019 22:49:19 GMT: Creating user: Tuckersaccount
+Wed, 22 May 2019 22:49:45 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:49:45 GMT: In get UserID
+Wed, 22 May 2019 22:49:46 GMT: [object Object]
+Wed, 22 May 2019 22:49:46 GMT: SessionID: confirmuser
+Wed, 22 May 2019 22:49:46 GMT: Username:tuckersaccount
+Wed, 22 May 2019 22:57:10 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:57:10 GMT: In get UserID
+Wed, 22 May 2019 22:57:11 GMT: [object Object]
+Wed, 22 May 2019 22:57:11 GMT: SessionID: confirmuser
+Wed, 22 May 2019 22:57:11 GMT: Username:tuckersaccount
+Wed, 22 May 2019 22:58:40 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:58:40 GMT: In get UserID
+Wed, 22 May 2019 22:58:41 GMT: [object Object]
+Wed, 22 May 2019 22:58:41 GMT: SessionID: createuser
+Wed, 22 May 2019 22:58:41 GMT: Creating user: thisisareallylongtestaccountwithwierdcharacterslikeexclamationpoints!
+Wed, 22 May 2019 22:58:42 GMT: RequestError: String or binary data would be truncated.
+Wed, 22 May 2019 22:59:37 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:59:37 GMT: In get UserID
+Wed, 22 May 2019 22:59:38 GMT: [object Object]
+Wed, 22 May 2019 22:59:38 GMT: SessionID: createuser
+Wed, 22 May 2019 22:59:39 GMT: Creating user: exclamationpoint!
+Wed, 22 May 2019 22:59:56 GMT: SessionID: getuserid
+Wed, 22 May 2019 22:59:56 GMT: In get UserID
+Wed, 22 May 2019 22:59:57 GMT: [object Object]
+Wed, 22 May 2019 22:59:57 GMT: SessionID: confirmuser
+Wed, 22 May 2019 22:59:57 GMT: Username:exclamationpoint!
+Wed, 22 May 2019 22:59:58 GMT: SessionID: confirmuser
+Wed, 22 May 2019 22:59:58 GMT: Username:exclamationpoint!
+Wed, 22 May 2019 23:04:25 GMT: SessionID: getuserid
+Wed, 22 May 2019 23:04:25 GMT: In get UserID
+Wed, 22 May 2019 23:04:26 GMT: [object Object]
+Wed, 22 May 2019 23:04:26 GMT: SessionID: createuser
+Wed, 22 May 2019 23:04:26 GMT: Creating user: test202
+Wed, 22 May 2019 23:07:07 GMT: SessionID: getuserid
+Wed, 22 May 2019 23:07:07 GMT: In get UserID
+Wed, 22 May 2019 23:07:08 GMT: [object Object]
+Wed, 22 May 2019 23:07:08 GMT: SessionID: createuser
+Wed, 22 May 2019 23:07:09 GMT: Creating user: test303
+Wed, 22 May 2019 23:08:41 GMT: SessionID: getuserid
+Wed, 22 May 2019 23:08:41 GMT: In get UserID
+Wed, 22 May 2019 23:08:41 GMT: [object Object]
+Wed, 22 May 2019 23:08:42 GMT: SessionID: createuser
+Wed, 22 May 2019 23:08:42 GMT: Creating user: test404
+Wed, 22 May 2019 23:10:38 GMT: SessionID: getuserid
+Wed, 22 May 2019 23:10:38 GMT: In get UserID
+Wed, 22 May 2019 23:10:39 GMT: [object Object]
+Wed, 22 May 2019 23:10:59 GMT: SessionID: getuserid
+Wed, 22 May 2019 23:10:59 GMT: In get UserID
+Wed, 22 May 2019 23:11:00 GMT: [object Object]
+Wed, 22 May 2019 23:11:00 GMT: Username:test101
+Wed, 22 May 2019 23:11:00 GMT: SessionID: confirmuser
+Thu, 23 May 2019 00:03:04 GMT: SessionID: getuserid
+Thu, 23 May 2019 00:03:04 GMT: In get UserID
+Thu, 23 May 2019 00:03:05 GMT: [object Object]
+Thu, 23 May 2019 00:03:05 GMT: SessionID: confirmuser
+Thu, 23 May 2019 00:03:05 GMT: Username:test101
+Thu, 23 May 2019 16:33:14 GMT: SessionID: getuserid
+Thu, 23 May 2019 16:33:14 GMT: In get UserID
+Thu, 23 May 2019 16:33:14 GMT: [object Object]
+Thu, 23 May 2019 16:33:15 GMT: SessionID: confirmuser
+Thu, 23 May 2019 16:33:15 GMT: Username:test101
+Thu, 23 May 2019 16:48:50 GMT: SessionID: getuserid
+Thu, 23 May 2019 16:48:50 GMT: In get UserID
+Thu, 23 May 2019 16:48:50 GMT: [object Object]
+Thu, 23 May 2019 16:48:56 GMT: SessionID: getuserid
+Thu, 23 May 2019 16:48:56 GMT: In get UserID
+Thu, 23 May 2019 16:48:57 GMT: [object Object]
+Thu, 23 May 2019 16:48:57 GMT: SessionID: confirmuser
+Thu, 23 May 2019 16:48:57 GMT: Username:whitney
+Thu, 23 May 2019 16:49:17 GMT: In get UserID
+Thu, 23 May 2019 16:49:17 GMT: SessionID: getuserid
+Thu, 23 May 2019 16:49:18 GMT: [object Object]
+Thu, 23 May 2019 16:49:18 GMT: SessionID: confirmuser
+Thu, 23 May 2019 16:49:18 GMT: Username:test101
+Thu, 23 May 2019 17:06:16 GMT: SessionID: getuserid
+Thu, 23 May 2019 17:06:16 GMT: In get UserID
+Thu, 23 May 2019 17:06:17 GMT: [object Object]
+Thu, 23 May 2019 17:06:17 GMT: SessionID: confirmuser
+Thu, 23 May 2019 17:06:17 GMT: Username:one
+Thu, 23 May 2019 17:15:01 GMT: SessionID: getuserid
+Thu, 23 May 2019 17:15:01 GMT: In get UserID
+Thu, 23 May 2019 17:15:02 GMT: [object Object]
+Thu, 23 May 2019 17:15:02 GMT: SessionID: confirmuser
+Thu, 23 May 2019 17:15:02 GMT: Username:whitney
+Thu, 23 May 2019 17:20:58 GMT: SessionID: getuserid
+Thu, 23 May 2019 17:20:58 GMT: In get UserID
+Thu, 23 May 2019 17:20:58 GMT: [object Object]
+Thu, 23 May 2019 17:20:58 GMT: SessionID: confirmuser
+Thu, 23 May 2019 17:20:58 GMT: Username:one
+Thu, 23 May 2019 17:42:16 GMT: SessionID: getuserid
+Thu, 23 May 2019 17:42:16 GMT: In get UserID
+Thu, 23 May 2019 17:42:16 GMT: [object Object]
+Thu, 23 May 2019 17:42:17 GMT: SessionID: confirmuser
+Thu, 23 May 2019 17:42:17 GMT: Username:test101
+Thu, 23 May 2019 18:14:15 GMT: SessionID: getuserid
+Thu, 23 May 2019 18:14:15 GMT: In get UserID
+Thu, 23 May 2019 18:14:16 GMT: [object Object]
+Thu, 23 May 2019 18:14:16 GMT: SessionID: confirmuser
+Thu, 23 May 2019 18:14:16 GMT: Username:test101
+Thu, 23 May 2019 18:37:15 GMT: SessionID: getuserid
+Thu, 23 May 2019 18:37:15 GMT: In get UserID
+Thu, 23 May 2019 18:37:15 GMT: [object Object]
+Thu, 23 May 2019 18:37:15 GMT: SessionID: confirmuser
+Thu, 23 May 2019 18:37:15 GMT: Username:test101
+Thu, 23 May 2019 18:46:53 GMT: SessionID: getuserid
+Thu, 23 May 2019 18:46:53 GMT: In get UserID
+Thu, 23 May 2019 18:46:54 GMT: [object Object]
+Thu, 23 May 2019 18:46:54 GMT: SessionID: confirmuser
+Thu, 23 May 2019 18:46:54 GMT: Username:test101
+Thu, 23 May 2019 18:56:45 GMT: SessionID: getuserid
+Thu, 23 May 2019 18:56:45 GMT: In get UserID
+Thu, 23 May 2019 18:56:45 GMT: [object Object]
+Thu, 23 May 2019 18:56:46 GMT: SessionID: confirmuser
+Thu, 23 May 2019 18:56:46 GMT: Username:test101
+Thu, 23 May 2019 19:47:17 GMT: SessionID: getuserid
+Thu, 23 May 2019 19:47:17 GMT: In get UserID
+Thu, 23 May 2019 19:47:18 GMT: [object Object]
+Thu, 23 May 2019 19:47:18 GMT: SessionID: confirmuser
+Thu, 23 May 2019 19:47:18 GMT: Username:test101
+Sun, 26 May 2019 16:11:58 GMT: SessionID: getuserid
+Sun, 26 May 2019 16:11:58 GMT: In get UserID
+Sun, 26 May 2019 16:11:59 GMT: [object Object]
+Sun, 26 May 2019 16:11:59 GMT: SessionID: createuser
+Sun, 26 May 2019 16:11:59 GMT: Creating user: samb
+Sun, 26 May 2019 16:13:15 GMT: SessionID: getuserid
+Sun, 26 May 2019 16:13:15 GMT: In get UserID
+Sun, 26 May 2019 16:13:16 GMT: [object Object]
+Sun, 26 May 2019 16:13:16 GMT: SessionID: confirmuser
+Sun, 26 May 2019 16:13:16 GMT: Username:samb
+Sun, 26 May 2019 16:16:37 GMT: SessionID: getuserid
+Sun, 26 May 2019 16:16:37 GMT: In get UserID
+Sun, 26 May 2019 16:16:38 GMT: [object Object]
+Sun, 26 May 2019 16:16:38 GMT: SessionID: confirmuser
+Sun, 26 May 2019 16:16:38 GMT: Username:samb
+Sun, 26 May 2019 16:22:07 GMT: SessionID: getuserid
+Sun, 26 May 2019 16:22:07 GMT: In get UserID
+Sun, 26 May 2019 16:22:08 GMT: [object Object]
+Sun, 26 May 2019 16:22:16 GMT: SessionID: getuserid
+Sun, 26 May 2019 16:22:16 GMT: In get UserID
+Sun, 26 May 2019 16:22:17 GMT: [object Object]
+Sun, 26 May 2019 16:22:35 GMT: SessionID: getuserid
+Sun, 26 May 2019 16:22:35 GMT: In get UserID
+Sun, 26 May 2019 16:22:36 GMT: [object Object]
+Sun, 26 May 2019 16:22:36 GMT: SessionID: createuser
+Sun, 26 May 2019 16:22:37 GMT: Creating user: sam_b
+Sun, 26 May 2019 16:22:46 GMT: SessionID: getuserid
+Sun, 26 May 2019 16:22:46 GMT: In get UserID
+Sun, 26 May 2019 16:22:47 GMT: [object Object]
+Sun, 26 May 2019 16:22:47 GMT: SessionID: confirmuser
+Sun, 26 May 2019 16:22:47 GMT: Username:sam_b
+Sun, 26 May 2019 17:14:36 GMT: SessionID: getuserid
+Sun, 26 May 2019 17:14:36 GMT: In get UserID
+Sun, 26 May 2019 17:14:36 GMT: [object Object]
+Sun, 26 May 2019 17:14:37 GMT: SessionID: createuser
+Sun, 26 May 2019 17:14:37 GMT: Creating user: samtest
+Sun, 26 May 2019 17:17:27 GMT: SessionID: getuserid
+Sun, 26 May 2019 17:17:27 GMT: In get UserID
+Sun, 26 May 2019 17:17:28 GMT: [object Object]
+Sun, 26 May 2019 17:17:28 GMT: SessionID: createuser
+Sun, 26 May 2019 17:17:29 GMT: Creating user: samtest2
+Sun, 26 May 2019 17:21:06 GMT: SessionID: getuserid
+Sun, 26 May 2019 17:21:06 GMT: In get UserID
+Sun, 26 May 2019 17:21:06 GMT: [object Object]
+Sun, 26 May 2019 17:21:07 GMT: SessionID: createuser
+Sun, 26 May 2019 17:21:07 GMT: Creating user: sam8
+Sun, 26 May 2019 17:33:48 GMT: SessionID: getuserid
+Sun, 26 May 2019 17:33:48 GMT: In get UserID
+Sun, 26 May 2019 17:33:49 GMT: [object Object]
+Sun, 26 May 2019 17:33:49 GMT: SessionID: createuser
+Sun, 26 May 2019 17:33:50 GMT: Creating user: samtest99
+Sun, 26 May 2019 17:36:32 GMT: SessionID: getuserid
+Sun, 26 May 2019 17:36:32 GMT: In get UserID
+Sun, 26 May 2019 17:36:33 GMT: [object Object]
+Sun, 26 May 2019 17:36:34 GMT: SessionID: createuser
+Sun, 26 May 2019 17:36:34 GMT: Creating user: samb5
+Mon, 27 May 2019 15:36:58 GMT: SessionID: getuserid
+Mon, 27 May 2019 15:36:58 GMT: In get UserID
+Mon, 27 May 2019 15:36:58 GMT: [object Object]
+Mon, 27 May 2019 15:36:59 GMT: SessionID: confirmuser
+Mon, 27 May 2019 15:36:59 GMT: Username:one
+Mon, 27 May 2019 16:16:00 GMT: SessionID: getuserid
+Mon, 27 May 2019 16:16:00 GMT: In get UserID
+Mon, 27 May 2019 16:16:01 GMT: [object Object]
+Mon, 27 May 2019 16:16:02 GMT: SessionID: confirmuser
+Mon, 27 May 2019 16:16:02 GMT: Username:one
+Wed, 29 May 2019 00:33:19 GMT: SessionID: getuserid
+Wed, 29 May 2019 00:33:19 GMT: In get UserID
+Wed, 29 May 2019 00:33:20 GMT: [object Object]
+Wed, 29 May 2019 00:33:20 GMT: SessionID: confirmuser
+Wed, 29 May 2019 00:33:20 GMT: Username:test101
+Wed, 29 May 2019 00:48:51 GMT: SessionID: getuserid
+Wed, 29 May 2019 00:48:51 GMT: In get UserID
+Wed, 29 May 2019 00:48:52 GMT: [object Object]
+Wed, 29 May 2019 00:48:52 GMT: SessionID: getemail
+Wed, 29 May 2019 00:48:52 GMT: SessionID: verifyauth
+Wed, 29 May 2019 00:48:52 GMT: Verified?: 1
+Wed, 29 May 2019 00:48:52 GMT: In get GetEmail
+Wed, 29 May 2019 00:48:53 GMT: [object Object]
+Wed, 29 May 2019 00:48:53 GMT: SessionID: createuser
+Wed, 29 May 2019 00:48:54 GMT: Creating user: myerstucker
+Wed, 29 May 2019 00:49:16 GMT: SessionID: getuserid
+Wed, 29 May 2019 00:49:16 GMT: In get UserID
+Wed, 29 May 2019 00:49:17 GMT: [object Object]
+Wed, 29 May 2019 00:49:18 GMT: SessionID: getemail
+Wed, 29 May 2019 00:49:18 GMT: Verified?: 1
+Wed, 29 May 2019 00:49:18 GMT: SessionID: verifyauth
+Wed, 29 May 2019 00:49:18 GMT: In get GetEmail
+Wed, 29 May 2019 00:49:18 GMT: [object Object]
+Wed, 29 May 2019 00:49:19 GMT: SessionID: createuser
+Wed, 29 May 2019 00:49:19 GMT: Creating user: sasccsaascas
+Wed, 29 May 2019 00:52:12 GMT: SessionID: getuserid
+Wed, 29 May 2019 00:52:12 GMT: In get UserID
+Wed, 29 May 2019 00:52:13 GMT: [object Object]
+Wed, 29 May 2019 00:52:13 GMT: SessionID: getemail
+Wed, 29 May 2019 00:52:13 GMT: SessionID: verifyauth
+Wed, 29 May 2019 00:52:13 GMT: Verified?: 1
+Wed, 29 May 2019 00:52:13 GMT: In get GetEmail
+Wed, 29 May 2019 00:52:14 GMT: undefined
+Wed, 29 May 2019 00:52:48 GMT: SessionID: getuserid
+Wed, 29 May 2019 00:52:48 GMT: In get UserID
+Wed, 29 May 2019 00:52:49 GMT: [object Object]
+Wed, 29 May 2019 00:52:49 GMT: SessionID: getemail
+Wed, 29 May 2019 00:52:49 GMT: SessionID: verifyauth
+Wed, 29 May 2019 00:52:49 GMT: In get GetEmail
+Wed, 29 May 2019 00:52:49 GMT: Verified?: 1
+Wed, 29 May 2019 00:52:49 GMT: undefined
+Wed, 29 May 2019 00:53:26 GMT: SessionID: getuserid
+Wed, 29 May 2019 00:53:26 GMT: In get UserID
+Wed, 29 May 2019 00:53:27 GMT: [object Object]
+Wed, 29 May 2019 00:53:27 GMT: SessionID: verifyauth
+Wed, 29 May 2019 00:53:27 GMT: SessionID: getemail
+Wed, 29 May 2019 00:53:27 GMT: Verified?: 1
+Wed, 29 May 2019 00:53:27 GMT: In get GetEmail
+Wed, 29 May 2019 00:53:28 GMT: [object Object]
+Wed, 29 May 2019 00:54:44 GMT: SessionID: getuserid
+Wed, 29 May 2019 00:54:44 GMT: In get UserID
+Wed, 29 May 2019 00:54:45 GMT: [object Object]
+Wed, 29 May 2019 00:54:45 GMT: SessionID: getemail
+Wed, 29 May 2019 00:54:45 GMT: SessionID: verifyauth
+Wed, 29 May 2019 00:54:45 GMT: Verified?: 1
+Wed, 29 May 2019 00:54:45 GMT: In get GetEmail
+Wed, 29 May 2019 00:54:47 GMT: [object Object]
+Wed, 29 May 2019 01:01:13 GMT: SessionID: getuserid
+Wed, 29 May 2019 01:01:13 GMT: In get UserID
+Wed, 29 May 2019 01:01:14 GMT: [object Object]
+Wed, 29 May 2019 01:01:14 GMT: SessionID: confirmuser
+Wed, 29 May 2019 01:01:14 GMT: Username:test101
+Wed, 29 May 2019 02:20:11 GMT: SessionID: getuserid
+Wed, 29 May 2019 02:20:11 GMT: In get UserID
+Wed, 29 May 2019 02:20:12 GMT: [object Object]
+Wed, 29 May 2019 02:20:31 GMT: SessionID: getuserid
+Wed, 29 May 2019 02:20:31 GMT: In get UserID
+Wed, 29 May 2019 02:20:31 GMT: [object Object]
+Wed, 29 May 2019 02:20:32 GMT: SessionID: createuser
+Wed, 29 May 2019 02:20:32 GMT: Creating user: sta
+Wed, 29 May 2019 02:20:39 GMT: SessionID: getuserid
+Wed, 29 May 2019 02:20:39 GMT: In get UserID
+Wed, 29 May 2019 02:20:41 GMT: [object Object]
+Wed, 29 May 2019 02:20:41 GMT: SessionID: confirmuser
+Wed, 29 May 2019 02:20:41 GMT: Username:sta
+Wed, 29 May 2019 02:34:38 GMT: SessionID: getuserid
+Wed, 29 May 2019 02:34:38 GMT: In get UserID
+Wed, 29 May 2019 02:34:38 GMT: [object Object]
+Wed, 29 May 2019 02:34:39 GMT: SessionID: createuser
+Wed, 29 May 2019 02:34:40 GMT: Creating user: thisisanaccountthatclearlyhasmorethan30charactersandsoitshouldnotbeallowedtoregisterforsureitshouldbestoppedandalertedinstead
+Wed, 29 May 2019 02:34:40 GMT: RequestError: String or binary data would be truncated.
+Wed, 29 May 2019 02:36:30 GMT: In get UserID
+Wed, 29 May 2019 02:36:30 GMT: SessionID: getuserid
+Wed, 29 May 2019 02:36:31 GMT: [object Object]
+Wed, 29 May 2019 02:36:31 GMT: SessionID: createuser
+Wed, 29 May 2019 02:36:31 GMT: Creating user: abcdefghijklmnopqrstuvwxyz
+Wed, 29 May 2019 02:38:24 GMT: SessionID: getuserid
+Wed, 29 May 2019 02:38:24 GMT: In get UserID
+Wed, 29 May 2019 02:38:25 GMT: [object Object]
+Wed, 29 May 2019 02:38:26 GMT: SessionID: createuser
+Wed, 29 May 2019 02:38:26 GMT: Creating user: atestaccount
+Wed, 29 May 2019 02:38:47 GMT: SessionID: getuserid
+Wed, 29 May 2019 02:38:47 GMT: In get UserID
+Wed, 29 May 2019 02:38:48 GMT: [object Object]
+Wed, 29 May 2019 02:38:48 GMT: SessionID: createuser
+Wed, 29 May 2019 02:38:49 GMT: Creating user: agoodaccount
+Wed, 29 May 2019 02:52:45 GMT: SessionID: getuserid
+Wed, 29 May 2019 02:52:45 GMT: In get UserID
+Wed, 29 May 2019 02:52:46 GMT: [object Object]
+Wed, 29 May 2019 02:52:46 GMT: SessionID: createuser
+Wed, 29 May 2019 02:52:47 GMT: Creating user: abcd
+Wed, 29 May 2019 03:12:48 GMT: In get UserID
+Wed, 29 May 2019 03:12:48 GMT: SessionID: getuserid
+Wed, 29 May 2019 03:12:49 GMT: [object Object]
+Wed, 29 May 2019 03:12:50 GMT: SessionID: createuser
+Wed, 29 May 2019 03:12:50 GMT: Creating user: asampletestaccounttocheckthelengthtomakesurethelengthoftheusernamecannotbemorethan30characterslonghopefullyitworksbutimnotsureitwill
+Wed, 29 May 2019 03:12:50 GMT: RequestError: String or binary data would be truncated.
+Wed, 29 May 2019 03:22:25 GMT: SessionID: getuserid
+Wed, 29 May 2019 03:22:25 GMT: In get UserID
+Wed, 29 May 2019 03:22:26 GMT: [object Object]
+Wed, 29 May 2019 03:25:41 GMT: SessionID: getuserid
+Wed, 29 May 2019 03:25:41 GMT: In get UserID
+Wed, 29 May 2019 03:25:42 GMT: [object Object]
+Wed, 29 May 2019 03:25:42 GMT: SessionID: createuser
+Wed, 29 May 2019 03:25:43 GMT: Creating user: dsaiouetbaljksdbrfoeiwqubfjakldsnlweaiubtakljsdbfeuaibtaljsdfjakldbtdsigb
+Wed, 29 May 2019 03:25:43 GMT: RequestError: String or binary data would be truncated.
+Wed, 29 May 2019 03:33:27 GMT: SessionID: getuserid
+Wed, 29 May 2019 03:33:27 GMT: In get UserID
+Wed, 29 May 2019 03:33:28 GMT: [object Object]
+Wed, 29 May 2019 03:33:29 GMT: SessionID: createuser
+Wed, 29 May 2019 03:33:29 GMT: Creating user: oiausdhoriasjdntjkasndofijabsdfisbadofjasdbfkuasbhfoauhsdbfakusjhbfkasjdhbfaksduhfbaisudhfbaosduhfbasdhufbaosdhfbaosdjfhbaosdjbfoasdjfboasidjbfoasidjfnboasidjfboihjbsdaf
+Wed, 29 May 2019 03:33:29 GMT: RequestError: String or binary data would be truncated.
+Wed, 29 May 2019 03:35:44 GMT: SessionID: getuserid
+Wed, 29 May 2019 03:35:44 GMT: In get UserID
+Wed, 29 May 2019 03:35:45 GMT: [object Object]
+Wed, 29 May 2019 03:35:46 GMT: SessionID: createuser
+Wed, 29 May 2019 03:35:46 GMT: Creating user: aoisudhfoiasudbfoiuasdhbfiuhkasdbufkahsbdfiusjhadbfiuashbdfiuashydbfiuasdhbfiuasdhbfiuasdbyfiuasdbyfiausdhbfiasfdhyubaisudfhyb
+Wed, 29 May 2019 03:35:46 GMT: RequestError: String or binary data would be truncated.
+Wed, 29 May 2019 03:36:24 GMT: SessionID: getuserid
+Wed, 29 May 2019 03:36:24 GMT: In get UserID
+Wed, 29 May 2019 03:36:25 GMT: [object Object]
+Wed, 29 May 2019 03:36:25 GMT: SessionID: createuser
+Wed, 29 May 2019 03:36:26 GMT: Creating user: yasiodufnhoaisudfoiausdbfouiashdnfoiausdnofuiasdbofuaishbdofuasbdofiuasdbofiausdbfouiasdbfoiausdbfoiausdbfoasiudfb
+Wed, 29 May 2019 03:36:26 GMT: RequestError: String or binary data would be truncated.
+Wed, 29 May 2019 04:02:18 GMT: SessionID: getuserid
+Wed, 29 May 2019 04:02:18 GMT: In get UserID
+Wed, 29 May 2019 04:02:19 GMT: [object Object]
+Wed, 29 May 2019 04:12:46 GMT: SessionID: getuserid
+Wed, 29 May 2019 04:12:46 GMT: In get UserID
+Wed, 29 May 2019 04:12:46 GMT: [object Object]
+Wed, 29 May 2019 04:12:47 GMT: SessionID: createuser
+Wed, 29 May 2019 04:12:47 GMT: Creating user: ansfdisuodf
+Wed, 29 May 2019 04:17:34 GMT: SessionID: getuserid
+Wed, 29 May 2019 04:17:34 GMT: In get UserID
+Wed, 29 May 2019 04:17:35 GMT: [object Object]
+Wed, 29 May 2019 04:17:35 GMT: SessionID: createuser
+Wed, 29 May 2019 04:17:36 GMT: Creating user: nfaoiusi
+Wed, 29 May 2019 04:21:27 GMT: SessionID: getuserid
+Wed, 29 May 2019 04:21:27 GMT: In get UserID
+Wed, 29 May 2019 04:21:28 GMT: [object Object]
+Wed, 29 May 2019 04:21:28 GMT: SessionID: createuser
+Wed, 29 May 2019 04:21:29 GMT: Creating user: fnausdiofn
+Wed, 29 May 2019 04:41:53 GMT: In get UserID
+Wed, 29 May 2019 04:41:53 GMT: SessionID: getuserid
+Wed, 29 May 2019 04:41:54 GMT: [object Object]
+Wed, 29 May 2019 04:41:54 GMT: SessionID: createuser
+Wed, 29 May 2019 04:41:55 GMT: Creating user: aisuodhfasdfiuob
+Wed, 29 May 2019 04:42:13 GMT: SessionID: getuserid
+Wed, 29 May 2019 04:42:13 GMT: In get UserID
+Wed, 29 May 2019 04:42:14 GMT: [object Object]
+Wed, 29 May 2019 04:42:15 GMT: SessionID: createuser
+Wed, 29 May 2019 04:42:15 GMT: Creating user: asoidufhasd
+Wed, 29 May 2019 04:50:33 GMT: In get UserID
+Wed, 29 May 2019 04:50:33 GMT: SessionID: getuserid
+Wed, 29 May 2019 04:50:33 GMT: [object Object]
+Wed, 29 May 2019 04:54:54 GMT: SessionID: getuserid
+Wed, 29 May 2019 04:54:54 GMT: In get UserID
+Wed, 29 May 2019 04:54:55 GMT: [object Object]
+Wed, 29 May 2019 04:54:55 GMT: SessionID: createuser
+Wed, 29 May 2019 04:54:56 GMT: Creating user: atest
+Wed, 29 May 2019 04:56:09 GMT: SessionID: getuserid
+Wed, 29 May 2019 04:56:09 GMT: In get UserID
+Wed, 29 May 2019 04:56:10 GMT: [object Object]
+Wed, 29 May 2019 04:56:10 GMT: SessionID: confirmuser
+Wed, 29 May 2019 04:56:10 GMT: Username:c0w1e
+Wed, 29 May 2019 04:56:18 GMT: SessionID: getuserid
+Wed, 29 May 2019 04:56:18 GMT: In get UserID
+Wed, 29 May 2019 04:56:19 GMT: [object Object]
+Wed, 29 May 2019 04:56:19 GMT: SessionID: confirmuser
+Wed, 29 May 2019 04:56:19 GMT: Username:c0w1e
+Wed, 29 May 2019 05:00:20 GMT: SessionID: getuserid
+Wed, 29 May 2019 05:00:20 GMT: In get UserID
+Wed, 29 May 2019 05:00:21 GMT: [object Object]
+Wed, 29 May 2019 05:00:21 GMT: SessionID: createuser
+Wed, 29 May 2019 05:00:22 GMT: Creating user: sambish
+Wed, 29 May 2019 05:00:30 GMT: SessionID: getuserid
+Wed, 29 May 2019 05:00:30 GMT: In get UserID
+Wed, 29 May 2019 05:00:30 GMT: [object Object]
+Wed, 29 May 2019 05:00:31 GMT: SessionID: confirmuser
+Wed, 29 May 2019 05:00:31 GMT: Username:sambish
+Wed, 29 May 2019 05:00:43 GMT: In get UserID
+Wed, 29 May 2019 05:00:43 GMT: SessionID: getuserid
+Wed, 29 May 2019 05:00:43 GMT: [object Object]
+Wed, 29 May 2019 05:08:33 GMT: SessionID: getusername
+Wed, 29 May 2019 05:08:34 GMT: SessionID: forgotpassword
+Wed, 29 May 2019 05:11:55 GMT: SessionID: getuserid
+Wed, 29 May 2019 05:11:55 GMT: In get UserID
+Wed, 29 May 2019 05:11:55 GMT: [object Object]
+Wed, 29 May 2019 05:12:05 GMT: SessionID: getuserid
+Wed, 29 May 2019 05:12:05 GMT: In get UserID
+Wed, 29 May 2019 05:12:06 GMT: [object Object]
+Wed, 29 May 2019 05:12:06 GMT: SessionID: confirmuser
+Wed, 29 May 2019 05:12:06 GMT: Username:c0w1e
+Wed, 29 May 2019 15:57:28 GMT: SessionID: getuserid
+Wed, 29 May 2019 15:57:28 GMT: In get UserID
+Wed, 29 May 2019 15:57:29 GMT: [object Object]
+Wed, 29 May 2019 15:57:29 GMT: SessionID: confirmuser
+Wed, 29 May 2019 15:57:29 GMT: Username:sambish
+Wed, 29 May 2019 16:15:38 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:15:38 GMT: In get UserID
+Wed, 29 May 2019 16:15:39 GMT: [object Object]
+Wed, 29 May 2019 16:15:39 GMT: SessionID: confirmuser
+Wed, 29 May 2019 16:15:39 GMT: Username:sambish
+Wed, 29 May 2019 16:20:34 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:20:34 GMT: In get UserID
+Wed, 29 May 2019 16:20:34 GMT: [object Object]
+Wed, 29 May 2019 16:20:35 GMT: SessionID: confirmuser
+Wed, 29 May 2019 16:20:35 GMT: Username:test101
+Wed, 29 May 2019 16:29:41 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:29:41 GMT: In get UserID
+Wed, 29 May 2019 16:29:42 GMT: [object Object]
+Wed, 29 May 2019 16:29:42 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:29:42 GMT: In get UserID
+Wed, 29 May 2019 16:29:42 GMT: [object Object]
+Wed, 29 May 2019 16:29:50 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:29:50 GMT: In get UserID
+Wed, 29 May 2019 16:29:51 GMT: [object Object]
+Wed, 29 May 2019 16:29:51 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:29:51 GMT: In get UserID
+Wed, 29 May 2019 16:29:52 GMT: [object Object]
+Wed, 29 May 2019 16:30:32 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:30:32 GMT: In get UserID
+Wed, 29 May 2019 16:30:33 GMT: [object Object]
+Wed, 29 May 2019 16:30:33 GMT: In get UserID
+Wed, 29 May 2019 16:30:33 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:30:34 GMT: [object Object]
+Wed, 29 May 2019 16:30:40 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:30:40 GMT: In get UserID
+Wed, 29 May 2019 16:30:40 GMT: [object Object]
+Wed, 29 May 2019 16:30:40 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:30:40 GMT: In get UserID
+Wed, 29 May 2019 16:30:41 GMT: [object Object]
+Wed, 29 May 2019 16:32:47 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:32:47 GMT: In get UserID
+Wed, 29 May 2019 16:32:48 GMT: [object Object]
+Wed, 29 May 2019 16:32:48 GMT: In get UserID
+Wed, 29 May 2019 16:32:48 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:32:49 GMT: [object Object]
+Wed, 29 May 2019 16:35:58 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:35:58 GMT: In get UserID
+Wed, 29 May 2019 16:35:59 GMT: [object Object]
+Wed, 29 May 2019 16:35:59 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:35:59 GMT: In get UserID
+Wed, 29 May 2019 16:35:59 GMT: [object Object]
+Wed, 29 May 2019 16:36:00 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:36:00 GMT: In get UserID
+Wed, 29 May 2019 16:36:00 GMT: [object Object]
+Wed, 29 May 2019 16:36:02 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:36:02 GMT: In get UserID
+Wed, 29 May 2019 16:36:03 GMT: [object Object]
+Wed, 29 May 2019 16:40:49 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:40:49 GMT: In get UserID
+Wed, 29 May 2019 16:40:50 GMT: [object Object]
+Wed, 29 May 2019 16:40:50 GMT: SessionID: confirmuser
+Wed, 29 May 2019 16:40:50 GMT: Username:test101
+Wed, 29 May 2019 16:54:04 GMT: SessionID: getuserid
+Wed, 29 May 2019 16:54:04 GMT: In get UserID
+Wed, 29 May 2019 16:54:05 GMT: [object Object]
+Wed, 29 May 2019 16:54:05 GMT: SessionID: confirmuser
+Wed, 29 May 2019 16:54:05 GMT: Username:test101
+Wed, 29 May 2019 17:05:45 GMT: SessionID: getuserid
+Wed, 29 May 2019 17:05:45 GMT: In get UserID
+Wed, 29 May 2019 17:05:46 GMT: [object Object]
+Wed, 29 May 2019 17:05:46 GMT: SessionID: confirmuser
+Wed, 29 May 2019 17:05:46 GMT: Username:one
+Wed, 29 May 2019 17:27:42 GMT: SessionID: getuserid
+Wed, 29 May 2019 17:27:42 GMT: In get UserID
+Wed, 29 May 2019 17:27:42 GMT: [object Object]
+Wed, 29 May 2019 17:27:42 GMT: SessionID: confirmuser
+Wed, 29 May 2019 17:27:42 GMT: Username:whitney
+Wed, 29 May 2019 17:51:58 GMT: SessionID: getuserid
+Wed, 29 May 2019 17:51:58 GMT: In get UserID
+Wed, 29 May 2019 17:51:58 GMT: [object Object]
+Wed, 29 May 2019 17:51:59 GMT: SessionID: confirmuser
+Wed, 29 May 2019 17:51:59 GMT: Username:one
+Wed, 29 May 2019 17:56:00 GMT: SessionID: getuserid
+Wed, 29 May 2019 17:56:00 GMT: In get UserID
+Wed, 29 May 2019 17:56:01 GMT: [object Object]
+Wed, 29 May 2019 17:56:01 GMT: SessionID: confirmuser
+Wed, 29 May 2019 17:56:01 GMT: Username:one
+Wed, 29 May 2019 17:57:03 GMT: SessionID: getuserid
+Wed, 29 May 2019 17:57:03 GMT: In get UserID
+Wed, 29 May 2019 17:57:04 GMT: [object Object]
+Wed, 29 May 2019 17:57:04 GMT: SessionID: confirmuser
+Wed, 29 May 2019 17:57:04 GMT: Username:one
+Wed, 29 May 2019 18:08:06 GMT: SessionID: getuserid
+Wed, 29 May 2019 18:08:06 GMT: In get UserID
+Wed, 29 May 2019 18:08:07 GMT: [object Object]
+Wed, 29 May 2019 18:08:07 GMT: SessionID: confirmuser
+Wed, 29 May 2019 18:08:07 GMT: Username:one
+Wed, 29 May 2019 18:52:05 GMT: SessionID: getuserid
+Wed, 29 May 2019 18:52:05 GMT: In get UserID
+Wed, 29 May 2019 18:52:06 GMT: [object Object]
+Wed, 29 May 2019 18:52:06 GMT: SessionID: confirmuser
+Wed, 29 May 2019 18:52:06 GMT: Username:one
+Wed, 29 May 2019 18:58:08 GMT: SessionID: getuserid
+Wed, 29 May 2019 18:58:08 GMT: In get UserID
+Wed, 29 May 2019 18:58:09 GMT: [object Object]
+Wed, 29 May 2019 18:58:09 GMT: SessionID: confirmuser
+Wed, 29 May 2019 18:58:09 GMT: Username:one
+Wed, 29 May 2019 20:19:12 GMT: SessionID: getuserid
+Wed, 29 May 2019 20:19:12 GMT: In get UserID
+Wed, 29 May 2019 20:19:12 GMT: [object Object]
+Wed, 29 May 2019 20:19:13 GMT: SessionID: confirmuser
+Wed, 29 May 2019 20:19:13 GMT: Username:one
+Wed, 29 May 2019 20:19:44 GMT: SessionID: getuserid
+Wed, 29 May 2019 20:19:44 GMT: In get UserID
+Wed, 29 May 2019 20:19:45 GMT: [object Object]
+Wed, 29 May 2019 20:19:45 GMT: SessionID: confirmuser
+Wed, 29 May 2019 20:19:45 GMT: Username:whitney
+Wed, 29 May 2019 20:32:23 GMT: SessionID: getuserid
+Wed, 29 May 2019 20:32:23 GMT: In get UserID
+Wed, 29 May 2019 20:32:24 GMT: [object Object]
+Wed, 29 May 2019 20:32:24 GMT: SessionID: confirmuser
+Wed, 29 May 2019 20:32:24 GMT: Username:sambish
+Wed, 29 May 2019 20:45:46 GMT: SessionID: getuserid
+Wed, 29 May 2019 20:45:46 GMT: In get UserID
+Wed, 29 May 2019 20:45:46 GMT: [object Object]
+Wed, 29 May 2019 20:45:46 GMT: SessionID: confirmuser
+Wed, 29 May 2019 20:45:46 GMT: Username:test101
+Wed, 29 May 2019 22:23:31 GMT: SessionID: getuserid
+Wed, 29 May 2019 22:23:31 GMT: In get UserID
+Wed, 29 May 2019 22:23:32 GMT: [object Object]
+Wed, 29 May 2019 22:23:33 GMT: SessionID: confirmuser
+Wed, 29 May 2019 22:23:33 GMT: Username:one
+Thu, 30 May 2019 01:53:04 GMT: SessionID: getuserid
+Thu, 30 May 2019 01:53:04 GMT: In get UserID
+Thu, 30 May 2019 01:53:05 GMT: [object Object]
+Thu, 30 May 2019 01:53:05 GMT: SessionID: confirmuser
+Thu, 30 May 2019 01:53:05 GMT: Username:one
+Thu, 30 May 2019 01:53:22 GMT: In get UserID
+Thu, 30 May 2019 01:53:22 GMT: SessionID: getuserid
+Thu, 30 May 2019 01:53:24 GMT: [object Object]
+Thu, 30 May 2019 01:53:24 GMT: SessionID: confirmuser
+Thu, 30 May 2019 01:53:24 GMT: Username:one
+Thu, 30 May 2019 02:07:05 GMT: SessionID: getuserid
+Thu, 30 May 2019 02:07:05 GMT: In get UserID
+Thu, 30 May 2019 02:07:05 GMT: [object Object]
+Thu, 30 May 2019 02:07:06 GMT: SessionID: confirmuser
+Thu, 30 May 2019 02:07:06 GMT: Username:one
+Thu, 30 May 2019 04:12:14 GMT: SessionID: getuserid
+Thu, 30 May 2019 04:12:14 GMT: In get UserID
+Thu, 30 May 2019 04:12:14 GMT: [object Object]
+Thu, 30 May 2019 04:12:14 GMT: SessionID: confirmuser
+Thu, 30 May 2019 04:12:14 GMT: Username:sambish
+Thu, 30 May 2019 06:44:56 GMT: SessionID: getuserid
+Thu, 30 May 2019 06:44:56 GMT: In get UserID
+Thu, 30 May 2019 06:44:57 GMT: [object Object]
+Thu, 30 May 2019 06:44:57 GMT: SessionID: confirmuser
+Thu, 30 May 2019 06:44:57 GMT: Username:one
+Thu, 30 May 2019 06:55:00 GMT: SessionID: getuserid
+Thu, 30 May 2019 06:55:00 GMT: In get UserID
+Thu, 30 May 2019 06:55:01 GMT: [object Object]
+Thu, 30 May 2019 06:55:01 GMT: SessionID: confirmuser
+Thu, 30 May 2019 06:55:01 GMT: Username:one
+Thu, 30 May 2019 06:55:33 GMT: SessionID: getuserid
+Thu, 30 May 2019 06:55:33 GMT: In get UserID
+Thu, 30 May 2019 06:55:34 GMT: [object Object]
+Thu, 30 May 2019 06:55:34 GMT: SessionID: confirmuser
+Thu, 30 May 2019 06:55:34 GMT: Username:one
+Thu, 30 May 2019 15:47:03 GMT: SessionID: getuserid
+Thu, 30 May 2019 15:47:03 GMT: In get UserID
+Thu, 30 May 2019 15:47:04 GMT: [object Object]
+Thu, 30 May 2019 15:47:04 GMT: SessionID: createuser
+Thu, 30 May 2019 15:47:04 GMT: Creating user: iza2098
+Thu, 30 May 2019 15:47:17 GMT: SessionID: getuserid
+Thu, 30 May 2019 15:47:17 GMT: In get UserID
+Thu, 30 May 2019 15:47:18 GMT: [object Object]
+Thu, 30 May 2019 15:47:18 GMT: SessionID: confirmuser
+Thu, 30 May 2019 15:47:18 GMT: Username:iza2098
+Thu, 30 May 2019 15:52:02 GMT: SessionID: getuserid
+Thu, 30 May 2019 15:52:02 GMT: In get UserID
+Thu, 30 May 2019 15:52:03 GMT: [object Object]
+Thu, 30 May 2019 15:52:03 GMT: SessionID: confirmuser
+Thu, 30 May 2019 15:52:03 GMT: Username:one
+Thu, 30 May 2019 15:54:37 GMT: SessionID: getuserid
+Thu, 30 May 2019 15:54:37 GMT: In get UserID
+Thu, 30 May 2019 15:54:38 GMT: [object Object]
+Thu, 30 May 2019 15:54:38 GMT: Username:iza2098
+Thu, 30 May 2019 15:54:38 GMT: SessionID: confirmuser
+Thu, 30 May 2019 15:59:54 GMT: SessionID: getuserid
+Thu, 30 May 2019 15:59:54 GMT: In get UserID
+Thu, 30 May 2019 15:59:55 GMT: [object Object]
+Thu, 30 May 2019 15:59:55 GMT: SessionID: confirmuser
+Thu, 30 May 2019 15:59:55 GMT: Username:sambish
+Thu, 30 May 2019 16:05:49 GMT: SessionID: getuserid
+Thu, 30 May 2019 16:05:49 GMT: In get UserID
+Thu, 30 May 2019 16:05:50 GMT: [object Object]
+Thu, 30 May 2019 16:05:50 GMT: SessionID: confirmuser
+Thu, 30 May 2019 16:05:50 GMT: Username:sambish
+Thu, 30 May 2019 16:23:31 GMT: SessionID: getuserid
+Thu, 30 May 2019 16:23:31 GMT: In get UserID
+Thu, 30 May 2019 16:23:32 GMT: [object Object]
+Thu, 30 May 2019 16:23:32 GMT: SessionID: confirmuser
+Thu, 30 May 2019 16:23:32 GMT: Username:sambish
+Thu, 30 May 2019 17:21:09 GMT: SessionID: getuserid
+Thu, 30 May 2019 17:21:09 GMT: In get UserID
+Thu, 30 May 2019 17:21:09 GMT: [object Object]
+Thu, 30 May 2019 17:21:10 GMT: SessionID: confirmuser
+Thu, 30 May 2019 17:21:10 GMT: Username:one
+Thu, 30 May 2019 17:22:37 GMT: SessionID: getuserid
+Thu, 30 May 2019 17:22:37 GMT: In get UserID
+Thu, 30 May 2019 17:22:38 GMT: [object Object]
+Thu, 30 May 2019 17:22:38 GMT: SessionID: confirmuser
+Thu, 30 May 2019 17:22:38 GMT: Username:one
+Thu, 30 May 2019 17:38:29 GMT: SessionID: getuserid
+Thu, 30 May 2019 17:38:29 GMT: In get UserID
+Thu, 30 May 2019 17:38:44 GMT: undefined
+Thu, 30 May 2019 17:39:03 GMT: SessionID: getuserid
+Thu, 30 May 2019 17:39:03 GMT: In get UserID
+Thu, 30 May 2019 17:39:03 GMT: [object Object]
+Thu, 30 May 2019 17:39:04 GMT: SessionID: confirmuser
+Thu, 30 May 2019 17:39:04 GMT: Username:sambish

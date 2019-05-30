@@ -1,0 +1,13 @@
+Wed, 24 Apr 2019 00:44:04 GMT: SessionID: getuser
+Wed, 24 Apr 2019 00:44:04 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:44:04 GMT: Verified?: 0
+Wed, 24 Apr 2019 00:44:36 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 00:44:36 GMT: In get UserID
+Wed, 24 Apr 2019 00:44:37 GMT: {"recordsets":[[]],"recordset":[],"output":{},"rowsAffected":[1,1,0]}
+Wed, 24 Apr 2019 00:44:38 GMT: SessionID: createuser
+Wed, 24 Apr 2019 00:44:38 GMT: Creating user: whitneytest
+Wed, 24 Apr 2019 00:44:51 GMT: SessionID: getuserid
+Wed, 24 Apr 2019 00:44:51 GMT: In get UserID
+Wed, 24 Apr 2019 00:44:52 GMT: {"recordsets":[[{"UserID":60}]],"recordset":[{"UserID":60}],"output":{},"rowsAffected":[1,1,1]}
+Wed, 24 Apr 2019 00:44:52 GMT: SessionID: confirmuser
+Wed, 24 Apr 2019 00:44:52 GMT: Username:whitneytest

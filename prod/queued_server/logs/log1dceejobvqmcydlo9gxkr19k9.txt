@@ -1,0 +1,325 @@
+Wed, 24 Apr 2019 00:44:54 GMT: SessionID: getuser
+Wed, 24 Apr 2019 00:44:54 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:44:55 GMT: Verified?: 1
+Wed, 24 Apr 2019 00:44:57 GMT: SessionID: getactiveevent
+Wed, 24 Apr 2019 00:44:57 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:44:57 GMT: Verified?: 1
+Wed, 24 Apr 2019 00:44:58 GMT: No Active Event
+Wed, 24 Apr 2019 00:44:58 GMT: SessionID: getinactiveevents
+Wed, 24 Apr 2019 00:44:58 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:44:59 GMT: Verified?: 1
+Wed, 24 Apr 2019 00:45:52 GMT: SessionID: getuser
+Wed, 24 Apr 2019 00:45:52 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:45:52 GMT: Verified?: 1
+Wed, 24 Apr 2019 00:45:54 GMT: SessionID: getactiveevent
+Wed, 24 Apr 2019 00:45:54 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:45:54 GMT: Verified?: 1
+Wed, 24 Apr 2019 00:45:55 GMT: No Active Event
+Wed, 24 Apr 2019 00:56:27 GMT: SessionID: getactiveevent
+Wed, 24 Apr 2019 00:56:27 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:56:28 GMT: Verified?: 1
+Wed, 24 Apr 2019 00:56:29 GMT: No Active Event
+Wed, 24 Apr 2019 00:57:48 GMT: SessionID: getaccount
+Wed, 24 Apr 2019 00:57:48 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:57:48 GMT: Verified?: 1
+Wed, 24 Apr 2019 00:58:30 GMT: SessionID: getaccount
+Wed, 24 Apr 2019 00:58:30 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:58:31 GMT: Verified?: 1
+Wed, 01 May 2019 02:32:33 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:32:33 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:32:34 GMT: Verified?: 1
+Wed, 01 May 2019 02:32:35 GMT: No Active Event
+Wed, 01 May 2019 02:37:13 GMT: SessionID: getuser
+Wed, 01 May 2019 02:37:13 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:37:14 GMT: Verified?: 1
+Wed, 01 May 2019 02:37:15 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:37:15 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:37:15 GMT: Verified?: 1
+Wed, 01 May 2019 02:37:16 GMT: No Active Event
+Wed, 01 May 2019 02:37:16 GMT: SessionID: getinactiveevents
+Wed, 01 May 2019 02:37:16 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:37:17 GMT: Verified?: 1
+Wed, 01 May 2019 02:37:18 GMT: SessionID: getcontacts
+Wed, 01 May 2019 02:37:18 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:37:19 GMT: Verified?: 1
+Wed, 01 May 2019 02:37:21 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:37:21 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:37:21 GMT: Verified?: 1
+Wed, 01 May 2019 02:37:22 GMT: No Active Event
+Wed, 01 May 2019 02:37:25 GMT: SessionID: getaccount
+Wed, 01 May 2019 02:37:25 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:37:25 GMT: Verified?: 1
+Wed, 01 May 2019 02:37:46 GMT: SessionID: updateaccount
+Wed, 01 May 2019 02:37:46 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:37:47 GMT: Verified?: 1
+Wed, 01 May 2019 02:37:47 GMT: Update Account Query -- Name: whitney
+Wed, 01 May 2019 02:37:47 GMT: Updated Account
+Wed, 01 May 2019 02:37:48 GMT: SessionID: getaccount
+Wed, 01 May 2019 02:37:48 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:37:49 GMT: Verified?: 1
+Wed, 01 May 2019 02:37:57 GMT: SessionID: getcontacts
+Wed, 01 May 2019 02:37:57 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:37:58 GMT: Verified?: 1
+Wed, 01 May 2019 02:39:12 GMT: SessionID: getcontacts
+Wed, 01 May 2019 02:39:12 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:39:13 GMT: Verified?: 1
+Wed, 01 May 2019 02:39:36 GMT: SessionID: newcontact
+Wed, 01 May 2019 02:39:36 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:39:36 GMT: Verified?: 1
+Wed, 01 May 2019 02:39:37 GMT: Insert Contact -- Name: Chase
+Wed, 01 May 2019 02:39:37 GMT: Contact inserted
+Wed, 01 May 2019 02:40:06 GMT: SessionID: getcontacts
+Wed, 01 May 2019 02:40:06 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:40:07 GMT: Verified?: 1
+Wed, 01 May 2019 02:43:58 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:43:58 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:43:58 GMT: Verified?: 1
+Wed, 01 May 2019 02:43:59 GMT: No Active Event
+Wed, 01 May 2019 02:44:00 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:44:00 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:44:01 GMT: Verified?: 1
+Wed, 01 May 2019 02:44:02 GMT: No Active Event
+Wed, 01 May 2019 02:44:06 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:44:06 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:44:07 GMT: Verified?: 1
+Wed, 01 May 2019 02:44:08 GMT: No Active Event
+Wed, 01 May 2019 02:44:15 GMT: SessionID: getcontacts
+Wed, 01 May 2019 02:44:15 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:44:16 GMT: Verified?: 1
+Wed, 01 May 2019 02:44:50 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:44:50 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:44:51 GMT: Verified?: 1
+Wed, 01 May 2019 02:44:52 GMT: No Active Event
+Wed, 01 May 2019 02:44:54 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:44:54 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:44:55 GMT: Verified?: 1
+Wed, 01 May 2019 02:44:56 GMT: No Active Event
+Wed, 01 May 2019 02:44:59 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:44:59 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:45:00 GMT: Verified?: 1
+Wed, 01 May 2019 02:45:00 GMT: No Active Event
+Wed, 01 May 2019 02:45:10 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:45:10 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:45:11 GMT: Verified?: 1
+Wed, 01 May 2019 02:45:12 GMT: No Active Event
+Wed, 01 May 2019 02:45:26 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:45:26 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:45:27 GMT: Verified?: 1
+Wed, 01 May 2019 02:45:28 GMT: No Active Event
+Wed, 01 May 2019 02:45:28 GMT: SessionID: getaccount
+Wed, 01 May 2019 02:45:28 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:45:29 GMT: Verified?: 1
+Wed, 01 May 2019 02:45:38 GMT: SessionID: getaccount
+Wed, 01 May 2019 02:45:38 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:45:39 GMT: Verified?: 1
+Wed, 01 May 2019 02:47:30 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:47:30 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:47:30 GMT: Verified?: 1
+Wed, 01 May 2019 02:47:31 GMT: No Active Event
+Wed, 01 May 2019 02:47:35 GMT: SessionID: getaccount
+Wed, 01 May 2019 02:47:35 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:47:35 GMT: Verified?: 1
+Wed, 01 May 2019 02:51:26 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:51:26 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:51:27 GMT: Verified?: 1
+Wed, 01 May 2019 02:51:28 GMT: No Active Event
+Wed, 01 May 2019 02:51:34 GMT: SessionID: getaccount
+Wed, 01 May 2019 02:51:34 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:51:35 GMT: Verified?: 1
+Wed, 01 May 2019 02:54:55 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:54:55 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:54:56 GMT: Verified?: 1
+Wed, 01 May 2019 02:54:57 GMT: No Active Event
+Wed, 01 May 2019 02:54:58 GMT: SessionID: getaccount
+Wed, 01 May 2019 02:54:58 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:54:59 GMT: Verified?: 1
+Wed, 01 May 2019 02:56:04 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 02:56:04 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:56:04 GMT: Verified?: 1
+Wed, 01 May 2019 02:56:05 GMT: No Active Event
+Wed, 01 May 2019 02:56:08 GMT: SessionID: getaccount
+Wed, 01 May 2019 02:56:08 GMT: SessionID: verifyauth
+Wed, 01 May 2019 02:56:08 GMT: Verified?: 1
+Wed, 01 May 2019 03:00:02 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 03:00:02 GMT: SessionID: verifyauth
+Wed, 01 May 2019 03:00:03 GMT: Verified?: 1
+Wed, 01 May 2019 03:00:04 GMT: No Active Event
+Wed, 01 May 2019 03:00:05 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 03:00:05 GMT: SessionID: verifyauth
+Wed, 01 May 2019 03:00:06 GMT: Verified?: 1
+Wed, 01 May 2019 03:00:07 GMT: No Active Event
+Wed, 01 May 2019 03:00:11 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 03:00:11 GMT: SessionID: verifyauth
+Wed, 01 May 2019 03:00:12 GMT: Verified?: 1
+Wed, 01 May 2019 03:00:13 GMT: No Active Event
+Wed, 01 May 2019 03:00:13 GMT: SessionID: getcontacts
+Wed, 01 May 2019 03:00:13 GMT: SessionID: verifyauth
+Wed, 01 May 2019 03:00:14 GMT: Verified?: 1
+Wed, 01 May 2019 03:02:07 GMT: SessionID: newevent
+Wed, 01 May 2019 03:02:07 GMT: SessionID: verifyauth
+Wed, 01 May 2019 03:02:07 GMT: Verified?: 1
+Wed, 01 May 2019 03:02:07 GMT: Creating event for UserID: 60
+Wed, 01 May 2019 03:02:08 GMT: null
+Wed, 01 May 2019 03:02:08 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 03:02:08 GMT: SessionID: verifyauth
+Wed, 01 May 2019 03:02:08 GMT: Contact Created
+Wed, 01 May 2019 03:02:08 GMT: Verified?: 1
+Wed, 01 May 2019 03:02:09 GMT: Active Event
+Wed, 01 May 2019 03:02:09 GMT: [object Object]
+Wed, 01 May 2019 03:02:09 GMT: SessionID: geteventcontacts
+Wed, 01 May 2019 03:02:09 GMT: SessionID: verifyauth
+Wed, 01 May 2019 03:02:11 GMT: Verified?: 1
+Wed, 01 May 2019 03:02:15 GMT: SessionID: getactiveevent
+Wed, 01 May 2019 03:02:15 GMT: SessionID: verifyauth
+Wed, 01 May 2019 03:02:16 GMT: Verified?: 1
+Wed, 01 May 2019 03:02:16 GMT: Active Event
+Wed, 01 May 2019 03:02:16 GMT: [object Object]
+Sun, 12 May 2019 19:27:58 GMT: SessionID: getuser
+Sun, 12 May 2019 19:27:58 GMT: SessionID: verifyauth
+Sun, 12 May 2019 19:27:58 GMT: Verified?: 1
+Sun, 12 May 2019 19:28:00 GMT: SessionID: getactiveevent
+Sun, 12 May 2019 19:28:00 GMT: SessionID: verifyauth
+Sun, 12 May 2019 19:28:00 GMT: Verified?: 1
+Sun, 12 May 2019 19:28:00 GMT: SessionID: getinactiveevents
+Sun, 12 May 2019 19:28:00 GMT: SessionID: verifyauth
+Sun, 12 May 2019 19:28:00 GMT: Verified?: 1
+Sun, 12 May 2019 19:28:12 GMT: SessionID: getaccount
+Sun, 12 May 2019 19:28:12 GMT: SessionID: verifyauth
+Sun, 12 May 2019 19:28:12 GMT: Verified?: 1
+Sun, 12 May 2019 19:28:18 GMT: SessionID: getcontacts
+Sun, 12 May 2019 19:28:18 GMT: SessionID: verifyauth
+Sun, 12 May 2019 19:28:18 GMT: Verified?: 1
+Sun, 12 May 2019 19:28:28 GMT: SessionID: getcontacts
+Sun, 12 May 2019 19:28:28 GMT: SessionID: verifyauth
+Sun, 12 May 2019 19:28:28 GMT: Verified?: 1
+Sun, 12 May 2019 19:28:39 GMT: SessionID: geteventcontacts
+Sun, 12 May 2019 19:28:39 GMT: SessionID: verifyauth
+Sun, 12 May 2019 19:28:39 GMT: Verified?: 1
+Mon, 13 May 2019 20:31:19 GMT: SessionID: getuser
+Mon, 13 May 2019 20:31:19 GMT: SessionID: verifyauth
+Mon, 13 May 2019 20:31:19 GMT: Verified?: 1
+Mon, 13 May 2019 20:31:20 GMT: SessionID: getinactiveevents
+Mon, 13 May 2019 20:31:20 GMT: SessionID: verifyauth
+Mon, 13 May 2019 20:31:20 GMT: Verified?: 1
+Mon, 13 May 2019 20:31:21 GMT: SessionID: getfavoriteevents
+Mon, 13 May 2019 20:31:21 GMT: SessionID: verifyauth
+Mon, 13 May 2019 20:31:21 GMT: Verified?: 1
+Mon, 13 May 2019 20:31:21 GMT: SessionID: getactiveevent
+Mon, 13 May 2019 20:31:21 GMT: SessionID: verifyauth
+Mon, 13 May 2019 20:31:21 GMT: Verified?: 1
+Mon, 13 May 2019 20:31:22 GMT: No Active Event
+Mon, 13 May 2019 20:31:22 GMT: SessionID: getfavoriteevents
+Mon, 13 May 2019 20:31:22 GMT: SessionID: verifyauth
+Mon, 13 May 2019 20:31:22 GMT: Verified?: 1
+Mon, 13 May 2019 20:31:33 GMT: SessionID: getcontacts
+Mon, 13 May 2019 20:31:33 GMT: SessionID: verifyauth
+Mon, 13 May 2019 20:31:33 GMT: Verified?: 1
+Mon, 13 May 2019 20:31:38 GMT: SessionID: getaccount
+Mon, 13 May 2019 20:31:38 GMT: SessionID: verifyauth
+Mon, 13 May 2019 20:31:38 GMT: Verified?: 1
+Mon, 13 May 2019 20:31:47 GMT: SessionID: getinactiveevents
+Mon, 13 May 2019 20:31:47 GMT: SessionID: verifyauth
+Mon, 13 May 2019 20:31:47 GMT: Verified?: 1
+Mon, 13 May 2019 20:31:47 GMT: SessionID: getfavoriteevents
+Mon, 13 May 2019 20:31:47 GMT: SessionID: verifyauth
+Mon, 13 May 2019 20:31:47 GMT: Verified?: 1
+Mon, 13 May 2019 20:31:48 GMT: SessionID: getactiveevent
+Mon, 13 May 2019 20:31:48 GMT: SessionID: verifyauth
+Mon, 13 May 2019 20:31:48 GMT: Verified?: 1
+Mon, 13 May 2019 20:31:49 GMT: No Active Event
+Mon, 13 May 2019 20:31:58 GMT: SessionID: geteventcontacts
+Mon, 13 May 2019 20:31:58 GMT: SessionID: verifyauth
+Mon, 13 May 2019 20:31:58 GMT: Verified?: 1
+Thu, 16 May 2019 21:00:37 GMT: SessionID: verifyauth
+Thu, 16 May 2019 21:00:37 GMT: Verified?: 1
+Thu, 16 May 2019 21:00:37 GMT: SessionID: getactiveevent
+Thu, 16 May 2019 21:00:37 GMT: SessionID: getinactiveevents
+Thu, 16 May 2019 21:00:37 GMT: SessionID: verifyauth
+Thu, 16 May 2019 21:00:37 GMT: Verified?: 1
+Thu, 16 May 2019 21:00:37 GMT: SessionID: verifyauth
+Thu, 16 May 2019 21:00:37 GMT: Verified?: 1
+Thu, 16 May 2019 21:00:37 GMT: SessionID: getfavoriteevents
+Thu, 16 May 2019 21:00:37 GMT: SessionID: getfavoriteevents
+Thu, 16 May 2019 21:00:37 GMT: Verified?: 1
+Thu, 16 May 2019 21:00:37 GMT: SessionID: verifyauth
+Thu, 16 May 2019 21:00:37 GMT: No Active Event
+Thu, 23 May 2019 17:16:49 GMT: SessionID: getinactiveevents
+Thu, 23 May 2019 17:16:49 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:16:49 GMT: Verified?: 1
+Thu, 23 May 2019 17:16:50 GMT: SessionID: getfavoriteevents
+Thu, 23 May 2019 17:16:50 GMT: Verified?: 1
+Thu, 23 May 2019 17:16:50 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:16:52 GMT: SessionID: getactiveevent
+Thu, 23 May 2019 17:16:52 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:16:52 GMT: Verified?: 1
+Thu, 23 May 2019 17:16:52 GMT: No Active Event
+Thu, 23 May 2019 17:17:03 GMT: SessionID: getinactiveevents
+Thu, 23 May 2019 17:17:03 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:17:03 GMT: Verified?: 1
+Thu, 23 May 2019 17:17:05 GMT: SessionID: getfavoriteevents
+Thu, 23 May 2019 17:17:05 GMT: Verified?: 1
+Thu, 23 May 2019 17:17:05 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:17:06 GMT: SessionID: getactiveevent
+Thu, 23 May 2019 17:17:06 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:17:06 GMT: Verified?: 1
+Thu, 23 May 2019 17:17:06 GMT: No Active Event
+Thu, 23 May 2019 17:17:08 GMT: SessionID: getcontacts
+Thu, 23 May 2019 17:17:08 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:17:08 GMT: Verified?: 1
+Thu, 23 May 2019 17:17:21 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:17:21 GMT: SessionID: newevent
+Thu, 23 May 2019 17:17:21 GMT: Verified?: 1
+Thu, 23 May 2019 17:17:21 GMT: Creating event for UserID: 60
+Thu, 23 May 2019 17:17:21 GMT: null
+Thu, 23 May 2019 17:17:22 GMT: RequestError: The INSERT statement conflicted with the FOREIGN KEY constraint "Event_Contact_EmergencyContactID_fk". The conflict occurred in database "BreadcrumbsDB", table "dbo.EmergencyContact", column 'EmergencyContactID'.
+Thu, 23 May 2019 17:17:22 GMT: SessionID: getactiveevent
+Thu, 23 May 2019 17:17:22 GMT: Verified?: 1
+Thu, 23 May 2019 17:17:22 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:17:22 GMT: No Active Event
+Thu, 23 May 2019 17:17:23 GMT: SessionID: getactiveevent
+Thu, 23 May 2019 17:17:23 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:17:23 GMT: Verified?: 1
+Thu, 23 May 2019 17:17:24 GMT: No Active Event
+Thu, 23 May 2019 17:18:22 GMT: SessionID: getinactiveevents
+Thu, 23 May 2019 17:18:22 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:18:22 GMT: Verified?: 1
+Thu, 23 May 2019 17:18:23 GMT: SessionID: getfavoriteevents
+Thu, 23 May 2019 17:18:23 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:18:23 GMT: Verified?: 1
+Thu, 23 May 2019 17:18:26 GMT: SessionID: getinactiveevents
+Thu, 23 May 2019 17:18:26 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:18:26 GMT: Verified?: 1
+Thu, 23 May 2019 17:18:27 GMT: SessionID: getfavoriteevents
+Thu, 23 May 2019 17:18:27 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:18:27 GMT: Verified?: 1
+Thu, 23 May 2019 17:18:28 GMT: SessionID: getactiveevent
+Thu, 23 May 2019 17:18:28 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:18:28 GMT: Verified?: 1
+Thu, 23 May 2019 17:18:29 GMT: No Active Event
+Thu, 23 May 2019 17:18:47 GMT: SessionID: getinactiveevents
+Thu, 23 May 2019 17:18:47 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:18:47 GMT: Verified?: 1
+Thu, 23 May 2019 17:18:48 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:18:48 GMT: Verified?: 1
+Thu, 23 May 2019 17:18:48 GMT: SessionID: getfavoriteevents
+Thu, 23 May 2019 17:18:49 GMT: SessionID: getactiveevent
+Thu, 23 May 2019 17:18:49 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:18:49 GMT: Verified?: 1
+Thu, 23 May 2019 17:18:49 GMT: No Active Event
+Thu, 23 May 2019 17:18:50 GMT: SessionID: getfavoriteevents
+Thu, 23 May 2019 17:18:50 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:18:50 GMT: Verified?: 1
+Thu, 23 May 2019 17:18:53 GMT: SessionID: getcontacts
+Thu, 23 May 2019 17:18:53 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:18:53 GMT: Verified?: 1
+Thu, 23 May 2019 17:19:18 GMT: SessionID: getcontacts
+Thu, 23 May 2019 17:19:18 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:19:18 GMT: Verified?: 1
+Thu, 23 May 2019 17:19:33 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:19:33 GMT: SessionID: newcontact
+Thu, 23 May 2019 17:19:33 GMT: Verified?: 1
+Thu, 23 May 2019 17:19:33 GMT: Insert Contact -- Name: Whitney
+Thu, 23 May 2019 17:19:33 GMT: RequestError: The INSERT statement conflicted with the FOREIGN KEY constraint "EmergencyContact_UserID_fk". The conflict occurred in database "BreadcrumbsDB", table "dbo.BCUser", column 'UserID'.
+Thu, 23 May 2019 17:19:35 GMT: SessionID: verifyauth
+Thu, 23 May 2019 17:19:35 GMT: Verified?: 1
+Thu, 23 May 2019 17:19:35 GMT: SessionID: getcontacts

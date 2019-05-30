@@ -1,0 +1,74 @@
+Thu, 25 Apr 2019 18:29:36 GMT: SessionID: getuser
+Thu, 25 Apr 2019 18:29:36 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:29:37 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:29:38 GMT: SessionID: getactiveevent
+Thu, 25 Apr 2019 18:29:38 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:29:39 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:29:39 GMT: No Active Event
+Thu, 25 Apr 2019 18:29:40 GMT: SessionID: getinactiveevents
+Thu, 25 Apr 2019 18:29:40 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:29:40 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:29:56 GMT: SessionID: getcontacts
+Thu, 25 Apr 2019 18:29:56 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:29:57 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:30:02 GMT: SessionID: getcontacts
+Thu, 25 Apr 2019 18:30:02 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:30:03 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:30:21 GMT: SessionID: newcontact
+Thu, 25 Apr 2019 18:30:21 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:30:21 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:30:22 GMT: Insert Contact -- Name: Tucker 
+Thu, 25 Apr 2019 18:30:22 GMT: Contact inserted
+Thu, 25 Apr 2019 18:30:22 GMT: SessionID: getcontacts
+Thu, 25 Apr 2019 18:30:22 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:30:23 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:30:28 GMT: SessionID: newevent
+Thu, 25 Apr 2019 18:30:28 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:30:29 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:30:29 GMT: Creating event for UserID: 62
+Thu, 25 Apr 2019 18:30:29 GMT: null
+Thu, 25 Apr 2019 18:30:30 GMT: SessionID: getactiveevent
+Thu, 25 Apr 2019 18:30:30 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:30:30 GMT: Contact Created
+Thu, 25 Apr 2019 18:30:57 GMT: SessionID: getactiveevent
+Thu, 25 Apr 2019 18:30:57 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:30:58 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:30:59 GMT: Active Event
+Thu, 25 Apr 2019 18:30:59 GMT: [object Object]
+Thu, 25 Apr 2019 18:31:05 GMT: SessionID: favoriteevent
+Thu, 25 Apr 2019 18:31:05 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:31:05 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:31:06 GMT: SessionID: favoriteevent
+Thu, 25 Apr 2019 18:31:06 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:31:07 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:31:07 GMT: SessionID: favoriteevent
+Thu, 25 Apr 2019 18:31:07 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:31:08 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:31:09 GMT: SessionID: favoriteevent
+Thu, 25 Apr 2019 18:31:09 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:31:10 GMT: SessionID: favoriteevent
+Thu, 25 Apr 2019 18:31:10 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:31:10 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:31:11 GMT: SessionID: favoriteevent
+Thu, 25 Apr 2019 18:31:11 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:31:11 GMT: SessionID: favoriteevent
+Thu, 25 Apr 2019 18:31:11 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:31:12 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:31:13 GMT: SessionID: getcontacts
+Thu, 25 Apr 2019 18:31:13 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:31:14 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:31:15 GMT: SessionID: favoriteevent
+Thu, 25 Apr 2019 18:31:15 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:31:16 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:31:16 GMT: SessionID: disableevent
+Thu, 25 Apr 2019 18:31:16 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:31:17 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:31:17 GMT: Disabling event: 224
+Thu, 25 Apr 2019 18:31:19 GMT: SessionID: getactiveevent
+Thu, 25 Apr 2019 18:31:19 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:31:20 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:31:21 GMT: No Active Event
+Thu, 25 Apr 2019 18:32:22 GMT: SessionID: getactiveevent
+Thu, 25 Apr 2019 18:32:22 GMT: SessionID: verifyauth
+Thu, 25 Apr 2019 18:32:23 GMT: Verified?: 1
+Thu, 25 Apr 2019 18:32:24 GMT: No Active Event

@@ -1,0 +1,76 @@
+Mon, 06 May 2019 18:04:26 GMT: SessionID: getuser
+Mon, 06 May 2019 18:04:26 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:04:26 GMT: Verified?: 1
+Mon, 06 May 2019 18:04:44 GMT: SessionID: getuserid
+Mon, 06 May 2019 18:04:44 GMT: In get UserID
+Mon, 06 May 2019 18:04:45 GMT: {"recordsets":[[{"UserID":50}]],"recordset":[{"UserID":50}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 18:04:45 GMT: SessionID: confirmuser
+Mon, 06 May 2019 18:04:45 GMT: Username:matt
+Mon, 06 May 2019 18:06:56 GMT: SessionID: getuserid
+Mon, 06 May 2019 18:06:56 GMT: In get UserID
+Mon, 06 May 2019 18:06:57 GMT: {"recordsets":[[{"UserID":54}]],"recordset":[{"UserID":54}],"output":{},"rowsAffected":[1,1,1]}
+Mon, 06 May 2019 18:06:57 GMT: SessionID: confirmuser
+Mon, 06 May 2019 18:06:57 GMT: Username:bunk
+Mon, 06 May 2019 18:06:59 GMT: SessionID: getuser
+Mon, 06 May 2019 18:06:59 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:06:59 GMT: Verified?: 1
+Mon, 06 May 2019 18:07:01 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:07:01 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:07:01 GMT: Verified?: 1
+Mon, 06 May 2019 18:07:01 GMT: No Active Event
+Mon, 06 May 2019 18:07:01 GMT: SessionID: getinactiveevents
+Mon, 06 May 2019 18:07:01 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:07:01 GMT: Verified?: 1
+Mon, 06 May 2019 18:07:10 GMT: SessionID: favoriteevent
+Mon, 06 May 2019 18:07:10 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:07:10 GMT: Verified?: 1
+Mon, 06 May 2019 18:07:10 GMT: SessionID: favoriteevent
+Mon, 06 May 2019 18:07:10 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:07:10 GMT: Verified?: 1
+Mon, 06 May 2019 18:07:17 GMT: SessionID: favoriteevent
+Mon, 06 May 2019 18:07:17 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:07:17 GMT: Verified?: 1
+Mon, 06 May 2019 18:07:18 GMT: SessionID: favoriteevent
+Mon, 06 May 2019 18:07:18 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:07:18 GMT: Verified?: 1
+Mon, 06 May 2019 18:07:20 GMT: SessionID: favoriteevent
+Mon, 06 May 2019 18:07:20 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:07:20 GMT: Verified?: 1
+Mon, 06 May 2019 18:07:20 GMT: SessionID: favoriteevent
+Mon, 06 May 2019 18:07:20 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:07:20 GMT: Verified?: 1
+Mon, 06 May 2019 18:07:20 GMT: SessionID: favoriteevent
+Mon, 06 May 2019 18:07:20 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:07:20 GMT: Verified?: 1
+Mon, 06 May 2019 18:07:20 GMT: SessionID: favoriteevent
+Mon, 06 May 2019 18:07:20 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:07:20 GMT: Verified?: 1
+Mon, 06 May 2019 18:36:56 GMT: SessionID: getuser
+Mon, 06 May 2019 18:36:56 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:36:56 GMT: Verified?: 1
+Mon, 06 May 2019 18:36:57 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:36:57 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:36:57 GMT: Verified?: 1
+Mon, 06 May 2019 18:37:17 GMT: SessionID: getinactiveevents
+Mon, 06 May 2019 18:37:17 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:37:17 GMT: Verified?: 1
+Mon, 06 May 2019 18:37:18 GMT: SessionID: getcontacts
+Mon, 06 May 2019 18:37:18 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:37:18 GMT: Verified?: 1
+Mon, 06 May 2019 18:39:43 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:39:43 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:39:43 GMT: Verified?: 1
+Mon, 06 May 2019 18:39:44 GMT: No Active Event
+Mon, 06 May 2019 18:39:44 GMT: SessionID: getcontacts
+Mon, 06 May 2019 18:39:44 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:39:44 GMT: Verified?: 1
+Tue, 07 May 2019 03:02:09 GMT: SessionID: getuser
+Tue, 07 May 2019 03:02:09 GMT: SessionID: verifyauth
+Tue, 07 May 2019 03:02:09 GMT: Verified?: 1
+Tue, 07 May 2019 03:02:11 GMT: SessionID: getactiveevent
+Tue, 07 May 2019 03:02:11 GMT: SessionID: verifyauth
+Tue, 07 May 2019 03:02:11 GMT: Verified?: 1
+Tue, 07 May 2019 03:02:12 GMT: No Active Event
+Tue, 07 May 2019 03:02:12 GMT: SessionID: getinactiveevents
+Tue, 07 May 2019 03:02:12 GMT: SessionID: verifyauth
+Tue, 07 May 2019 03:02:12 GMT: Verified?: 1

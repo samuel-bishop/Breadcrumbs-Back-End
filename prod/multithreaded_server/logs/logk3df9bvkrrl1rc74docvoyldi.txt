@@ -1,0 +1,429 @@
+Thu, 02 May 2019 19:14:26 GMT: SessionID: getuser
+Thu, 02 May 2019 19:14:26 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:14:26 GMT: Verified?: 1
+Thu, 02 May 2019 19:14:27 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:14:27 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:14:27 GMT: Verified?: 1
+Thu, 02 May 2019 19:14:28 GMT: Active Event
+Thu, 02 May 2019 19:14:28 GMT: [object Object]
+Thu, 02 May 2019 19:14:28 GMT: SessionID: getinactiveevents
+Thu, 02 May 2019 19:14:28 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:14:28 GMT: Verified?: 1
+Thu, 02 May 2019 19:14:33 GMT: SessionID: disableevent
+Thu, 02 May 2019 19:14:33 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:14:33 GMT: Verified?: 1
+Thu, 02 May 2019 19:14:33 GMT: Disabling event: 284
+Thu, 02 May 2019 19:14:34 GMT: Event Disabled
+Thu, 02 May 2019 19:14:35 GMT: SessionID: getcontacts
+Thu, 02 May 2019 19:14:35 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:14:35 GMT: Verified?: 1
+Thu, 02 May 2019 19:14:54 GMT: SessionID: newevent
+Thu, 02 May 2019 19:14:54 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:14:54 GMT: Verified?: 1
+Thu, 02 May 2019 19:14:54 GMT: Creating event for UserID: 66
+Thu, 02 May 2019 19:14:54 GMT: null
+Thu, 02 May 2019 19:14:55 GMT: Event Created
+Thu, 02 May 2019 19:14:55 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:14:55 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:14:55 GMT: Verified?: 1
+Thu, 02 May 2019 19:14:56 GMT: Active Event
+Thu, 02 May 2019 19:14:56 GMT: [object Object]
+Thu, 02 May 2019 19:14:56 GMT: SessionID: geteventcontacts
+Thu, 02 May 2019 19:14:56 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:14:56 GMT: Verified?: 1
+Thu, 02 May 2019 19:14:59 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:14:59 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:14:59 GMT: Verified?: 1
+Thu, 02 May 2019 19:15:01 GMT: Active Event
+Thu, 02 May 2019 19:15:01 GMT: [object Object]
+Thu, 02 May 2019 19:21:09 GMT: SessionID: disableevent
+Thu, 02 May 2019 19:21:09 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:21:09 GMT: Verified?: 1
+Thu, 02 May 2019 19:21:09 GMT: Disabling event: 396
+Thu, 02 May 2019 19:21:10 GMT: Event Disabled
+Thu, 02 May 2019 19:21:11 GMT: SessionID: getcontacts
+Thu, 02 May 2019 19:21:11 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:21:11 GMT: Verified?: 1
+Thu, 02 May 2019 19:21:34 GMT: SessionID: newevent
+Thu, 02 May 2019 19:21:34 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:21:34 GMT: Verified?: 1
+Thu, 02 May 2019 19:21:34 GMT: Creating event for UserID: 66
+Thu, 02 May 2019 19:21:35 GMT: null
+Thu, 02 May 2019 19:21:35 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:21:35 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:21:35 GMT: Verified?: 1
+Thu, 02 May 2019 19:21:36 GMT: Event Created
+Thu, 02 May 2019 19:21:36 GMT: Active Event
+Thu, 02 May 2019 19:21:36 GMT: [object Object]
+Thu, 02 May 2019 19:21:37 GMT: SessionID: geteventcontacts
+Thu, 02 May 2019 19:21:37 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:21:37 GMT: Verified?: 1
+Thu, 02 May 2019 19:21:40 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:21:40 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:21:40 GMT: Verified?: 1
+Thu, 02 May 2019 19:21:41 GMT: Active Event
+Thu, 02 May 2019 19:21:41 GMT: [object Object]
+Thu, 02 May 2019 19:21:45 GMT: SessionID: favoriteevent
+Thu, 02 May 2019 19:21:45 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:21:45 GMT: Verified?: 1
+Thu, 02 May 2019 19:22:23 GMT: SessionID: favoriteevent
+Thu, 02 May 2019 19:22:23 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:22:23 GMT: Verified?: 1
+Thu, 02 May 2019 19:22:24 GMT: SessionID: favoriteevent
+Thu, 02 May 2019 19:22:24 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:22:24 GMT: Verified?: 1
+Thu, 02 May 2019 19:22:25 GMT: SessionID: favoriteevent
+Thu, 02 May 2019 19:22:25 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:22:25 GMT: Verified?: 1
+Thu, 02 May 2019 19:22:29 GMT: SessionID: favoriteevent
+Thu, 02 May 2019 19:22:29 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:22:29 GMT: Verified?: 1
+Thu, 02 May 2019 19:22:30 GMT: SessionID: favoriteevent
+Thu, 02 May 2019 19:22:30 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:22:30 GMT: Verified?: 1
+Thu, 02 May 2019 19:22:33 GMT: SessionID: favoriteevent
+Thu, 02 May 2019 19:22:33 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:22:33 GMT: Verified?: 1
+Thu, 02 May 2019 19:22:33 GMT: SessionID: favoriteevent
+Thu, 02 May 2019 19:22:33 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:22:33 GMT: Verified?: 1
+Thu, 02 May 2019 19:22:37 GMT: SessionID: favoriteevent
+Thu, 02 May 2019 19:22:37 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:22:37 GMT: Verified?: 1
+Thu, 02 May 2019 19:22:38 GMT: SessionID: favoriteevent
+Thu, 02 May 2019 19:22:38 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:22:38 GMT: Verified?: 1
+Thu, 02 May 2019 19:25:55 GMT: SessionID: disableevent
+Thu, 02 May 2019 19:25:55 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:25:55 GMT: Verified?: 1
+Thu, 02 May 2019 19:25:55 GMT: Disabling event: 397
+Thu, 02 May 2019 19:25:55 GMT: Event Disabled
+Thu, 02 May 2019 19:25:56 GMT: SessionID: getcontacts
+Thu, 02 May 2019 19:25:56 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:25:56 GMT: Verified?: 1
+Thu, 02 May 2019 19:26:07 GMT: SessionID: newevent
+Thu, 02 May 2019 19:26:07 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:26:07 GMT: Verified?: 1
+Thu, 02 May 2019 19:26:07 GMT: Creating event for UserID: 66
+Thu, 02 May 2019 19:26:07 GMT: null
+Thu, 02 May 2019 19:26:08 GMT: Event Created
+Thu, 02 May 2019 19:26:08 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:26:08 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:26:08 GMT: Verified?: 1
+Thu, 02 May 2019 19:26:09 GMT: Active Event
+Thu, 02 May 2019 19:26:09 GMT: [object Object]
+Thu, 02 May 2019 19:26:09 GMT: SessionID: geteventcontacts
+Thu, 02 May 2019 19:26:09 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:26:09 GMT: Verified?: 1
+Thu, 02 May 2019 19:26:13 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:26:13 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:26:13 GMT: Verified?: 1
+Thu, 02 May 2019 19:26:14 GMT: Active Event
+Thu, 02 May 2019 19:26:14 GMT: [object Object]
+Thu, 02 May 2019 19:31:30 GMT: SessionID: getcontacts
+Thu, 02 May 2019 19:31:30 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:31:30 GMT: Verified?: 1
+Thu, 02 May 2019 19:31:34 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:31:34 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:31:34 GMT: Verified?: 1
+Thu, 02 May 2019 19:31:35 GMT: Active Event
+Thu, 02 May 2019 19:31:35 GMT: [object Object]
+Thu, 02 May 2019 19:31:37 GMT: SessionID: disableevent
+Thu, 02 May 2019 19:31:37 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:31:37 GMT: Verified?: 1
+Thu, 02 May 2019 19:31:37 GMT: Disabling event: 398
+Thu, 02 May 2019 19:31:37 GMT: Event Disabled
+Thu, 02 May 2019 19:31:38 GMT: SessionID: getcontacts
+Thu, 02 May 2019 19:31:38 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:31:38 GMT: Verified?: 1
+Thu, 02 May 2019 19:31:51 GMT: SessionID: newevent
+Thu, 02 May 2019 19:31:51 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:31:51 GMT: Verified?: 1
+Thu, 02 May 2019 19:31:51 GMT: Creating event for UserID: 66
+Thu, 02 May 2019 19:31:51 GMT: null
+Thu, 02 May 2019 19:31:52 GMT: Event Created
+Thu, 02 May 2019 19:31:52 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:31:52 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:31:52 GMT: Verified?: 1
+Thu, 02 May 2019 19:31:53 GMT: Active Event
+Thu, 02 May 2019 19:31:53 GMT: [object Object]
+Thu, 02 May 2019 19:31:53 GMT: SessionID: geteventcontacts
+Thu, 02 May 2019 19:31:53 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:31:53 GMT: Verified?: 1
+Thu, 02 May 2019 19:31:56 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:31:56 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:31:56 GMT: Verified?: 1
+Thu, 02 May 2019 19:31:57 GMT: Active Event
+Thu, 02 May 2019 19:31:57 GMT: [object Object]
+Thu, 02 May 2019 19:35:45 GMT: SessionID: disableevent
+Thu, 02 May 2019 19:35:45 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:35:45 GMT: Verified?: 1
+Thu, 02 May 2019 19:35:45 GMT: Disabling event: 399
+Thu, 02 May 2019 19:35:46 GMT: Event Disabled
+Thu, 02 May 2019 19:35:46 GMT: SessionID: getcontacts
+Thu, 02 May 2019 19:35:46 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:35:46 GMT: Verified?: 1
+Thu, 02 May 2019 19:36:09 GMT: SessionID: newevent
+Thu, 02 May 2019 19:36:09 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:36:09 GMT: Verified?: 1
+Thu, 02 May 2019 19:36:09 GMT: Creating event for UserID: 66
+Thu, 02 May 2019 19:36:09 GMT: null
+Thu, 02 May 2019 19:36:09 GMT: Event Created
+Thu, 02 May 2019 19:36:10 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:36:10 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:36:10 GMT: Verified?: 1
+Thu, 02 May 2019 19:36:11 GMT: Active Event
+Thu, 02 May 2019 19:36:11 GMT: [object Object]
+Thu, 02 May 2019 19:36:12 GMT: SessionID: geteventcontacts
+Thu, 02 May 2019 19:36:12 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:36:12 GMT: Verified?: 1
+Thu, 02 May 2019 19:36:16 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:36:16 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:36:16 GMT: Verified?: 1
+Thu, 02 May 2019 19:36:16 GMT: Active Event
+Thu, 02 May 2019 19:36:16 GMT: [object Object]
+Thu, 02 May 2019 19:38:27 GMT: SessionID: disableevent
+Thu, 02 May 2019 19:38:27 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:38:27 GMT: Verified?: 1
+Thu, 02 May 2019 19:38:27 GMT: Disabling event: 400
+Thu, 02 May 2019 19:38:28 GMT: Event Disabled
+Thu, 02 May 2019 19:38:44 GMT: SessionID: getcontacts
+Thu, 02 May 2019 19:38:44 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:38:44 GMT: Verified?: 1
+Thu, 02 May 2019 19:39:02 GMT: SessionID: newevent
+Thu, 02 May 2019 19:39:02 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:39:02 GMT: Verified?: 1
+Thu, 02 May 2019 19:39:02 GMT: Creating event for UserID: 66
+Thu, 02 May 2019 19:39:02 GMT: null
+Thu, 02 May 2019 19:39:03 GMT: Event Created
+Thu, 02 May 2019 19:39:03 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:39:03 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:39:03 GMT: Verified?: 1
+Thu, 02 May 2019 19:39:04 GMT: Active Event
+Thu, 02 May 2019 19:39:04 GMT: [object Object]
+Thu, 02 May 2019 19:39:04 GMT: SessionID: geteventcontacts
+Thu, 02 May 2019 19:39:04 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:39:04 GMT: Verified?: 1
+Thu, 02 May 2019 19:39:07 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:39:07 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:39:07 GMT: Verified?: 1
+Thu, 02 May 2019 19:39:09 GMT: Active Event
+Thu, 02 May 2019 19:39:09 GMT: [object Object]
+Thu, 02 May 2019 19:46:12 GMT: SessionID: disableevent
+Thu, 02 May 2019 19:46:12 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:46:12 GMT: Verified?: 1
+Thu, 02 May 2019 19:46:12 GMT: Disabling event: 401
+Thu, 02 May 2019 19:46:13 GMT: Event Disabled
+Thu, 02 May 2019 19:46:14 GMT: SessionID: getcontacts
+Thu, 02 May 2019 19:46:14 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:46:14 GMT: Verified?: 1
+Thu, 02 May 2019 19:46:28 GMT: SessionID: newevent
+Thu, 02 May 2019 19:46:28 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:46:28 GMT: Verified?: 1
+Thu, 02 May 2019 19:46:28 GMT: Creating event for UserID: 66
+Thu, 02 May 2019 19:46:29 GMT: null
+Thu, 02 May 2019 19:46:29 GMT: Event Created
+Thu, 02 May 2019 19:46:30 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:46:30 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:46:30 GMT: Verified?: 1
+Thu, 02 May 2019 19:46:30 GMT: Active Event
+Thu, 02 May 2019 19:46:30 GMT: [object Object]
+Thu, 02 May 2019 19:46:30 GMT: SessionID: geteventcontacts
+Thu, 02 May 2019 19:46:30 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:46:30 GMT: Verified?: 1
+Thu, 02 May 2019 19:46:33 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:46:33 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:46:33 GMT: Verified?: 1
+Thu, 02 May 2019 19:46:34 GMT: Active Event
+Thu, 02 May 2019 19:46:34 GMT: [object Object]
+Thu, 02 May 2019 19:53:09 GMT: SessionID: getcontacts
+Thu, 02 May 2019 19:53:09 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:53:09 GMT: Verified?: 1
+Thu, 02 May 2019 19:53:33 GMT: SessionID: newevent
+Thu, 02 May 2019 19:53:33 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:53:33 GMT: Verified?: 1
+Thu, 02 May 2019 19:53:33 GMT: Creating event for UserID: 66
+Thu, 02 May 2019 19:53:33 GMT: null
+Thu, 02 May 2019 19:53:34 GMT: Event Created
+Thu, 02 May 2019 19:53:34 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:53:34 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:53:34 GMT: Verified?: 1
+Thu, 02 May 2019 19:53:35 GMT: Active Event
+Thu, 02 May 2019 19:53:35 GMT: [object Object]
+Thu, 02 May 2019 19:53:35 GMT: SessionID: geteventcontacts
+Thu, 02 May 2019 19:53:35 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:53:35 GMT: Verified?: 1
+Thu, 02 May 2019 19:53:38 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 19:53:38 GMT: SessionID: verifyauth
+Thu, 02 May 2019 19:53:38 GMT: Verified?: 1
+Thu, 02 May 2019 19:53:39 GMT: Active Event
+Thu, 02 May 2019 19:53:39 GMT: [object Object]
+Thu, 02 May 2019 20:24:47 GMT: SessionID: getcontacts
+Thu, 02 May 2019 20:24:47 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:24:47 GMT: Verified?: 1
+Thu, 02 May 2019 20:25:36 GMT: SessionID: getuser
+Thu, 02 May 2019 20:25:36 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:25:36 GMT: Verified?: 1
+Thu, 02 May 2019 20:25:37 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 20:25:37 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:25:37 GMT: Verified?: 1
+Thu, 02 May 2019 20:25:37 GMT: Active Event
+Thu, 02 May 2019 20:25:38 GMT: [object Object]
+Thu, 02 May 2019 20:25:38 GMT: SessionID: getinactiveevents
+Thu, 02 May 2019 20:25:38 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:25:38 GMT: Verified?: 1
+Thu, 02 May 2019 20:25:39 GMT: SessionID: disableevent
+Thu, 02 May 2019 20:25:39 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:25:39 GMT: Verified?: 1
+Thu, 02 May 2019 20:25:39 GMT: Disabling event: 403
+Thu, 02 May 2019 20:25:40 GMT: Event Disabled
+Thu, 02 May 2019 20:26:58 GMT: SessionID: getcontacts
+Thu, 02 May 2019 20:26:58 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:26:58 GMT: Verified?: 1
+Thu, 02 May 2019 20:27:20 GMT: SessionID: newevent
+Thu, 02 May 2019 20:27:20 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:27:20 GMT: Verified?: 1
+Thu, 02 May 2019 20:27:20 GMT: Creating event for UserID: 66
+Thu, 02 May 2019 20:27:21 GMT: null
+Thu, 02 May 2019 20:27:21 GMT: Event Created
+Thu, 02 May 2019 20:27:22 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 20:27:22 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:27:22 GMT: Verified?: 1
+Thu, 02 May 2019 20:27:22 GMT: Active Event
+Thu, 02 May 2019 20:27:22 GMT: [object Object]
+Thu, 02 May 2019 20:27:23 GMT: SessionID: geteventcontacts
+Thu, 02 May 2019 20:27:23 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:27:23 GMT: Verified?: 1
+Thu, 02 May 2019 20:27:26 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 20:27:26 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:27:26 GMT: Verified?: 1
+Thu, 02 May 2019 20:27:27 GMT: Active Event
+Thu, 02 May 2019 20:27:27 GMT: [object Object]
+Thu, 02 May 2019 20:30:21 GMT: SessionID: disableevent
+Thu, 02 May 2019 20:30:21 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:30:21 GMT: Verified?: 1
+Thu, 02 May 2019 20:30:21 GMT: Disabling event: 404
+Thu, 02 May 2019 20:30:22 GMT: Event Disabled
+Thu, 02 May 2019 20:30:30 GMT: SessionID: getactiveevent
+Thu, 02 May 2019 20:30:30 GMT: SessionID: verifyauth
+Thu, 02 May 2019 20:30:30 GMT: Verified?: 1
+Thu, 02 May 2019 20:30:31 GMT: No Active Event
+Mon, 06 May 2019 18:04:28 GMT: SessionID: getuser
+Mon, 06 May 2019 18:04:28 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:04:28 GMT: Verified?: 1
+Mon, 06 May 2019 18:04:29 GMT: SessionID: getinactiveevents
+Mon, 06 May 2019 18:04:29 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:04:29 GMT: Verified?: 1
+Mon, 06 May 2019 18:04:29 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:04:29 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:04:29 GMT: Verified?: 1
+Mon, 06 May 2019 18:04:30 GMT: No Active Event
+Mon, 06 May 2019 18:04:33 GMT: SessionID: getcontacts
+Mon, 06 May 2019 18:04:33 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:04:33 GMT: Verified?: 1
+Mon, 06 May 2019 18:05:21 GMT: SessionID: newevent
+Mon, 06 May 2019 18:05:21 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:05:21 GMT: Verified?: 1
+Mon, 06 May 2019 18:05:21 GMT: Creating event for UserID: 66
+Mon, 06 May 2019 18:05:21 GMT: null
+Mon, 06 May 2019 18:05:21 GMT: Event Created
+Mon, 06 May 2019 18:05:22 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:05:22 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:05:22 GMT: Verified?: 1
+Mon, 06 May 2019 18:05:22 GMT: Active Event
+Mon, 06 May 2019 18:05:22 GMT: [object Object]
+Mon, 06 May 2019 18:05:23 GMT: SessionID: geteventcontacts
+Mon, 06 May 2019 18:05:23 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:05:23 GMT: Verified?: 1
+Mon, 06 May 2019 18:05:26 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:05:26 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:05:26 GMT: Verified?: 1
+Mon, 06 May 2019 18:05:26 GMT: SessionID: getinactiveevents
+Mon, 06 May 2019 18:05:26 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:05:26 GMT: Verified?: 1
+Mon, 06 May 2019 18:05:34 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:05:34 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:05:34 GMT: Verified?: 1
+Mon, 06 May 2019 18:05:34 GMT: Active Event
+Mon, 06 May 2019 18:05:34 GMT: [object Object]
+Mon, 06 May 2019 18:05:45 GMT: SessionID: disableevent
+Mon, 06 May 2019 18:05:45 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:05:45 GMT: Verified?: 1
+Mon, 06 May 2019 18:05:45 GMT: Disabling event: 408
+Mon, 06 May 2019 18:05:52 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:05:52 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:05:52 GMT: Verified?: 1
+Mon, 06 May 2019 18:05:52 GMT: Active Event
+Mon, 06 May 2019 18:05:52 GMT: [object Object]
+Mon, 06 May 2019 18:05:57 GMT: SessionID: disableevent
+Mon, 06 May 2019 18:05:57 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:05:57 GMT: Verified?: 1
+Mon, 06 May 2019 18:05:57 GMT: Disabling event: 408
+Mon, 06 May 2019 18:05:58 GMT: Event Disabled
+Mon, 06 May 2019 18:06:01 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:06:01 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:06:01 GMT: Verified?: 1
+Mon, 06 May 2019 18:06:02 GMT: No Active Event
+Mon, 06 May 2019 18:36:49 GMT: SessionID: getcontacts
+Mon, 06 May 2019 18:36:49 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:36:49 GMT: Verified?: 1
+Mon, 06 May 2019 18:37:17 GMT: SessionID: newevent
+Mon, 06 May 2019 18:37:17 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:37:17 GMT: Verified?: 1
+Mon, 06 May 2019 18:37:17 GMT: Creating event for UserID: 66
+Mon, 06 May 2019 18:37:18 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:37:18 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:37:18 GMT: Verified?: 1
+Mon, 06 May 2019 18:37:19 GMT: No Active Event
+Mon, 06 May 2019 18:37:19 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:37:19 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:37:19 GMT: Verified?: 1
+Mon, 06 May 2019 18:37:19 GMT: No Active Event
+Mon, 06 May 2019 18:37:38 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:37:38 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:37:38 GMT: Verified?: 1
+Mon, 06 May 2019 18:37:39 GMT: No Active Event
+Mon, 06 May 2019 18:37:51 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:37:51 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:37:51 GMT: Verified?: 1
+Mon, 06 May 2019 18:37:51 GMT: No Active Event
+Mon, 06 May 2019 18:38:00 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:38:00 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:38:00 GMT: Verified?: 1
+Mon, 06 May 2019 18:38:01 GMT: No Active Event
+Mon, 06 May 2019 18:38:11 GMT: SessionID: getcontacts
+Mon, 06 May 2019 18:38:11 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:38:11 GMT: Verified?: 1
+Mon, 06 May 2019 18:38:18 GMT: SessionID: newevent
+Mon, 06 May 2019 18:38:18 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:38:18 GMT: Verified?: 1
+Mon, 06 May 2019 18:38:18 GMT: Creating event for UserID: 66
+Mon, 06 May 2019 18:38:19 GMT: null
+Mon, 06 May 2019 18:38:19 GMT: Event Created
+Mon, 06 May 2019 18:38:19 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:38:19 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:38:19 GMT: Verified?: 1
+Mon, 06 May 2019 18:38:20 GMT: Active Event
+Mon, 06 May 2019 18:38:20 GMT: [object Object]
+Mon, 06 May 2019 18:38:20 GMT: SessionID: geteventcontacts
+Mon, 06 May 2019 18:38:20 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:38:20 GMT: Verified?: 1
+Mon, 06 May 2019 18:38:23 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:38:23 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:38:23 GMT: Verified?: 1
+Mon, 06 May 2019 18:38:24 GMT: Active Event
+Mon, 06 May 2019 18:38:24 GMT: [object Object]
+Mon, 06 May 2019 18:41:04 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:41:04 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:41:04 GMT: Verified?: 1
+Mon, 06 May 2019 18:41:04 GMT: Active Event
+Mon, 06 May 2019 18:41:04 GMT: [object Object]
+Mon, 06 May 2019 18:43:08 GMT: SessionID: disableevent
+Mon, 06 May 2019 18:43:08 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:43:08 GMT: Verified?: 1
+Mon, 06 May 2019 18:43:08 GMT: Disabling event: 411
+Mon, 06 May 2019 18:43:14 GMT: SessionID: getactiveevent
+Mon, 06 May 2019 18:43:14 GMT: SessionID: verifyauth
+Mon, 06 May 2019 18:43:14 GMT: Verified?: 1
+Mon, 06 May 2019 18:43:15 GMT: Active Event
+Mon, 06 May 2019 18:43:15 GMT: [object Object]

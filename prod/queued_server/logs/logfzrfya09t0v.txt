@@ -1,0 +1,247 @@
+Thu, 30 May 2019 15:47:20 GMT: SessionID: getuser
+Thu, 30 May 2019 15:47:20 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:20 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:21 GMT: SessionID: getinactiveevents
+Thu, 30 May 2019 15:47:21 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:21 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:21 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:47:21 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:21 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:22 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 15:47:22 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:22 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:23 GMT: No Active Event
+Thu, 30 May 2019 15:47:23 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:23 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:23 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:47:37 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:47:37 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:37 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:42 GMT: SessionID: getemail
+Thu, 30 May 2019 15:47:42 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:42 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:42 GMT: In get GetEmail
+Thu, 30 May 2019 15:47:43 GMT: [object Object]
+Thu, 30 May 2019 15:47:43 GMT: SessionID: updateaccount
+Thu, 30 May 2019 15:47:43 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:43 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:44 GMT: Update Account Query -- Name: Iza  gram
+Thu, 30 May 2019 15:47:50 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:47:50 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:50 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:54 GMT: SessionID: getinactiveevents
+Thu, 30 May 2019 15:47:54 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:54 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:55 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:47:55 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:55 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:56 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 15:47:56 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:47:56 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:57 GMT: No Active Event
+Thu, 30 May 2019 15:47:58 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:47:58 GMT: Verified?: 1
+Thu, 30 May 2019 15:47:58 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:15 GMT: SessionID: getemail
+Thu, 30 May 2019 15:48:15 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:15 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:15 GMT: In get GetEmail
+Thu, 30 May 2019 15:48:16 GMT: [object Object]
+Thu, 30 May 2019 15:48:17 GMT: SessionID: updateaccount
+Thu, 30 May 2019 15:48:17 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:17 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:17 GMT: Update Account Query -- Name:     Iza gram
+Thu, 30 May 2019 15:48:21 GMT: SessionID: getinactiveevents
+Thu, 30 May 2019 15:48:21 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:21 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:22 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:48:22 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:22 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:23 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:23 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:23 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 15:48:24 GMT: No Active Event
+Thu, 30 May 2019 15:48:25 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:48:25 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:25 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:33 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:48:33 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:33 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:38 GMT: SessionID: getemail
+Thu, 30 May 2019 15:48:38 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:38 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:38 GMT: In get GetEmail
+Thu, 30 May 2019 15:48:39 GMT: [object Object]
+Thu, 30 May 2019 15:48:39 GMT: SessionID: updateaccount
+Thu, 30 May 2019 15:48:39 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:39 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:39 GMT: Update Account Query -- Name: Iza
+Thu, 30 May 2019 15:48:39 GMT: Updated Account
+Thu, 30 May 2019 15:48:43 GMT: SessionID: getinactiveevents
+Thu, 30 May 2019 15:48:43 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:43 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:43 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:48:43 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:43 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:44 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:44 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:44 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 15:48:45 GMT: No Active Event
+Thu, 30 May 2019 15:48:45 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:48:45 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:45 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:50 GMT: SessionID: getemail
+Thu, 30 May 2019 15:48:50 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:50 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:50 GMT: In get GetEmail
+Thu, 30 May 2019 15:48:51 GMT: [object Object]
+Thu, 30 May 2019 15:48:51 GMT: SessionID: updateaccount
+Thu, 30 May 2019 15:48:51 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:51 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:51 GMT: Update Account Query -- Name: Iza gram
+Thu, 30 May 2019 15:48:55 GMT: SessionID: getinactiveevents
+Thu, 30 May 2019 15:48:55 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:55 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:56 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:48:56 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:56 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:57 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 15:48:57 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:57 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:57 GMT: No Active Event
+Thu, 30 May 2019 15:48:58 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:48:58 GMT: Verified?: 1
+Thu, 30 May 2019 15:48:58 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:49:03 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:49:03 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:49:03 GMT: Verified?: 1
+Thu, 30 May 2019 15:49:09 GMT: SessionID: getinactiveevents
+Thu, 30 May 2019 15:49:09 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:49:09 GMT: Verified?: 1
+Thu, 30 May 2019 15:49:10 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:49:10 GMT: Verified?: 1
+Thu, 30 May 2019 15:49:10 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:49:11 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 15:49:11 GMT: Verified?: 1
+Thu, 30 May 2019 15:49:11 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:49:11 GMT: No Active Event
+Thu, 30 May 2019 15:49:12 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:49:12 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:49:12 GMT: Verified?: 1
+Thu, 30 May 2019 15:49:19 GMT: SessionID: getinactiveevents
+Thu, 30 May 2019 15:49:19 GMT: Verified?: 1
+Thu, 30 May 2019 15:49:19 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:49:20 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:49:20 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:49:20 GMT: Verified?: 1
+Thu, 30 May 2019 15:49:21 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 15:49:21 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:49:21 GMT: Verified?: 1
+Thu, 30 May 2019 15:49:22 GMT: No Active Event
+Thu, 30 May 2019 15:49:22 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 15:49:22 GMT: Verified?: 1
+Thu, 30 May 2019 15:49:22 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:49:23 GMT: No Active Event
+Thu, 30 May 2019 15:49:23 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:49:23 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:49:23 GMT: Verified?: 1
+Thu, 30 May 2019 15:52:37 GMT: SessionID: getemail
+Thu, 30 May 2019 15:52:37 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:52:37 GMT: In get GetEmail
+Thu, 30 May 2019 15:52:37 GMT: Verified?: 1
+Thu, 30 May 2019 15:52:38 GMT: [object Object]
+Thu, 30 May 2019 15:52:38 GMT: SessionID: updateaccount
+Thu, 30 May 2019 15:52:38 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:52:38 GMT: Verified?: 1
+Thu, 30 May 2019 15:52:38 GMT: Update Account Query -- Name: Iza
+Thu, 30 May 2019 15:52:38 GMT: Updated Account
+Thu, 30 May 2019 15:52:42 GMT: SessionID: getinactiveevents
+Thu, 30 May 2019 15:52:42 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:52:42 GMT: Verified?: 1
+Thu, 30 May 2019 15:52:43 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:52:43 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:52:43 GMT: Verified?: 1
+Thu, 30 May 2019 15:52:44 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 15:52:44 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:52:44 GMT: Verified?: 1
+Thu, 30 May 2019 15:52:45 GMT: No Active Event
+Thu, 30 May 2019 15:53:05 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:53:05 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:53:05 GMT: Verified?: 1
+Thu, 30 May 2019 15:53:12 GMT: SessionID: getemail
+Thu, 30 May 2019 15:53:12 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:53:12 GMT: In get GetEmail
+Thu, 30 May 2019 15:53:12 GMT: Verified?: 1
+Thu, 30 May 2019 15:53:13 GMT: [object Object]
+Thu, 30 May 2019 15:53:13 GMT: SessionID: updateaccount
+Thu, 30 May 2019 15:53:13 GMT: Verified?: 1
+Thu, 30 May 2019 15:53:13 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:53:13 GMT: Update Account Query -- Name: Iza gram
+Thu, 30 May 2019 15:53:17 GMT: SessionID: getinactiveevents
+Thu, 30 May 2019 15:53:17 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:53:17 GMT: Verified?: 1
+Thu, 30 May 2019 15:53:18 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:53:18 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:53:18 GMT: Verified?: 1
+Thu, 30 May 2019 15:53:19 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 15:53:19 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:53:19 GMT: Verified?: 1
+Thu, 30 May 2019 15:53:19 GMT: No Active Event
+Thu, 30 May 2019 15:53:20 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:53:20 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:53:20 GMT: Verified?: 1
+Thu, 30 May 2019 15:54:40 GMT: SessionID: getuser
+Thu, 30 May 2019 15:54:40 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:54:40 GMT: Verified?: 1
+Thu, 30 May 2019 15:54:42 GMT: SessionID: getinactiveevents
+Thu, 30 May 2019 15:54:42 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:54:42 GMT: Verified?: 1
+Thu, 30 May 2019 15:54:42 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:54:42 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:54:42 GMT: Verified?: 1
+Thu, 30 May 2019 15:54:42 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 15:54:42 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:54:42 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 15:54:42 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:54:42 GMT: Verified?: 1
+Thu, 30 May 2019 15:54:42 GMT: Verified?: 1
+Thu, 30 May 2019 15:54:42 GMT: No Active Event
+Thu, 30 May 2019 15:54:45 GMT: SessionID: getaccount
+Thu, 30 May 2019 15:54:45 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:54:45 GMT: Verified?: 1
+Thu, 30 May 2019 15:55:09 GMT: SessionID: getcontacts
+Thu, 30 May 2019 15:55:09 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:55:09 GMT: Verified?: 1
+Thu, 30 May 2019 15:58:07 GMT: SessionID: newcontact
+Thu, 30 May 2019 15:58:07 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:58:07 GMT: Verified?: 1
+Thu, 30 May 2019 15:58:08 GMT: Insert Contact -- Name: Matthew
+Thu, 30 May 2019 15:58:08 GMT: SessionID: verifyauth
+Thu, 30 May 2019 15:58:08 GMT: Verified?: 1
+Thu, 30 May 2019 15:58:08 GMT: SessionID: getcontacts
+Thu, 30 May 2019 15:58:08 GMT: Contact inserted
+Thu, 30 May 2019 16:06:19 GMT: SessionID: verifyauth
+Thu, 30 May 2019 16:06:19 GMT: Verified?: 1
+Thu, 30 May 2019 16:06:19 GMT: SessionID: newevent
+Thu, 30 May 2019 16:06:19 GMT: Creating event for UserID: 42
+Thu, 30 May 2019 16:06:19 GMT: null
+Thu, 30 May 2019 16:06:20 GMT: Event Created
+Thu, 30 May 2019 16:06:23 GMT: SessionID: verifyauth
+Thu, 30 May 2019 16:06:23 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 16:06:23 GMT: Verified?: 1
+Thu, 30 May 2019 16:06:24 GMT: Active Event
+Thu, 30 May 2019 16:06:24 GMT: [object Object]
+Thu, 30 May 2019 16:06:24 GMT: SessionID: geteventcontacts
+Thu, 30 May 2019 16:06:24 GMT: SessionID: verifyauth
+Thu, 30 May 2019 16:06:24 GMT: Verified?: 1
+Thu, 30 May 2019 16:06:27 GMT: SessionID: getinactiveevents
+Thu, 30 May 2019 16:06:27 GMT: SessionID: verifyauth
+Thu, 30 May 2019 16:06:27 GMT: Verified?: 1
+Thu, 30 May 2019 16:06:27 GMT: SessionID: verifyauth
+Thu, 30 May 2019 16:06:27 GMT: Verified?: 1
+Thu, 30 May 2019 16:06:27 GMT: SessionID: getfavoriteevents
+Thu, 30 May 2019 16:06:28 GMT: SessionID: getactiveevent
+Thu, 30 May 2019 16:06:28 GMT: Verified?: 1
+Thu, 30 May 2019 16:06:28 GMT: SessionID: verifyauth
+Thu, 30 May 2019 16:06:29 GMT: Active Event
+Thu, 30 May 2019 16:06:29 GMT: [object Object]

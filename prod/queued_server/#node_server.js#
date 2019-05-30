@@ -1,0 +1,65 @@
+const {ConnectionPool} = require ('mssql');
+
+ = require('cors');
+server.use(cors());
+server.use(function (req, res, next) {
+
+    // Website you wish to allow to connect
+    res.setHeader('Access-Control-Allow-Origin', '*');
+
+    // Request methods you wish to allow
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT');
+
+    // Request headers you wish to allow
+    res.setHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, content-type');
+    res.setHeader('Access-Control-Allow-Credentials', true);
+
+    // Pass to next layer of middleware
+    next();
+});
+
+
+
+let sql_config = {
+    user: 'bcadmin',
+    password: 'bcjp2018!?',
+    server: 'breadcrumbs-db.cstdyx8knb63.us-west-2.rds.amazonaws.com',
+    host: '1433',
+    database: 'BreadcrumbsDB'
+};
+ 
+
+server.listen(4600, async () => {
+    pool = await new ConnectionPool(sql_config).connect();
+    if (pool == null) {
+	console.log('Connection not established to sql server..');
+    }
+    pool.close();
+    console.log('Listening on port 4600..');
+});
+
+server.post('/updateData/', function (req, res, next) {
+    if (!req.is('application/json')) {
+	return next(
+	    new errors.InvalidContentError("Expects 'application/json'"),
+	);
+    }
+
+    let data = req.body || {};
+    let auth = req.header('AuthToken');
+    let sesh = req.header('SessionID');
+    let path = `logs/log${auth}`;
+
+    console.log(sesh);
+    
+});
+
+server.get('/getData/', function (req, res, next) {
+    
+    let auth = req.header('AuthToken');
+    let sesh = req.header('SessionID');
+    let path = `logs/log${auth}`;
+
+    console.log(sesh);
+
+});

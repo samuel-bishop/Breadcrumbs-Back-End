@@ -1,0 +1,17 @@
+Wed, 24 Apr 2019 00:35:38 GMT: SessionID: getuser
+Wed, 24 Apr 2019 00:35:38 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:35:39 GMT: Verified?: 1
+Wed, 24 Apr 2019 00:35:40 GMT: SessionID: getactiveevent
+Wed, 24 Apr 2019 00:35:40 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:35:41 GMT: Verified?: 1
+Wed, 24 Apr 2019 00:35:42 GMT: No Active Event
+Wed, 24 Apr 2019 00:35:42 GMT: SessionID: getinactiveevents
+Wed, 24 Apr 2019 00:35:42 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:35:43 GMT: Verified?: 1
+Wed, 24 Apr 2019 00:35:46 GMT: SessionID: getactiveevent
+Wed, 24 Apr 2019 00:35:46 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:35:47 GMT: Verified?: 1
+Wed, 24 Apr 2019 00:35:48 GMT: No Active Event
+Wed, 24 Apr 2019 00:35:48 GMT: SessionID: getaccount
+Wed, 24 Apr 2019 00:35:48 GMT: SessionID: verifyauth
+Wed, 24 Apr 2019 00:35:49 GMT: Verified?: 1

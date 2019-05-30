@@ -1,0 +1,19 @@
+Sun, 26 May 2019 16:13:18 GMT: SessionID: getuser
+Sun, 26 May 2019 16:13:18 GMT: SessionID: verifyauth
+Sun, 26 May 2019 16:13:18 GMT: Verified?: 1
+Sun, 26 May 2019 16:13:19 GMT: SessionID: getinactiveevents
+Sun, 26 May 2019 16:13:19 GMT: SessionID: verifyauth
+Sun, 26 May 2019 16:13:19 GMT: Verified?: 1
+Sun, 26 May 2019 16:13:20 GMT: SessionID: getfavoriteevents
+Sun, 26 May 2019 16:13:20 GMT: SessionID: verifyauth
+Sun, 26 May 2019 16:13:20 GMT: Verified?: 1
+Sun, 26 May 2019 16:13:21 GMT: SessionID: verifyauth
+Sun, 26 May 2019 16:13:21 GMT: Verified?: 1
+Sun, 26 May 2019 16:13:21 GMT: SessionID: getactiveevent
+Sun, 26 May 2019 16:13:22 GMT: No Active Event
+Sun, 26 May 2019 16:13:22 GMT: SessionID: getfavoriteevents
+Sun, 26 May 2019 16:13:22 GMT: SessionID: verifyauth
+Sun, 26 May 2019 16:13:22 GMT: Verified?: 1
+Sun, 26 May 2019 16:13:28 GMT: SessionID: getcontacts
+Sun, 26 May 2019 16:13:28 GMT: SessionID: verifyauth
+Sun, 26 May 2019 16:13:28 GMT: Verified?: 1
