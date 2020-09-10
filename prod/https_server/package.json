@@ -7,7 +7,7 @@
     "bcrypt": "^3.0.6",
     "cors": "^2.8.5",
     "fs": "^0.0.1-security",
-    "http-proxy": "^1.17.0",
+    "http-proxy": "^1.18.1",
     "mssql": "^5.1.0",
     "npm": "^6.9.0",
     "password-hash": "^1.2.2"
